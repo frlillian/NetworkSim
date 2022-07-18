@@ -1,0 +1,65 @@
+{
+    "name": "FightingPNT",
+    "finishedFlows": 0,
+    "flows": [
+        {
+            "name": "Antenna 1",
+            "startCondition": "clock",
+            "clock": 0,
+            "path": [
+                "SIPRNET",
+                "SIPRNET",
+                "EGS",
+                "EGS",
+                "EGS",
+                "EGS",
+                "EGS",
+                "EGS",
+                "EGS",
+                "EGS"
+            ]
+        },
+        {
+            "name": "Antenna 2",
+            "startCondition": "flow link",
+            "link": 2,
+            "flow": "Antenna 1",
+            "path": [
+                "EGS",
+                "EGS",
+                "EGS",
+                "EGS",
+                "EGS",
+                "EGS",
+                "EGS",
+                "EGS"
+            ]
+        },
+        {
+            "name": "Antenna 3",
+            "startCondition": "flow link",
+            "link": 2,
+            "flow": "Antenna 1",
+            "path": [
+                "EGS",
+                "EGS",
+                "EGS",
+                "EGS",
+                "EGS"
+            ]
+        },
+        {
+            "name": "Antenna 4",
+            "startCondition": "flow link",
+            "link": 2,
+            "flow": "Antenna 1",
+            "path": [
+                "EGS",
+                "EGS",
+                "EGS",
+                "EGS",
+                "EGS"
+            ]
+        }
+    ]
+}

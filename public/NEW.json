@@ -1,0 +1,14 @@
+{
+    "name": "NEW",
+    "finishedFlows": 0,
+    "flows": [
+        {
+            "name": "newFlow",
+            "startCondition": "clock",
+            "clock": 0,
+            "path": [
+                "IST"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "name": "MissleThreat",
+    "finishedFlows": 0,
+    "flows": [
+        {
+            "name": "Tasking Authority",
+            "startCondition": "clock",
+            "clock": 0,
+            "path": [
+                "RTS Comms",
+                "EGS",
+                "FORGE RGS"
+            ]
+        },
+        {
+            "name": "Quick Alert",
+            "startCondition": "flow link",
+            "flow": "Tasking Authority",
+            "link": 2,
+            "path": [
+                "GCNM",
+                "GCNM",
+                "IST"
+            ]
+        },
+        {
+            "name": "Missle Warning Center",
+            "startCondition": "flow link",
+            "flow": "Quick Alert",
+            "link": 1,
+            "path": [
+                "GCNM",
+                "IST",
+                "IST"
+            ]
+        },
+        {
+            "name": "continues to monitor event updates",
+            "startCondition": "flow link",
+            "flow": "Missle Warning Center",
+            "link": 1,
+            "path": [
+                "MARS"
+            ]
+        },
+        {
+            "name": "Ground Processing",
+            "startCondition": "flow link",
+            "flow": "Quick Alert",
+            "link": 1,
+            "path": [
+                "GCNM"
+            ]
+        }
+    ]
+}

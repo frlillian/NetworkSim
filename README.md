@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# Comunications Simpulation Script (CSS)
+This script alows users to simply simulate a hypethetical netork. THIS IS A SIMPLE TOOL AND SHOULD NOT BE CONSIDERED AN ACCURATE SIMULATION OF REAL CONDITIONS. To acomplish this, it uses three kinds of files. 
+First, the Network file. This file is responsable for creating a list of links that the network in question contains. These links may have an arbutary number of hosts connected to them (so they can support simulating networks on to themselves, rather than physical links). The nodes category is for organization an is not used in this instance of the script.
+Second, the vignettes files. These files describe a single "vignette" and must be named "\<vignette name\>.json". A vignette is a set of logicaly connected data flows. A data flow is simulated data moving from one point to another along, connected links. For example and vignette might be "Missle Threat", consiting of a data flow from the RTS Comms link to EGS to FORGE RGS and some other flow that starts when EGS is done transmiting. The ordered list of links a flow takes, is called it's path.
+Third, the Commands file. This file lists commands that order the start of vignettes at spesific times in the simulation. For example, a Commands file might order three Missle Threat vignettes to start at times 0, 20, and 40, and a Fighting PNT vignette at time 30.
+These three files come together to allow the user to determin how exactly data is transmited during the simulation.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### The Network File
+Each link in this file contains two critical variables: bandwidth and delay. The delay of a link is how long it takes for data to be loaded on to the wire (or it can be thought of as the classical networking delay). Bandwidth is the total bandwidth of the link. After waiting the delay time, a packet is trasmited using a proportion of the bandwith that is alocated to it (1/2 if there is one other packet on the link, 1/3 if two others, and so on). While not a perfect representation of network behavor, it is a heuristic. Each time unit, it will add it's proportion of the bandwidth to its transmited total. Once this number reaches 100 (currently all packets are 100 in size, but variable packet sizes might come in a future updata, if you need to have variable sizes on messages, consider transmiting mutiple times on the same link to simulate a larger message) it will be considered sent and the flow will move on to sending the next link in its path.
 
-## Available Scripts
+## Install
+Currently, this app can not be built functionaly for releace. To run the app follow the below instructions:
+1. clone this repo
+2. 
 
-In the project directory, you can run:
+### TODOs
+- finish documentation (1/2 day) - could do more, but there is some
 
-### `npm start`
+- input checking (1/2 day) - could do more, but there is some
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Error checking and out puts (1/2 day)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- add prioirty funtionality (1/2 day)
 
-### `npm test`
+- add variable message length (1/2 day)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Add output filtering by flow/command (1/3 day)
 
-### `npm run build`
+- Implement mechine learning / fuzzing (3 weeks)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Save state to file and load on reload, so it doen't boot user on save

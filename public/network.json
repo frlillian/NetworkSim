@@ -1,0 +1,91 @@
+{
+    "nodes": [
+        {
+            "name": "JOPC"
+        },
+        {
+            "name": "MWC"
+        },
+        {
+            "name": "NCA"
+        },
+        {
+            "name": "460th"
+        },
+        {
+            "name": "USSPACECOM/J3"
+        },
+        {
+            "name": "COCOM"
+        },
+        {
+            "name": "CSPOC"
+        }
+    ],
+    "links": {
+        "RTS Comms": {
+            "hosts": [
+                "JOPC",
+                "460th"
+            ],
+            "bandwidth": 25,
+            "delay": 1,
+            "numFlows": 0
+        },
+        "EGS": {
+            "hosts": [
+                "460th",
+                "GPS"
+            ],
+            "bandwidth": 40,
+            "delay": 1,
+            "numFlows": 0
+        },
+        "FORGE RGS": {
+            "hosts": [
+                "460th"
+            ],
+            "bandwidth": 40,
+            "delay": 1,
+            "numFlows": 0
+        },
+        "GCNM": {
+            "hosts": [
+                "MWC",
+                "460th"
+            ],
+            "bandwidth": 10,
+            "delay": 5,
+            "numFlows": 0
+        },
+        "IST": {
+            "hosts": [
+                "MWC",
+                "460th",
+                "NCA"
+            ],
+            "bandwidth": 10,
+            "delay": 10,
+            "numFlows": 0
+        },
+        "MARS": {
+            "hosts": [
+                "MWC",
+                "NCA"
+            ],
+            "bandwidth": 10,
+            "delay": 10,
+            "numFlows": 0
+        },
+        "SIPRNET": {
+            "hosts": [
+                "USSPACECOM/J3",
+                "COCOM",
+                "CSPOC"
+            ],
+            "bandwidth": 20,
+            "delay": 30,
+            "numFlows": 0
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "name": "NEWThreat",
+    "finishedFlows": 0,
+    "flows": [
+        {
+            "startCondition": "clock",
+            "name": "test",
+            "clock": 0,
+            "path": [
+                "EGS"
+            ]
+        }
+    ]
+}

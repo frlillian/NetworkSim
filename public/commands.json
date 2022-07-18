@@ -1,0 +1,24 @@
+{
+    "commands": {
+        " Launch One": {
+            "vignette": "MissleThreat",
+            "clock": 50
+        },
+        " Launch Two": {
+            "vignette": "MissleThreat",
+            "clock": 60
+        },
+        " Launch Three": {
+            "vignette": "MissleThreat",
+            "clock": 70
+        },
+        " PNT": {
+            "vignette": "FightingPNT",
+            "clock": 0
+        },
+        "PNT 2": {
+            "vignette": "FightingPNT",
+            "clock": 20
+        }
+    }
+}
