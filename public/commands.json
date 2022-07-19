@@ -15,10 +15,6 @@
         " PNT": {
             "vignette": "FightingPNT",
             "clock": 0
-        },
-        "PNT 2": {
-            "vignette": "FightingPNT",
-            "clock": 20
         }
     }
 }

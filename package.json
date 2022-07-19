@@ -27,11 +27,12 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+    "install": "npm install && pip install matplotlib",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dev": "concurrently -k \"BROWSER=none yarn start\" \"yarn:electron\"",
+    "dev": "concurrently -k \"yarn start\" \"yarn:electron\"",
     "electron": "wait-on tcp:3000 && electron .",
     "package": "electron-builder build --linux -c.extraMetadata.main=build/electron.js --publish never",
     "make": "electron-forge make",
@@ -77,7 +78,7 @@
       "repo": "electron-cra-example",
       "owner": "USSF"
     },
-    "directories":{
+    "directories": {
       "buildResources": "assets"
     }
   },

@@ -19,7 +19,6 @@ Finished Time Step 16
 Finished Time Step 17
 Finished Time Step 18
 Finished Time Step 19
-Starting PNT 2 Vignette at clock 20
 Finished Time Step 20
 Finished Time Step 21
 Finished Time Step 22
@@ -30,27 +29,22 @@ Finished Time Step 26
 Finished Time Step 27
 Finished Time Step 28
 Finished Time Step 29
-Flow Antenna 1 PNT 10.0% transmited on SIPRNET
-Finished Time Step 30
 Flow Antenna 1 PNT 20.0% transmited on SIPRNET
-Finished Time Step 31
-Flow Antenna 1 PNT 30.0% transmited on SIPRNET
-Finished Time Step 32
+Finished Time Step 30
 Flow Antenna 1 PNT 40.0% transmited on SIPRNET
-Finished Time Step 33
-Flow Antenna 1 PNT 50.0% transmited on SIPRNET
-Finished Time Step 34
+Finished Time Step 31
 Flow Antenna 1 PNT 60.0% transmited on SIPRNET
-Finished Time Step 35
-Flow Antenna 1 PNT 70.0% transmited on SIPRNET
-Finished Time Step 36
+Finished Time Step 32
 Flow Antenna 1 PNT 80.0% transmited on SIPRNET
-Finished Time Step 37
-Flow Antenna 1 PNT 90.0% transmited on SIPRNET
-Finished Time Step 38
+Finished Time Step 33
 Flow Antenna 1 PNT 100.0% transmited on SIPRNET
+Finished Time Step 34
+Flow Antenna 1 PNT 100.0% transmited on SIPRNET
+Finished Time Step 35
+Finished Time Step 36
+Finished Time Step 37
+Finished Time Step 38
 Finished Time Step 39
-Flow Antenna 1 PNT 100% transmited on SIPRNET
 Finished Time Step 40
 Finished Time Step 41
 Finished Time Step 42
@@ -61,37 +55,26 @@ Finished Time Step 46
 Finished Time Step 47
 Finished Time Step 48
 Finished Time Step 49
-Flow Antenna 1PNT 2 10.0% transmited on SIPRNET
 Starting  Launch One Vignette at clock 50
 Finished Time Step 50
-Flow Antenna 1PNT 2 20.0% transmited on SIPRNET
 Flow Tasking Authority Launch One 25.0% transmited on RTS Comms
 Finished Time Step 51
-Flow Antenna 1PNT 2 30.0% transmited on SIPRNET
 Flow Tasking Authority Launch One 50.0% transmited on RTS Comms
 Finished Time Step 52
-Flow Antenna 1PNT 2 40.0% transmited on SIPRNET
 Flow Tasking Authority Launch One 75.0% transmited on RTS Comms
 Finished Time Step 53
-Flow Antenna 1PNT 2 50.0% transmited on SIPRNET
 Flow Tasking Authority Launch One 100.0% transmited on RTS Comms
 Finished Time Step 54
-Flow Antenna 1PNT 2 60.0% transmited on SIPRNET
 Flow Tasking Authority Launch One 100.0% transmited on RTS Comms
 Finished Time Step 55
-Flow Antenna 1PNT 2 70.0% transmited on SIPRNET
 Flow Tasking Authority Launch One 40.0% transmited on EGS
 Finished Time Step 56
-Flow Antenna 1PNT 2 80.0% transmited on SIPRNET
 Flow Tasking Authority Launch One 80.0% transmited on EGS
 Finished Time Step 57
-Flow Antenna 1PNT 2 90.0% transmited on SIPRNET
 Flow Tasking Authority Launch One 100% transmited on EGS
 Finished Time Step 58
-Flow Antenna 1PNT 2 100.0% transmited on SIPRNET
 Flow Tasking Authority Launch One 100% transmited on EGS
 Finished Time Step 59
-Flow Antenna 1PNT 2 100% transmited on SIPRNET
 Flow Tasking Authority Launch One 40.0% transmited on FORGE RGS
 Starting  Launch Two Vignette at clock 60
 Finished Time Step 60
@@ -107,1792 +90,1169 @@ Flow Tasking Authority Launch Two 75.0% transmited on RTS Comms
 Finished Time Step 63
 Flow Tasking Authority Launch Two 100.0% transmited on RTS Comms
 Finished Time Step 64
+Flow Antenna 1 PNT 20.0% transmited on SIPRNET
 Flow Tasking Authority Launch Two 100.0% transmited on RTS Comms
 Finished Time Step 65
+Flow Antenna 1 PNT 40.0% transmited on SIPRNET
 Flow Tasking Authority Launch Two 40.0% transmited on EGS
 Finished Time Step 66
+Flow Antenna 1 PNT 60.0% transmited on SIPRNET
 Flow Tasking Authority Launch Two 80.0% transmited on EGS
 Flow Quick Alert Launch One 10.0% transmited on GCNM
 Finished Time Step 67
+Flow Antenna 1 PNT 80.0% transmited on SIPRNET
 Flow Tasking Authority Launch Two 100% transmited on EGS
 Flow Quick Alert Launch One 20.0% transmited on GCNM
 Finished Time Step 68
+Flow Antenna 1 PNT 100.0% transmited on SIPRNET
 Flow Tasking Authority Launch Two 100% transmited on EGS
 Flow Quick Alert Launch One 30.0% transmited on GCNM
 Finished Time Step 69
-Flow Antenna 1 PNT 10.0% transmited on SIPRNET
+Flow Antenna 1 PNT 100.0% transmited on SIPRNET
 Flow Tasking Authority Launch Two 40.0% transmited on FORGE RGS
 Flow Quick Alert Launch One 40.0% transmited on GCNM
 Starting  Launch Three Vignette at clock 70
 Finished Time Step 70
-Flow Antenna 1 PNT 20.0% transmited on SIPRNET
+Flow Antenna 1 PNT 40.0% transmited on EGS
 Flow Tasking Authority Launch Two 80.0% transmited on FORGE RGS
 Flow Quick Alert Launch One 50.0% transmited on GCNM
 Flow Tasking Authority Launch Three 25.0% transmited on RTS Comms
 Finished Time Step 71
-Flow Antenna 1 PNT 30.0% transmited on SIPRNET
+Flow Antenna 1 PNT 80.0% transmited on EGS
 Flow Tasking Authority Launch Two 100% transmited on FORGE RGS
 Flow Quick Alert Launch One 60.0% transmited on GCNM
 Flow Tasking Authority Launch Three 50.0% transmited on RTS Comms
 Starting flow Quick Alert Launch Two
 Finished Time Step 72
-Flow Antenna 1 PNT 40.0% transmited on SIPRNET
+Flow Antenna 1 PNT 100% transmited on EGS
 Flow Tasking Authority Launch Two 100% transmited on FORGE RGS
 Flow Quick Alert Launch One 65.0% transmited on GCNM
 Flow Tasking Authority Launch Three 75.0% transmited on RTS Comms
-Finished Time Step 73
-Flow Antenna 1 PNT 50.0% transmited on SIPRNET
-Flow Quick Alert Launch One 70.0% transmited on GCNM
-Flow Tasking Authority Launch Three 100.0% transmited on RTS Comms
-Finished Time Step 74
-Flow Antenna 1 PNT 60.0% transmited on SIPRNET
-Flow Quick Alert Launch One 75.0% transmited on GCNM
-Flow Tasking Authority Launch Three 100.0% transmited on RTS Comms
-Finished Time Step 75
-Flow Antenna 1 PNT 70.0% transmited on SIPRNET
-Flow Quick Alert Launch One 80.0% transmited on GCNM
-Flow Tasking Authority Launch Three 40.0% transmited on EGS
-Finished Time Step 76
-Flow Antenna 1 PNT 80.0% transmited on SIPRNET
-Flow Quick Alert Launch One 85.0% transmited on GCNM
-Flow Tasking Authority Launch Three 80.0% transmited on EGS
-Flow Quick Alert Launch Two 5.0% transmited on GCNM
-Finished Time Step 77
-Flow Antenna 1 PNT 90.0% transmited on SIPRNET
-Flow Quick Alert Launch One 90.0% transmited on GCNM
-Flow Tasking Authority Launch Three 100% transmited on EGS
-Flow Quick Alert Launch Two 10.0% transmited on GCNM
-Finished Time Step 78
-Flow Antenna 1 PNT 100.0% transmited on SIPRNET
-Flow Quick Alert Launch One 95.0% transmited on GCNM
-Flow Tasking Authority Launch Three 100% transmited on EGS
-Flow Quick Alert Launch Two 15.0% transmited on GCNM
-Finished Time Step 79
-Flow Antenna 1 PNT 100% transmited on SIPRNET
-Flow Quick Alert Launch One 100.0% transmited on GCNM
-Flow Tasking Authority Launch Three 40.0% transmited on FORGE RGS
-Flow Quick Alert Launch Two 25.0% transmited on GCNM
-Finished Time Step 80
-Flow Antenna 1 PNT 40.0% transmited on EGS
-Flow Quick Alert Launch One 100% transmited on GCNM
-Flow Tasking Authority Launch Three 80.0% transmited on FORGE RGS
-Flow Quick Alert Launch Two 30.0% transmited on GCNM
-Finished Time Step 81
-Flow Antenna 1 PNT 80.0% transmited on EGS
-Flow Tasking Authority Launch Three 100% transmited on FORGE RGS
-Flow Quick Alert Launch Two 35.0% transmited on GCNM
-Starting flow Quick Alert Launch Three
-Finished Time Step 82
-Flow Antenna 1 PNT 100% transmited on EGS
-Flow Tasking Authority Launch Three 100% transmited on FORGE RGS
-Flow Quick Alert Launch Two 38.333333333333336% transmited on GCNM
 Starting flow Antenna 2 PNT
 Starting flow Antenna 3 PNT
 Starting flow Antenna 4 PNT
-Finished Time Step 83
+Finished Time Step 73
 Flow Antenna 1 PNT 100% transmited on EGS
-Flow Quick Alert Launch Two 41.66666666666667% transmited on GCNM
+Flow Quick Alert Launch One 70.0% transmited on GCNM
+Flow Tasking Authority Launch Three 100.0% transmited on RTS Comms
 Flow Antenna 2 PNT 10.0% transmited on EGS
 Flow Antenna 3 PNT 10.0% transmited on EGS
 Flow Antenna 4 PNT 10.0% transmited on EGS
-Finished Time Step 84
+Finished Time Step 74
 Flow Antenna 1 PNT 10.0% transmited on EGS
-Flow Quick Alert Launch Two 45.00000000000001% transmited on GCNM
-Flow Antenna 2 PNT 20.0% transmited on EGS
-Flow Antenna 3 PNT 20.0% transmited on EGS
-Flow Antenna 4 PNT 20.0% transmited on EGS
-Finished Time Step 85
-Flow Antenna 1 PNT 20.0% transmited on EGS
-Flow Quick Alert Launch One 3.3333333333333335% transmited on GCNM
-Flow Quick Alert Launch Two 48.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 30.0% transmited on EGS
-Flow Antenna 3 PNT 30.0% transmited on EGS
-Flow Antenna 4 PNT 30.0% transmited on EGS
-Finished Time Step 86
-Flow Antenna 1 PNT 30.0% transmited on EGS
-Flow Quick Alert Launch One 6.666666666666667% transmited on GCNM
-Flow Quick Alert Launch Two 51.66666666666668% transmited on GCNM
-Flow Quick Alert Launch Three 3.3333333333333335% transmited on GCNM
-Flow Antenna 2 PNT 40.0% transmited on EGS
-Flow Antenna 3 PNT 40.0% transmited on EGS
-Flow Antenna 4 PNT 40.0% transmited on EGS
-Finished Time Step 87
-Flow Antenna 1 PNT 40.0% transmited on EGS
-Flow Quick Alert Launch One 10.0% transmited on GCNM
-Flow Quick Alert Launch Two 55.000000000000014% transmited on GCNM
-Flow Quick Alert Launch Three 6.666666666666667% transmited on GCNM
+Flow Quick Alert Launch One 75.0% transmited on GCNM
+Flow Tasking Authority Launch Three 100.0% transmited on RTS Comms
+Flow Antenna 2 PNT 18.0% transmited on EGS
+Flow Antenna 3 PNT 18.0% transmited on EGS
+Flow Antenna 4 PNT 18.0% transmited on EGS
+Finished Time Step 75
+Flow Antenna 1 PNT 18.0% transmited on EGS
+Flow Quick Alert Launch One 80.0% transmited on GCNM
+Flow Tasking Authority Launch Three 8.0% transmited on EGS
+Flow Antenna 2 PNT 26.0% transmited on EGS
+Flow Antenna 3 PNT 26.0% transmited on EGS
+Flow Antenna 4 PNT 26.0% transmited on EGS
+Finished Time Step 76
+Flow Antenna 1 PNT 26.0% transmited on EGS
+Flow Quick Alert Launch One 85.0% transmited on GCNM
+Flow Tasking Authority Launch Three 16.0% transmited on EGS
+Flow Quick Alert Launch Two 5.0% transmited on GCNM
+Flow Antenna 2 PNT 34.0% transmited on EGS
+Flow Antenna 3 PNT 34.0% transmited on EGS
+Flow Antenna 4 PNT 34.0% transmited on EGS
+Finished Time Step 77
+Flow Antenna 1 PNT 34.0% transmited on EGS
+Flow Quick Alert Launch One 90.0% transmited on GCNM
+Flow Tasking Authority Launch Three 24.0% transmited on EGS
+Flow Quick Alert Launch Two 10.0% transmited on GCNM
+Flow Antenna 2 PNT 42.0% transmited on EGS
+Flow Antenna 3 PNT 42.0% transmited on EGS
+Flow Antenna 4 PNT 42.0% transmited on EGS
+Finished Time Step 78
+Flow Antenna 1 PNT 42.0% transmited on EGS
+Flow Quick Alert Launch One 95.0% transmited on GCNM
+Flow Tasking Authority Launch Three 32.0% transmited on EGS
+Flow Quick Alert Launch Two 15.0% transmited on GCNM
 Flow Antenna 2 PNT 50.0% transmited on EGS
 Flow Antenna 3 PNT 50.0% transmited on EGS
 Flow Antenna 4 PNT 50.0% transmited on EGS
-Finished Time Step 88
+Finished Time Step 79
 Flow Antenna 1 PNT 50.0% transmited on EGS
-Flow Quick Alert Launch One 13.333333333333334% transmited on GCNM
-Flow Quick Alert Launch Two 58.33333333333335% transmited on GCNM
-Flow Quick Alert Launch Three 10.0% transmited on GCNM
-Flow Antenna 2 PNT 60.0% transmited on EGS
-Flow Antenna 3 PNT 60.0% transmited on EGS
-Flow Antenna 4 PNT 60.0% transmited on EGS
-Finished Time Step 89
-Flow Antenna 1 PNT 60.0% transmited on EGS
-Flow Antenna 1PNT 2 20.0% transmited on SIPRNET
-Flow Quick Alert Launch One 16.666666666666668% transmited on GCNM
-Flow Quick Alert Launch Two 61.666666666666686% transmited on GCNM
-Flow Quick Alert Launch Three 13.333333333333334% transmited on GCNM
-Flow Antenna 2 PNT 70.0% transmited on EGS
-Flow Antenna 3 PNT 70.0% transmited on EGS
-Flow Antenna 4 PNT 70.0% transmited on EGS
-Finished Time Step 90
-Flow Antenna 1 PNT 70.0% transmited on EGS
-Flow Antenna 1PNT 2 40.0% transmited on SIPRNET
-Flow Quick Alert Launch One 20.0% transmited on GCNM
-Flow Quick Alert Launch Two 65.00000000000001% transmited on GCNM
-Flow Quick Alert Launch Three 16.666666666666668% transmited on GCNM
-Flow Antenna 2 PNT 80.0% transmited on EGS
-Flow Antenna 3 PNT 80.0% transmited on EGS
-Flow Antenna 4 PNT 80.0% transmited on EGS
-Finished Time Step 91
-Flow Antenna 1 PNT 80.0% transmited on EGS
-Flow Antenna 1PNT 2 60.0% transmited on SIPRNET
-Flow Quick Alert Launch One 23.333333333333332% transmited on GCNM
-Flow Quick Alert Launch Two 68.33333333333334% transmited on GCNM
-Flow Quick Alert Launch Three 20.0% transmited on GCNM
+Flow Quick Alert Launch One 100.0% transmited on GCNM
+Flow Tasking Authority Launch Three 40.0% transmited on EGS
+Flow Quick Alert Launch Two 25.0% transmited on GCNM
+Flow Antenna 2 PNT 58.0% transmited on EGS
+Flow Antenna 3 PNT 58.0% transmited on EGS
+Flow Antenna 4 PNT 58.0% transmited on EGS
+Finished Time Step 80
+Flow Antenna 1 PNT 58.0% transmited on EGS
+Flow Quick Alert Launch One 100% transmited on GCNM
+Flow Tasking Authority Launch Three 48.0% transmited on EGS
+Flow Quick Alert Launch Two 30.0% transmited on GCNM
+Flow Antenna 2 PNT 66.0% transmited on EGS
+Flow Antenna 3 PNT 66.0% transmited on EGS
+Flow Antenna 4 PNT 66.0% transmited on EGS
+Finished Time Step 81
+Flow Antenna 1 PNT 66.0% transmited on EGS
+Flow Tasking Authority Launch Three 56.0% transmited on EGS
+Flow Quick Alert Launch Two 35.0% transmited on GCNM
+Flow Antenna 2 PNT 74.0% transmited on EGS
+Flow Antenna 3 PNT 74.0% transmited on EGS
+Flow Antenna 4 PNT 74.0% transmited on EGS
+Finished Time Step 82
+Flow Antenna 1 PNT 74.0% transmited on EGS
+Flow Tasking Authority Launch Three 64.0% transmited on EGS
+Flow Quick Alert Launch Two 40.0% transmited on GCNM
+Flow Antenna 2 PNT 82.0% transmited on EGS
+Flow Antenna 3 PNT 82.0% transmited on EGS
+Flow Antenna 4 PNT 82.0% transmited on EGS
+Finished Time Step 83
+Flow Antenna 1 PNT 82.0% transmited on EGS
+Flow Tasking Authority Launch Three 72.0% transmited on EGS
+Flow Quick Alert Launch Two 45.0% transmited on GCNM
 Flow Antenna 2 PNT 90.0% transmited on EGS
 Flow Antenna 3 PNT 90.0% transmited on EGS
 Flow Antenna 4 PNT 90.0% transmited on EGS
-Finished Time Step 92
+Finished Time Step 84
 Flow Antenna 1 PNT 90.0% transmited on EGS
-Flow Antenna 1PNT 2 80.0% transmited on SIPRNET
-Flow Quick Alert Launch One 26.666666666666664% transmited on GCNM
-Flow Quick Alert Launch Two 71.66666666666667% transmited on GCNM
-Flow Quick Alert Launch Three 23.333333333333332% transmited on GCNM
-Flow Antenna 2 PNT 100.0% transmited on EGS
-Flow Antenna 3 PNT 100% transmited on EGS
-Flow Antenna 4 PNT 100% transmited on EGS
-Finished Time Step 93
-Flow Antenna 1 PNT 100% transmited on EGS
-Flow Antenna 1PNT 2 100.0% transmited on SIPRNET
-Flow Quick Alert Launch One 29.999999999999996% transmited on GCNM
-Flow Quick Alert Launch Two 75.0% transmited on GCNM
-Flow Quick Alert Launch Three 26.666666666666664% transmited on GCNM
-Flow Antenna 2 PNT 100.0% transmited on EGS
-Flow Antenna 3 PNT 100% transmited on EGS
-Flow Antenna 4 PNT 100% transmited on EGS
-Finished Time Step 94
-Flow Antenna 1 PNT 100% transmited on EGS
-Flow Antenna 1PNT 2 100.0% transmited on SIPRNET
-Flow Quick Alert Launch One 33.33333333333333% transmited on GCNM
-Flow Quick Alert Launch Two 78.33333333333333% transmited on GCNM
-Flow Quick Alert Launch Three 29.999999999999996% transmited on GCNM
-Flow Antenna 2 PNT 8.0% transmited on EGS
-Flow Antenna 3 PNT 8.0% transmited on EGS
-Flow Antenna 4 PNT 8.0% transmited on EGS
-Finished Time Step 95
-Flow Antenna 1 PNT 8.0% transmited on EGS
-Flow Antenna 1PNT 2 8.0% transmited on EGS
-Flow Quick Alert Launch One 36.666666666666664% transmited on GCNM
-Flow Quick Alert Launch Two 81.66666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 33.33333333333333% transmited on GCNM
-Flow Antenna 2 PNT 16.0% transmited on EGS
-Flow Antenna 3 PNT 16.0% transmited on EGS
-Flow Antenna 4 PNT 16.0% transmited on EGS
-Finished Time Step 96
-Flow Antenna 1 PNT 16.0% transmited on EGS
-Flow Antenna 1PNT 2 16.0% transmited on EGS
-Flow Quick Alert Launch One 40.0% transmited on GCNM
-Flow Quick Alert Launch Two 84.99999999999999% transmited on GCNM
-Flow Quick Alert Launch Three 36.666666666666664% transmited on GCNM
-Flow Antenna 2 PNT 24.0% transmited on EGS
-Flow Antenna 3 PNT 24.0% transmited on EGS
-Flow Antenna 4 PNT 24.0% transmited on EGS
-Finished Time Step 97
-Flow Antenna 1 PNT 24.0% transmited on EGS
-Flow Antenna 1PNT 2 24.0% transmited on EGS
-Flow Quick Alert Launch One 43.333333333333336% transmited on GCNM
-Flow Quick Alert Launch Two 88.33333333333331% transmited on GCNM
-Flow Quick Alert Launch Three 40.0% transmited on GCNM
-Flow Antenna 2 PNT 32.0% transmited on EGS
-Flow Antenna 3 PNT 32.0% transmited on EGS
-Flow Antenna 4 PNT 32.0% transmited on EGS
-Finished Time Step 98
-Flow Antenna 1 PNT 32.0% transmited on EGS
-Flow Antenna 1PNT 2 32.0% transmited on EGS
-Flow Quick Alert Launch One 46.66666666666667% transmited on GCNM
-Flow Quick Alert Launch Two 91.66666666666664% transmited on GCNM
-Flow Quick Alert Launch Three 43.333333333333336% transmited on GCNM
-Flow Antenna 2 PNT 40.0% transmited on EGS
-Flow Antenna 3 PNT 40.0% transmited on EGS
-Flow Antenna 4 PNT 40.0% transmited on EGS
-Finished Time Step 99
-Flow Antenna 1 PNT 40.0% transmited on EGS
-Flow Antenna 1PNT 2 40.0% transmited on EGS
-Flow Quick Alert Launch One 50.00000000000001% transmited on GCNM
-Flow Quick Alert Launch Two 94.99999999999997% transmited on GCNM
-Flow Quick Alert Launch Three 46.66666666666667% transmited on GCNM
-Flow Antenna 2 PNT 48.0% transmited on EGS
-Flow Antenna 3 PNT 48.0% transmited on EGS
-Flow Antenna 4 PNT 48.0% transmited on EGS
-Finished Time Step 100
-Flow Antenna 1 PNT 48.0% transmited on EGS
-Flow Antenna 1PNT 2 48.0% transmited on EGS
-Flow Quick Alert Launch One 53.33333333333334% transmited on GCNM
-Flow Quick Alert Launch Two 98.3333333333333% transmited on GCNM
-Flow Quick Alert Launch Three 50.00000000000001% transmited on GCNM
-Flow Antenna 2 PNT 56.0% transmited on EGS
-Flow Antenna 3 PNT 56.0% transmited on EGS
-Flow Antenna 4 PNT 56.0% transmited on EGS
-Finished Time Step 101
-Flow Antenna 1 PNT 56.0% transmited on EGS
-Flow Antenna 1PNT 2 56.0% transmited on EGS
-Flow Quick Alert Launch One 56.66666666666668% transmited on GCNM
-Flow Quick Alert Launch Two 100% transmited on GCNM
-Flow Quick Alert Launch Three 55.00000000000001% transmited on GCNM
-Flow Antenna 2 PNT 64.0% transmited on EGS
-Flow Antenna 3 PNT 64.0% transmited on EGS
-Flow Antenna 4 PNT 64.0% transmited on EGS
-Finished Time Step 102
-Flow Antenna 1 PNT 64.0% transmited on EGS
-Flow Antenna 1PNT 2 64.0% transmited on EGS
-Flow Quick Alert Launch One 61.66666666666668% transmited on GCNM
-Flow Quick Alert Launch Two 100% transmited on GCNM
-Flow Quick Alert Launch Three 58.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 72.0% transmited on EGS
-Flow Antenna 3 PNT 72.0% transmited on EGS
-Flow Antenna 4 PNT 72.0% transmited on EGS
-Finished Time Step 103
-Flow Antenna 1 PNT 72.0% transmited on EGS
-Flow Antenna 1PNT 2 72.0% transmited on EGS
-Flow Quick Alert Launch One 65.00000000000001% transmited on GCNM
-Flow Quick Alert Launch Three 61.66666666666668% transmited on GCNM
-Flow Antenna 2 PNT 80.0% transmited on EGS
-Flow Antenna 3 PNT 80.0% transmited on EGS
-Flow Antenna 4 PNT 80.0% transmited on EGS
-Finished Time Step 104
-Flow Antenna 1 PNT 80.0% transmited on EGS
-Flow Antenna 1PNT 2 80.0% transmited on EGS
-Flow Quick Alert Launch One 68.33333333333334% transmited on GCNM
-Flow Quick Alert Launch Three 65.00000000000001% transmited on GCNM
-Flow Antenna 2 PNT 88.0% transmited on EGS
-Flow Antenna 3 PNT 88.0% transmited on EGS
-Flow Antenna 4 PNT 88.0% transmited on EGS
-Finished Time Step 105
-Flow Antenna 1 PNT 88.0% transmited on EGS
-Flow Antenna 1PNT 2 88.0% transmited on EGS
-Flow Quick Alert Launch One 71.66666666666667% transmited on GCNM
-Flow Quick Alert Launch Three 68.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 96.0% transmited on EGS
-Flow Antenna 3 PNT 96.0% transmited on EGS
-Flow Antenna 4 PNT 96.0% transmited on EGS
-Finished Time Step 106
-Flow Antenna 1 PNT 96.0% transmited on EGS
-Flow Antenna 1PNT 2 96.0% transmited on EGS
-Flow Quick Alert Launch One 75.0% transmited on GCNM
-Flow Quick Alert Launch Three 71.66666666666667% transmited on GCNM
+Flow Tasking Authority Launch Three 80.0% transmited on EGS
+Flow Quick Alert Launch Two 50.0% transmited on GCNM
+Flow Antenna 2 PNT 98.0% transmited on EGS
+Flow Antenna 3 PNT 98.0% transmited on EGS
+Flow Antenna 4 PNT 98.0% transmited on EGS
+Finished Time Step 85
+Flow Antenna 1 PNT 98.0% transmited on EGS
+Flow Quick Alert Launch One 5.0% transmited on GCNM
+Flow Tasking Authority Launch Three 88.0% transmited on EGS
+Flow Quick Alert Launch Two 55.0% transmited on GCNM
 Flow Antenna 2 PNT 100% transmited on EGS
 Flow Antenna 3 PNT 100% transmited on EGS
 Flow Antenna 4 PNT 100% transmited on EGS
-Finished Time Step 107
+Finished Time Step 86
 Flow Antenna 1 PNT 100% transmited on EGS
-Flow Antenna 1PNT 2 100% transmited on EGS
-Flow Quick Alert Launch One 78.33333333333333% transmited on GCNM
-Flow Quick Alert Launch Two 3.3333333333333335% transmited on GCNM
-Flow Quick Alert Launch Three 75.0% transmited on GCNM
+Flow Quick Alert Launch One 10.0% transmited on GCNM
+Flow Tasking Authority Launch Three 100% transmited on EGS
+Flow Quick Alert Launch Two 60.0% transmited on GCNM
 Flow Antenna 2 PNT 100% transmited on EGS
 Flow Antenna 3 PNT 100% transmited on EGS
 Flow Antenna 4 PNT 100% transmited on EGS
-Starting flow Antenna 2PNT 2
-Starting flow Antenna 3PNT 2
-Starting flow Antenna 4PNT 2
-Finished Time Step 108
+Finished Time Step 87
 Flow Antenna 1 PNT 100% transmited on EGS
-Flow Antenna 1PNT 2 100% transmited on EGS
-Flow Quick Alert Launch One 81.66666666666666% transmited on GCNM
-Flow Quick Alert Launch Two 6.666666666666667% transmited on GCNM
-Flow Quick Alert Launch Three 78.33333333333333% transmited on GCNM
-Flow Antenna 2 PNT 5.0% transmited on EGS
-Flow Antenna 3 PNT 5.0% transmited on EGS
-Flow Antenna 4 PNT 5.0% transmited on EGS
-Flow Antenna 2PNT 2 5.0% transmited on EGS
-Flow Antenna 3PNT 2 5.0% transmited on EGS
-Flow Antenna 4PNT 2 5.0% transmited on EGS
-Finished Time Step 109
-Flow Antenna 1 PNT 5.0% transmited on EGS
-Flow Antenna 1PNT 2 5.0% transmited on EGS
-Flow Quick Alert Launch One 84.99999999999999% transmited on GCNM
-Flow Quick Alert Launch Two 10.0% transmited on GCNM
-Flow Quick Alert Launch Three 81.66666666666666% transmited on GCNM
+Flow Quick Alert Launch One 15.0% transmited on GCNM
+Flow Tasking Authority Launch Three 100% transmited on EGS
+Flow Quick Alert Launch Two 65.0% transmited on GCNM
 Flow Antenna 2 PNT 10.0% transmited on EGS
 Flow Antenna 3 PNT 10.0% transmited on EGS
 Flow Antenna 4 PNT 10.0% transmited on EGS
-Flow Antenna 2PNT 2 10.0% transmited on EGS
-Flow Antenna 3PNT 2 10.0% transmited on EGS
-Flow Antenna 4PNT 2 10.0% transmited on EGS
-Finished Time Step 110
+Finished Time Step 88
 Flow Antenna 1 PNT 10.0% transmited on EGS
-Flow Antenna 1PNT 2 10.0% transmited on EGS
-Flow Quick Alert Launch One 88.33333333333331% transmited on GCNM
-Flow Quick Alert Launch Two 13.333333333333334% transmited on GCNM
-Flow Quick Alert Launch Three 84.99999999999999% transmited on GCNM
-Flow Antenna 2 PNT 15.0% transmited on EGS
-Flow Antenna 3 PNT 15.0% transmited on EGS
-Flow Antenna 4 PNT 15.0% transmited on EGS
-Flow Antenna 2PNT 2 15.0% transmited on EGS
-Flow Antenna 3PNT 2 15.0% transmited on EGS
-Flow Antenna 4PNT 2 15.0% transmited on EGS
-Finished Time Step 111
-Flow Antenna 1 PNT 15.0% transmited on EGS
-Flow Antenna 1PNT 2 15.0% transmited on EGS
-Flow Quick Alert Launch One 91.66666666666664% transmited on GCNM
-Flow Quick Alert Launch Two 16.666666666666668% transmited on GCNM
-Flow Quick Alert Launch Three 88.33333333333331% transmited on GCNM
+Flow Quick Alert Launch One 20.0% transmited on GCNM
+Flow Tasking Authority Launch Three 40.0% transmited on FORGE RGS
+Flow Quick Alert Launch Two 70.0% transmited on GCNM
 Flow Antenna 2 PNT 20.0% transmited on EGS
 Flow Antenna 3 PNT 20.0% transmited on EGS
 Flow Antenna 4 PNT 20.0% transmited on EGS
-Flow Antenna 2PNT 2 20.0% transmited on EGS
-Flow Antenna 3PNT 2 20.0% transmited on EGS
-Flow Antenna 4PNT 2 20.0% transmited on EGS
-Finished Time Step 112
+Finished Time Step 89
 Flow Antenna 1 PNT 20.0% transmited on EGS
-Flow Antenna 1PNT 2 20.0% transmited on EGS
-Flow Quick Alert Launch One 94.99999999999997% transmited on GCNM
-Flow Quick Alert Launch Two 20.0% transmited on GCNM
-Flow Quick Alert Launch Three 91.66666666666664% transmited on GCNM
-Flow Antenna 2 PNT 25.0% transmited on EGS
-Flow Antenna 3 PNT 25.0% transmited on EGS
-Flow Antenna 4 PNT 25.0% transmited on EGS
-Flow Antenna 2PNT 2 25.0% transmited on EGS
-Flow Antenna 3PNT 2 25.0% transmited on EGS
-Flow Antenna 4PNT 2 25.0% transmited on EGS
-Finished Time Step 113
-Flow Antenna 1 PNT 25.0% transmited on EGS
-Flow Antenna 1PNT 2 25.0% transmited on EGS
-Flow Quick Alert Launch One 98.3333333333333% transmited on GCNM
-Flow Quick Alert Launch Two 23.333333333333332% transmited on GCNM
-Flow Quick Alert Launch Three 94.99999999999997% transmited on GCNM
+Flow Quick Alert Launch One 25.0% transmited on GCNM
+Flow Tasking Authority Launch Three 80.0% transmited on FORGE RGS
+Flow Quick Alert Launch Two 75.0% transmited on GCNM
 Flow Antenna 2 PNT 30.0% transmited on EGS
 Flow Antenna 3 PNT 30.0% transmited on EGS
 Flow Antenna 4 PNT 30.0% transmited on EGS
-Flow Antenna 2PNT 2 30.0% transmited on EGS
-Flow Antenna 3PNT 2 30.0% transmited on EGS
-Flow Antenna 4PNT 2 30.0% transmited on EGS
-Finished Time Step 114
+Finished Time Step 90
 Flow Antenna 1 PNT 30.0% transmited on EGS
-Flow Antenna 1PNT 2 30.0% transmited on EGS
-Flow Quick Alert Launch One 100% transmited on GCNM
-Flow Quick Alert Launch Two 28.333333333333332% transmited on GCNM
-Flow Quick Alert Launch Three 99.99999999999997% transmited on GCNM
-Flow Antenna 2 PNT 35.0% transmited on EGS
-Flow Antenna 3 PNT 35.0% transmited on EGS
-Flow Antenna 4 PNT 35.0% transmited on EGS
-Flow Antenna 2PNT 2 35.0% transmited on EGS
-Flow Antenna 3PNT 2 35.0% transmited on EGS
-Flow Antenna 4PNT 2 35.0% transmited on EGS
-Starting flow Missle Warning Center Launch One
-Starting flow Ground Processing Launch One
-Finished Time Step 115
-Flow Antenna 1 PNT 35.0% transmited on EGS
-Flow Antenna 1PNT 2 35.0% transmited on EGS
-Flow Quick Alert Launch One 100% transmited on GCNM
-Flow Quick Alert Launch Two 30.833333333333332% transmited on GCNM
-Flow Quick Alert Launch Three 100% transmited on GCNM
+Flow Quick Alert Launch One 30.0% transmited on GCNM
+Flow Tasking Authority Launch Three 100% transmited on FORGE RGS
+Flow Quick Alert Launch Two 80.0% transmited on GCNM
 Flow Antenna 2 PNT 40.0% transmited on EGS
 Flow Antenna 3 PNT 40.0% transmited on EGS
 Flow Antenna 4 PNT 40.0% transmited on EGS
-Flow Antenna 2PNT 2 40.0% transmited on EGS
-Flow Antenna 3PNT 2 40.0% transmited on EGS
-Flow Antenna 4PNT 2 40.0% transmited on EGS
-Finished Time Step 116
+Starting flow Quick Alert Launch Three
+Finished Time Step 91
 Flow Antenna 1 PNT 40.0% transmited on EGS
-Flow Antenna 1PNT 2 40.0% transmited on EGS
+Flow Quick Alert Launch One 33.333333333333336% transmited on GCNM
+Flow Tasking Authority Launch Three 100% transmited on FORGE RGS
+Flow Quick Alert Launch Two 83.33333333333333% transmited on GCNM
+Flow Antenna 2 PNT 50.0% transmited on EGS
+Flow Antenna 3 PNT 50.0% transmited on EGS
+Flow Antenna 4 PNT 50.0% transmited on EGS
+Finished Time Step 92
+Flow Antenna 1 PNT 50.0% transmited on EGS
+Flow Quick Alert Launch One 36.66666666666667% transmited on GCNM
+Flow Quick Alert Launch Two 86.66666666666666% transmited on GCNM
+Flow Antenna 2 PNT 60.0% transmited on EGS
+Flow Antenna 3 PNT 60.0% transmited on EGS
+Flow Antenna 4 PNT 60.0% transmited on EGS
+Finished Time Step 93
+Flow Antenna 1 PNT 60.0% transmited on EGS
+Flow Quick Alert Launch One 40.00000000000001% transmited on GCNM
+Flow Quick Alert Launch Two 89.99999999999999% transmited on GCNM
+Flow Antenna 2 PNT 70.0% transmited on EGS
+Flow Antenna 3 PNT 70.0% transmited on EGS
+Flow Antenna 4 PNT 70.0% transmited on EGS
+Finished Time Step 94
+Flow Antenna 1 PNT 70.0% transmited on EGS
+Flow Quick Alert Launch One 43.33333333333334% transmited on GCNM
+Flow Quick Alert Launch Two 93.33333333333331% transmited on GCNM
+Flow Antenna 2 PNT 80.0% transmited on EGS
+Flow Antenna 3 PNT 80.0% transmited on EGS
+Flow Antenna 4 PNT 80.0% transmited on EGS
+Finished Time Step 95
+Flow Antenna 1 PNT 80.0% transmited on EGS
+Flow Quick Alert Launch One 46.66666666666668% transmited on GCNM
+Flow Quick Alert Launch Two 96.66666666666664% transmited on GCNM
+Flow Antenna 2 PNT 90.0% transmited on EGS
+Flow Antenna 3 PNT 90.0% transmited on EGS
+Flow Antenna 4 PNT 90.0% transmited on EGS
+Flow Quick Alert Launch Three 3.3333333333333335% transmited on GCNM
+Finished Time Step 96
+Flow Antenna 1 PNT 90.0% transmited on EGS
+Flow Quick Alert Launch One 50.000000000000014% transmited on GCNM
+Flow Quick Alert Launch Two 99.99999999999997% transmited on GCNM
+Flow Antenna 2 PNT 100.0% transmited on EGS
+Flow Antenna 3 PNT 100% transmited on EGS
+Flow Antenna 4 PNT 100% transmited on EGS
+Flow Quick Alert Launch Three 6.666666666666667% transmited on GCNM
+Finished Time Step 97
+Flow Antenna 1 PNT 100% transmited on EGS
+Flow Quick Alert Launch One 53.33333333333335% transmited on GCNM
+Flow Quick Alert Launch Two 100% transmited on GCNM
+Flow Antenna 2 PNT 100.0% transmited on EGS
+Flow Antenna 3 PNT 100% transmited on EGS
+Flow Antenna 4 PNT 100% transmited on EGS
+Flow Quick Alert Launch Three 11.666666666666668% transmited on GCNM
+Finished Time Step 98
+Flow Antenna 1 PNT 100% transmited on EGS
+Flow Quick Alert Launch One 58.33333333333335% transmited on GCNM
+Flow Quick Alert Launch Two 100% transmited on GCNM
+Flow Antenna 2 PNT 10.0% transmited on EGS
+Flow Antenna 3 PNT 10.0% transmited on EGS
+Flow Antenna 4 PNT 10.0% transmited on EGS
+Flow Quick Alert Launch Three 15.000000000000002% transmited on GCNM
+Finished Time Step 99
+Flow Antenna 1 PNT 10.0% transmited on EGS
+Flow Quick Alert Launch One 61.666666666666686% transmited on GCNM
+Flow Antenna 2 PNT 20.0% transmited on EGS
+Flow Antenna 3 PNT 20.0% transmited on EGS
+Flow Antenna 4 PNT 20.0% transmited on EGS
+Flow Quick Alert Launch Three 18.333333333333336% transmited on GCNM
+Finished Time Step 100
+Flow Antenna 1 PNT 20.0% transmited on EGS
+Flow Quick Alert Launch One 65.00000000000001% transmited on GCNM
+Flow Antenna 2 PNT 30.0% transmited on EGS
+Flow Antenna 3 PNT 30.0% transmited on EGS
+Flow Antenna 4 PNT 30.0% transmited on EGS
+Flow Quick Alert Launch Three 21.666666666666668% transmited on GCNM
+Finished Time Step 101
+Flow Antenna 1 PNT 30.0% transmited on EGS
+Flow Quick Alert Launch One 68.33333333333334% transmited on GCNM
+Flow Antenna 2 PNT 40.0% transmited on EGS
+Flow Antenna 3 PNT 40.0% transmited on EGS
+Flow Antenna 4 PNT 40.0% transmited on EGS
+Flow Quick Alert Launch Three 25.0% transmited on GCNM
+Finished Time Step 102
+Flow Antenna 1 PNT 40.0% transmited on EGS
+Flow Quick Alert Launch One 71.66666666666667% transmited on GCNM
+Flow Antenna 2 PNT 50.0% transmited on EGS
+Flow Antenna 3 PNT 50.0% transmited on EGS
+Flow Antenna 4 PNT 50.0% transmited on EGS
+Flow Quick Alert Launch Three 28.333333333333332% transmited on GCNM
+Finished Time Step 103
+Flow Antenna 1 PNT 50.0% transmited on EGS
+Flow Quick Alert Launch One 75.0% transmited on GCNM
+Flow Quick Alert Launch Two 3.3333333333333335% transmited on GCNM
+Flow Antenna 2 PNT 60.0% transmited on EGS
+Flow Antenna 3 PNT 60.0% transmited on EGS
+Flow Antenna 4 PNT 60.0% transmited on EGS
+Flow Quick Alert Launch Three 31.666666666666664% transmited on GCNM
+Finished Time Step 104
+Flow Antenna 1 PNT 60.0% transmited on EGS
+Flow Quick Alert Launch One 78.33333333333333% transmited on GCNM
+Flow Quick Alert Launch Two 6.666666666666667% transmited on GCNM
+Flow Antenna 2 PNT 70.0% transmited on EGS
+Flow Antenna 3 PNT 70.0% transmited on EGS
+Flow Antenna 4 PNT 70.0% transmited on EGS
+Flow Quick Alert Launch Three 35.0% transmited on GCNM
+Finished Time Step 105
+Flow Antenna 1 PNT 70.0% transmited on EGS
+Flow Quick Alert Launch One 81.66666666666666% transmited on GCNM
+Flow Quick Alert Launch Two 10.0% transmited on GCNM
+Flow Antenna 2 PNT 80.0% transmited on EGS
+Flow Antenna 3 PNT 80.0% transmited on EGS
+Flow Antenna 4 PNT 80.0% transmited on EGS
+Flow Quick Alert Launch Three 38.333333333333336% transmited on GCNM
+Finished Time Step 106
+Flow Antenna 1 PNT 80.0% transmited on EGS
+Flow Quick Alert Launch One 84.99999999999999% transmited on GCNM
+Flow Quick Alert Launch Two 13.333333333333334% transmited on GCNM
+Flow Antenna 2 PNT 90.0% transmited on EGS
+Flow Antenna 3 PNT 90.0% transmited on EGS
+Flow Antenna 4 PNT 90.0% transmited on EGS
+Flow Quick Alert Launch Three 41.66666666666667% transmited on GCNM
+Finished Time Step 107
+Flow Antenna 1 PNT 90.0% transmited on EGS
+Flow Quick Alert Launch One 88.33333333333331% transmited on GCNM
+Flow Quick Alert Launch Two 16.666666666666668% transmited on GCNM
+Flow Antenna 2 PNT 100.0% transmited on EGS
+Flow Antenna 3 PNT 100% transmited on EGS
+Flow Antenna 4 PNT 100% transmited on EGS
+Flow Quick Alert Launch Three 45.00000000000001% transmited on GCNM
+Finished Time Step 108
+Flow Antenna 1 PNT 100% transmited on EGS
+Flow Quick Alert Launch One 91.66666666666664% transmited on GCNM
+Flow Quick Alert Launch Two 20.0% transmited on GCNM
+Flow Antenna 2 PNT 100.0% transmited on EGS
+Flow Antenna 3 PNT 100% transmited on EGS
+Flow Antenna 4 PNT 100% transmited on EGS
+Flow Quick Alert Launch Three 48.33333333333334% transmited on GCNM
+Finished Time Step 109
+Flow Antenna 1 PNT 100% transmited on EGS
+Flow Quick Alert Launch One 94.99999999999997% transmited on GCNM
+Flow Quick Alert Launch Two 23.333333333333332% transmited on GCNM
+Flow Antenna 2 PNT 10.0% transmited on EGS
+Flow Antenna 3 PNT 10.0% transmited on EGS
+Flow Antenna 4 PNT 10.0% transmited on EGS
+Flow Quick Alert Launch Three 51.66666666666668% transmited on GCNM
+Finished Time Step 110
+Flow Antenna 1 PNT 10.0% transmited on EGS
+Flow Quick Alert Launch One 98.3333333333333% transmited on GCNM
+Flow Quick Alert Launch Two 26.666666666666664% transmited on GCNM
+Flow Antenna 2 PNT 20.0% transmited on EGS
+Flow Antenna 3 PNT 20.0% transmited on EGS
+Flow Antenna 4 PNT 20.0% transmited on EGS
+Flow Quick Alert Launch Three 55.000000000000014% transmited on GCNM
+Finished Time Step 111
+Flow Antenna 1 PNT 20.0% transmited on EGS
+Flow Quick Alert Launch One 100% transmited on GCNM
+Flow Quick Alert Launch Two 31.666666666666664% transmited on GCNM
+Flow Antenna 2 PNT 30.0% transmited on EGS
+Flow Antenna 3 PNT 30.0% transmited on EGS
+Flow Antenna 4 PNT 30.0% transmited on EGS
+Flow Quick Alert Launch Three 60.000000000000014% transmited on GCNM
+Starting flow Missle Warning Center Launch One
+Starting flow Ground Processing Launch One
+Finished Time Step 112
+Flow Antenna 1 PNT 30.0% transmited on EGS
+Flow Quick Alert Launch One 100% transmited on GCNM
 Flow Quick Alert Launch Two 34.166666666666664% transmited on GCNM
-Flow Quick Alert Launch Three 100% transmited on GCNM
-Flow Antenna 2 PNT 45.0% transmited on EGS
-Flow Antenna 3 PNT 45.0% transmited on EGS
-Flow Antenna 4 PNT 45.0% transmited on EGS
-Flow Antenna 2PNT 2 45.0% transmited on EGS
-Flow Antenna 3PNT 2 45.0% transmited on EGS
-Flow Antenna 4PNT 2 45.0% transmited on EGS
-Finished Time Step 117
-Flow Antenna 1 PNT 45.0% transmited on EGS
-Flow Antenna 1PNT 2 45.0% transmited on EGS
+Flow Antenna 2 PNT 40.0% transmited on EGS
+Flow Antenna 3 PNT 40.0% transmited on EGS
+Flow Antenna 4 PNT 40.0% transmited on EGS
+Flow Quick Alert Launch Three 62.500000000000014% transmited on GCNM
+Finished Time Step 113
+Flow Antenna 1 PNT 40.0% transmited on EGS
 Flow Quick Alert Launch Two 36.666666666666664% transmited on GCNM
 Flow Antenna 2 PNT 50.0% transmited on EGS
 Flow Antenna 3 PNT 50.0% transmited on EGS
 Flow Antenna 4 PNT 50.0% transmited on EGS
-Flow Antenna 2PNT 2 50.0% transmited on EGS
-Flow Antenna 3PNT 2 50.0% transmited on EGS
-Flow Antenna 4PNT 2 50.0% transmited on EGS
-Finished Time Step 118
+Flow Quick Alert Launch Three 65.00000000000001% transmited on GCNM
+Finished Time Step 114
 Flow Antenna 1 PNT 50.0% transmited on EGS
-Flow Antenna 1PNT 2 50.0% transmited on EGS
 Flow Quick Alert Launch Two 39.166666666666664% transmited on GCNM
-Flow Antenna 2 PNT 55.0% transmited on EGS
-Flow Antenna 3 PNT 55.0% transmited on EGS
-Flow Antenna 4 PNT 55.0% transmited on EGS
-Flow Antenna 2PNT 2 55.0% transmited on EGS
-Flow Antenna 3PNT 2 55.0% transmited on EGS
-Flow Antenna 4PNT 2 55.0% transmited on EGS
-Finished Time Step 119
-Flow Antenna 1 PNT 55.0% transmited on EGS
-Flow Antenna 1PNT 2 55.0% transmited on EGS
-Flow Quick Alert Launch Two 41.666666666666664% transmited on GCNM
 Flow Antenna 2 PNT 60.0% transmited on EGS
 Flow Antenna 3 PNT 60.0% transmited on EGS
 Flow Antenna 4 PNT 60.0% transmited on EGS
-Flow Antenna 2PNT 2 60.0% transmited on EGS
-Flow Antenna 3PNT 2 60.0% transmited on EGS
-Flow Antenna 4PNT 2 60.0% transmited on EGS
+Flow Quick Alert Launch Three 67.50000000000001% transmited on GCNM
+Finished Time Step 115
+Flow Antenna 1 PNT 60.0% transmited on EGS
+Flow Quick Alert Launch Two 41.666666666666664% transmited on GCNM
+Flow Antenna 2 PNT 70.0% transmited on EGS
+Flow Antenna 3 PNT 70.0% transmited on EGS
+Flow Antenna 4 PNT 70.0% transmited on EGS
+Flow Quick Alert Launch Three 70.00000000000001% transmited on GCNM
+Finished Time Step 116
+Flow Antenna 1 PNT 70.0% transmited on EGS
+Flow Quick Alert Launch Two 44.166666666666664% transmited on GCNM
+Flow Antenna 2 PNT 80.0% transmited on EGS
+Flow Antenna 3 PNT 80.0% transmited on EGS
+Flow Antenna 4 PNT 80.0% transmited on EGS
+Flow Quick Alert Launch Three 72.50000000000001% transmited on GCNM
 Flow Missle Warning Center Launch One 2.5% transmited on GCNM
 Flow Ground Processing Launch One 2.5% transmited on GCNM
-Finished Time Step 120
-Flow Antenna 1 PNT 60.0% transmited on EGS
-Flow Antenna 1PNT 2 60.0% transmited on EGS
-Flow Quick Alert Launch Two 44.166666666666664% transmited on GCNM
-Flow Antenna 2 PNT 65.0% transmited on EGS
-Flow Antenna 3 PNT 65.0% transmited on EGS
-Flow Antenna 4 PNT 65.0% transmited on EGS
-Flow Antenna 2PNT 2 65.0% transmited on EGS
-Flow Antenna 3PNT 2 65.0% transmited on EGS
-Flow Antenna 4PNT 2 65.0% transmited on EGS
+Finished Time Step 117
+Flow Antenna 1 PNT 80.0% transmited on EGS
+Flow Quick Alert Launch Two 46.666666666666664% transmited on GCNM
+Flow Antenna 2 PNT 90.0% transmited on EGS
+Flow Antenna 3 PNT 90.0% transmited on EGS
+Flow Antenna 4 PNT 90.0% transmited on EGS
+Flow Quick Alert Launch Three 75.00000000000001% transmited on GCNM
 Flow Missle Warning Center Launch One 5.0% transmited on GCNM
 Flow Ground Processing Launch One 5.0% transmited on GCNM
-Finished Time Step 121
-Flow Antenna 1 PNT 65.0% transmited on EGS
-Flow Antenna 1PNT 2 65.0% transmited on EGS
-Flow Quick Alert Launch Two 46.666666666666664% transmited on GCNM
-Flow Quick Alert Launch Three 2.5% transmited on GCNM
-Flow Antenna 2 PNT 70.0% transmited on EGS
-Flow Antenna 3 PNT 70.0% transmited on EGS
-Flow Antenna 4 PNT 70.0% transmited on EGS
-Flow Antenna 2PNT 2 70.0% transmited on EGS
-Flow Antenna 3PNT 2 70.0% transmited on EGS
-Flow Antenna 4PNT 2 70.0% transmited on EGS
+Finished Time Step 118
+Flow Antenna 1 PNT 90.0% transmited on EGS
+Flow Quick Alert Launch Two 49.166666666666664% transmited on GCNM
+Flow Antenna 2 PNT 100.0% transmited on EGS
+Flow Antenna 3 PNT 100% transmited on EGS
+Flow Antenna 4 PNT 100% transmited on EGS
+Flow Quick Alert Launch Three 77.50000000000001% transmited on GCNM
 Flow Missle Warning Center Launch One 7.5% transmited on GCNM
 Flow Ground Processing Launch One 7.5% transmited on GCNM
-Finished Time Step 122
-Flow Antenna 1 PNT 70.0% transmited on EGS
-Flow Antenna 1PNT 2 70.0% transmited on EGS
-Flow Quick Alert Launch Two 49.166666666666664% transmited on GCNM
-Flow Quick Alert Launch Three 5.0% transmited on GCNM
-Flow Antenna 2 PNT 75.0% transmited on EGS
-Flow Antenna 3 PNT 75.0% transmited on EGS
-Flow Antenna 4 PNT 75.0% transmited on EGS
-Flow Antenna 2PNT 2 75.0% transmited on EGS
-Flow Antenna 3PNT 2 75.0% transmited on EGS
-Flow Antenna 4PNT 2 75.0% transmited on EGS
+Finished Time Step 119
+Flow Antenna 1 PNT 100% transmited on EGS
+Flow Quick Alert Launch Two 51.666666666666664% transmited on GCNM
+Flow Antenna 2 PNT 100.0% transmited on EGS
+Flow Antenna 3 PNT 100% transmited on EGS
+Flow Antenna 4 PNT 100% transmited on EGS
+Flow Quick Alert Launch Three 80.00000000000001% transmited on GCNM
 Flow Missle Warning Center Launch One 10.0% transmited on GCNM
 Flow Ground Processing Launch One 10.0% transmited on GCNM
-Finished Time Step 123
-Flow Antenna 1 PNT 75.0% transmited on EGS
-Flow Antenna 1PNT 2 75.0% transmited on EGS
-Flow Quick Alert Launch Two 51.666666666666664% transmited on GCNM
-Flow Quick Alert Launch Three 7.5% transmited on GCNM
-Flow Antenna 2 PNT 80.0% transmited on EGS
-Flow Antenna 3 PNT 80.0% transmited on EGS
-Flow Antenna 4 PNT 80.0% transmited on EGS
-Flow Antenna 2PNT 2 80.0% transmited on EGS
-Flow Antenna 3PNT 2 80.0% transmited on EGS
-Flow Antenna 4PNT 2 80.0% transmited on EGS
+Finished Time Step 120
+Flow Antenna 1 PNT 100% transmited on EGS
+Flow Quick Alert Launch Two 54.166666666666664% transmited on GCNM
+Flow Antenna 2 PNT 10.0% transmited on EGS
+Flow Antenna 3 PNT 10.0% transmited on EGS
+Flow Antenna 4 PNT 10.0% transmited on EGS
+Flow Quick Alert Launch Three 82.50000000000001% transmited on GCNM
 Flow Missle Warning Center Launch One 12.5% transmited on GCNM
 Flow Ground Processing Launch One 12.5% transmited on GCNM
-Finished Time Step 124
-Flow Antenna 1 PNT 80.0% transmited on EGS
-Flow Antenna 1PNT 2 80.0% transmited on EGS
-Flow Quick Alert Launch Two 54.166666666666664% transmited on GCNM
-Flow Quick Alert Launch Three 10.0% transmited on GCNM
-Flow Antenna 2 PNT 85.0% transmited on EGS
-Flow Antenna 3 PNT 85.0% transmited on EGS
-Flow Antenna 4 PNT 85.0% transmited on EGS
-Flow Antenna 2PNT 2 85.0% transmited on EGS
-Flow Antenna 3PNT 2 85.0% transmited on EGS
-Flow Antenna 4PNT 2 85.0% transmited on EGS
+Finished Time Step 121
+Flow Antenna 1 PNT 10.0% transmited on EGS
+Flow Quick Alert Launch Two 56.666666666666664% transmited on GCNM
+Flow Antenna 2 PNT 20.0% transmited on EGS
+Flow Antenna 3 PNT 20.0% transmited on EGS
+Flow Antenna 4 PNT 20.0% transmited on EGS
+Flow Quick Alert Launch Three 85.00000000000001% transmited on GCNM
 Flow Missle Warning Center Launch One 15.0% transmited on GCNM
 Flow Ground Processing Launch One 15.0% transmited on GCNM
-Finished Time Step 125
-Flow Antenna 1 PNT 85.0% transmited on EGS
-Flow Antenna 1PNT 2 85.0% transmited on EGS
+Finished Time Step 122
+Flow Antenna 1 PNT 20.0% transmited on EGS
 Flow Quick Alert Launch One 10.0% transmited on IST
-Flow Quick Alert Launch Two 56.666666666666664% transmited on GCNM
-Flow Quick Alert Launch Three 12.5% transmited on GCNM
-Flow Antenna 2 PNT 90.0% transmited on EGS
-Flow Antenna 3 PNT 90.0% transmited on EGS
-Flow Antenna 4 PNT 90.0% transmited on EGS
-Flow Antenna 2PNT 2 90.0% transmited on EGS
-Flow Antenna 3PNT 2 90.0% transmited on EGS
-Flow Antenna 4PNT 2 90.0% transmited on EGS
+Flow Quick Alert Launch Two 59.166666666666664% transmited on GCNM
+Flow Antenna 2 PNT 30.0% transmited on EGS
+Flow Antenna 3 PNT 30.0% transmited on EGS
+Flow Antenna 4 PNT 30.0% transmited on EGS
+Flow Quick Alert Launch Three 87.50000000000001% transmited on GCNM
 Flow Missle Warning Center Launch One 17.5% transmited on GCNM
 Flow Ground Processing Launch One 17.5% transmited on GCNM
-Finished Time Step 126
-Flow Antenna 1 PNT 90.0% transmited on EGS
-Flow Antenna 1PNT 2 90.0% transmited on EGS
+Finished Time Step 123
+Flow Antenna 1 PNT 30.0% transmited on EGS
 Flow Quick Alert Launch One 20.0% transmited on IST
-Flow Quick Alert Launch Two 59.166666666666664% transmited on GCNM
-Flow Quick Alert Launch Three 15.0% transmited on GCNM
-Flow Antenna 2 PNT 95.0% transmited on EGS
-Flow Antenna 3 PNT 95.0% transmited on EGS
-Flow Antenna 4 PNT 95.0% transmited on EGS
-Flow Antenna 2PNT 2 95.0% transmited on EGS
-Flow Antenna 3PNT 2 95.0% transmited on EGS
-Flow Antenna 4PNT 2 95.0% transmited on EGS
+Flow Quick Alert Launch Two 61.666666666666664% transmited on GCNM
+Flow Antenna 2 PNT 40.0% transmited on EGS
+Flow Antenna 3 PNT 40.0% transmited on EGS
+Flow Antenna 4 PNT 40.0% transmited on EGS
+Flow Quick Alert Launch Three 90.00000000000001% transmited on GCNM
 Flow Missle Warning Center Launch One 20.0% transmited on GCNM
 Flow Ground Processing Launch One 20.0% transmited on GCNM
-Finished Time Step 127
-Flow Antenna 1 PNT 95.0% transmited on EGS
-Flow Antenna 1PNT 2 95.0% transmited on EGS
+Finished Time Step 124
+Flow Antenna 1 PNT 40.0% transmited on EGS
 Flow Quick Alert Launch One 30.0% transmited on IST
-Flow Quick Alert Launch Two 61.666666666666664% transmited on GCNM
-Flow Quick Alert Launch Three 17.5% transmited on GCNM
-Flow Antenna 2 PNT 100.0% transmited on EGS
-Flow Antenna 3 PNT 100% transmited on EGS
-Flow Antenna 4 PNT 100% transmited on EGS
-Flow Antenna 2PNT 2 100% transmited on EGS
-Flow Antenna 3PNT 2 100% transmited on EGS
-Flow Antenna 4PNT 2 100% transmited on EGS
+Flow Quick Alert Launch Two 64.16666666666666% transmited on GCNM
+Flow Antenna 2 PNT 50.0% transmited on EGS
+Flow Antenna 3 PNT 50.0% transmited on EGS
+Flow Antenna 4 PNT 50.0% transmited on EGS
+Flow Quick Alert Launch Three 92.50000000000001% transmited on GCNM
 Flow Missle Warning Center Launch One 22.5% transmited on GCNM
 Flow Ground Processing Launch One 22.5% transmited on GCNM
-Finished Time Step 128
-Flow Antenna 1 PNT 100% transmited on EGS
-Flow Antenna 1PNT 2 100% transmited on EGS
+Finished Time Step 125
+Flow Antenna 1 PNT 50.0% transmited on EGS
 Flow Quick Alert Launch One 40.0% transmited on IST
-Flow Quick Alert Launch Two 64.16666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 20.0% transmited on GCNM
-Flow Antenna 2 PNT 100.0% transmited on EGS
-Flow Antenna 3 PNT 100% transmited on EGS
-Flow Antenna 4 PNT 100% transmited on EGS
-Flow Antenna 2PNT 2 100% transmited on EGS
-Flow Antenna 3PNT 2 100% transmited on EGS
-Flow Antenna 4PNT 2 100% transmited on EGS
+Flow Quick Alert Launch Two 66.66666666666666% transmited on GCNM
+Flow Antenna 2 PNT 60.0% transmited on EGS
+Flow Antenna 3 PNT 60.0% transmited on EGS
+Flow Antenna 4 PNT 60.0% transmited on EGS
+Flow Quick Alert Launch Three 95.00000000000001% transmited on GCNM
 Flow Missle Warning Center Launch One 25.0% transmited on GCNM
 Flow Ground Processing Launch One 25.0% transmited on GCNM
-Finished Time Step 129
-Flow Antenna 1 PNT 100% transmited on EGS
-Flow Antenna 1PNT 2 100% transmited on EGS
+Finished Time Step 126
+Flow Antenna 1 PNT 60.0% transmited on EGS
 Flow Quick Alert Launch One 50.0% transmited on IST
-Flow Quick Alert Launch Two 66.66666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 22.5% transmited on GCNM
-Flow Antenna 2 PNT 5.0% transmited on EGS
-Flow Antenna 3 PNT 5.0% transmited on EGS
-Flow Antenna 4 PNT 5.0% transmited on EGS
-Flow Antenna 2PNT 2 5.0% transmited on EGS
-Flow Antenna 3PNT 2 5.0% transmited on EGS
-Flow Antenna 4PNT 2 5.0% transmited on EGS
+Flow Quick Alert Launch Two 69.16666666666666% transmited on GCNM
+Flow Antenna 2 PNT 70.0% transmited on EGS
+Flow Antenna 3 PNT 70.0% transmited on EGS
+Flow Antenna 4 PNT 70.0% transmited on EGS
+Flow Quick Alert Launch Three 97.50000000000001% transmited on GCNM
 Flow Missle Warning Center Launch One 27.5% transmited on GCNM
 Flow Ground Processing Launch One 27.5% transmited on GCNM
-Finished Time Step 130
-Flow Antenna 1 PNT 5.0% transmited on EGS
-Flow Antenna 1PNT 2 5.0% transmited on EGS
-Flow Quick Alert Launch One 60.0% transmited on IST
-Flow Quick Alert Launch Two 69.16666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 25.0% transmited on GCNM
-Flow Antenna 2 PNT 10.0% transmited on EGS
-Flow Antenna 3 PNT 10.0% transmited on EGS
-Flow Antenna 4 PNT 10.0% transmited on EGS
-Flow Antenna 2PNT 2 10.0% transmited on EGS
-Flow Antenna 3PNT 2 10.0% transmited on EGS
-Flow Antenna 4PNT 2 10.0% transmited on EGS
-Flow Missle Warning Center Launch One 30.0% transmited on GCNM
-Flow Ground Processing Launch One 30.0% transmited on GCNM
-Finished Time Step 131
-Flow Antenna 1 PNT 10.0% transmited on EGS
-Flow Antenna 1PNT 2 10.0% transmited on EGS
-Flow Quick Alert Launch One 70.0% transmited on IST
-Flow Quick Alert Launch Two 71.66666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 27.5% transmited on GCNM
-Flow Antenna 2 PNT 15.0% transmited on EGS
-Flow Antenna 3 PNT 15.0% transmited on EGS
-Flow Antenna 4 PNT 15.0% transmited on EGS
-Flow Antenna 2PNT 2 15.0% transmited on EGS
-Flow Antenna 3PNT 2 15.0% transmited on EGS
-Flow Antenna 4PNT 2 15.0% transmited on EGS
-Flow Missle Warning Center Launch One 32.5% transmited on GCNM
-Flow Ground Processing Launch One 32.5% transmited on GCNM
-Finished Time Step 132
-Flow Antenna 1 PNT 15.0% transmited on EGS
-Flow Antenna 1PNT 2 15.0% transmited on EGS
-Flow Quick Alert Launch One 80.0% transmited on IST
-Flow Quick Alert Launch Two 74.16666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 30.0% transmited on GCNM
-Flow Antenna 2 PNT 20.0% transmited on EGS
-Flow Antenna 3 PNT 20.0% transmited on EGS
-Flow Antenna 4 PNT 20.0% transmited on EGS
-Flow Antenna 2PNT 2 20.0% transmited on EGS
-Flow Antenna 3PNT 2 20.0% transmited on EGS
-Flow Antenna 4PNT 2 20.0% transmited on EGS
-Flow Missle Warning Center Launch One 35.0% transmited on GCNM
-Flow Ground Processing Launch One 35.0% transmited on GCNM
-Finished Time Step 133
-Flow Antenna 1 PNT 20.0% transmited on EGS
-Flow Antenna 1PNT 2 20.0% transmited on EGS
-Flow Quick Alert Launch One 90.0% transmited on IST
-Flow Quick Alert Launch Two 76.66666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 32.5% transmited on GCNM
-Flow Antenna 2 PNT 25.0% transmited on EGS
-Flow Antenna 3 PNT 25.0% transmited on EGS
-Flow Antenna 4 PNT 25.0% transmited on EGS
-Flow Antenna 2PNT 2 25.0% transmited on EGS
-Flow Antenna 3PNT 2 25.0% transmited on EGS
-Flow Antenna 4PNT 2 25.0% transmited on EGS
-Flow Missle Warning Center Launch One 37.5% transmited on GCNM
-Flow Ground Processing Launch One 37.5% transmited on GCNM
-Finished Time Step 134
-Flow Antenna 1 PNT 25.0% transmited on EGS
-Flow Antenna 1PNT 2 25.0% transmited on EGS
-Flow Quick Alert Launch One 100.0% transmited on IST
-Flow Quick Alert Launch Two 79.16666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 35.0% transmited on GCNM
-Flow Antenna 2 PNT 30.0% transmited on EGS
-Flow Antenna 3 PNT 30.0% transmited on EGS
-Flow Antenna 4 PNT 30.0% transmited on EGS
-Flow Antenna 2PNT 2 30.0% transmited on EGS
-Flow Antenna 3PNT 2 30.0% transmited on EGS
-Flow Antenna 4PNT 2 30.0% transmited on EGS
-Flow Missle Warning Center Launch One 40.0% transmited on GCNM
-Flow Ground Processing Launch One 40.0% transmited on GCNM
-Finished Time Step 135
-Flow Antenna 1 PNT 30.0% transmited on EGS
-Flow Antenna 1PNT 2 30.0% transmited on EGS
-Flow Quick Alert Launch One 100.0% transmited on IST
-Flow Quick Alert Launch Two 81.66666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 37.5% transmited on GCNM
-Flow Antenna 2 PNT 35.0% transmited on EGS
-Flow Antenna 3 PNT 35.0% transmited on EGS
-Flow Antenna 4 PNT 35.0% transmited on EGS
-Flow Antenna 2PNT 2 35.0% transmited on EGS
-Flow Antenna 3PNT 2 35.0% transmited on EGS
-Flow Antenna 4PNT 2 35.0% transmited on EGS
-Flow Missle Warning Center Launch One 42.5% transmited on GCNM
-Flow Ground Processing Launch One 42.5% transmited on GCNM
-Finished Time Step 136
-Flow Antenna 1 PNT 35.0% transmited on EGS
-Flow Antenna 1PNT 2 35.0% transmited on EGS
-Flow Quick Alert Launch Two 84.16666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 40.0% transmited on GCNM
-Flow Antenna 2 PNT 40.0% transmited on EGS
-Flow Antenna 3 PNT 40.0% transmited on EGS
-Flow Antenna 4 PNT 40.0% transmited on EGS
-Flow Antenna 2PNT 2 40.0% transmited on EGS
-Flow Antenna 3PNT 2 40.0% transmited on EGS
-Flow Antenna 4PNT 2 40.0% transmited on EGS
-Flow Missle Warning Center Launch One 45.0% transmited on GCNM
-Flow Ground Processing Launch One 45.0% transmited on GCNM
-Finished Time Step 137
-Flow Antenna 1 PNT 40.0% transmited on EGS
-Flow Antenna 1PNT 2 40.0% transmited on EGS
-Flow Quick Alert Launch Two 86.66666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 42.5% transmited on GCNM
-Flow Antenna 2 PNT 45.0% transmited on EGS
-Flow Antenna 3 PNT 45.0% transmited on EGS
-Flow Antenna 4 PNT 45.0% transmited on EGS
-Flow Antenna 2PNT 2 45.0% transmited on EGS
-Flow Antenna 3PNT 2 45.0% transmited on EGS
-Flow Antenna 4PNT 2 45.0% transmited on EGS
-Flow Missle Warning Center Launch One 47.5% transmited on GCNM
-Flow Ground Processing Launch One 47.5% transmited on GCNM
-Finished Time Step 138
-Flow Antenna 1 PNT 45.0% transmited on EGS
-Flow Antenna 1PNT 2 45.0% transmited on EGS
-Flow Quick Alert Launch Two 89.16666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 45.0% transmited on GCNM
-Flow Antenna 2 PNT 50.0% transmited on EGS
-Flow Antenna 3 PNT 50.0% transmited on EGS
-Flow Antenna 4 PNT 50.0% transmited on EGS
-Flow Antenna 2PNT 2 50.0% transmited on EGS
-Flow Antenna 3PNT 2 50.0% transmited on EGS
-Flow Antenna 4PNT 2 50.0% transmited on EGS
-Flow Missle Warning Center Launch One 50.0% transmited on GCNM
-Flow Ground Processing Launch One 50.0% transmited on GCNM
-Finished Time Step 139
-Flow Antenna 1 PNT 50.0% transmited on EGS
-Flow Antenna 1PNT 2 50.0% transmited on EGS
-Flow Quick Alert Launch Two 91.66666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 47.5% transmited on GCNM
-Flow Antenna 2 PNT 55.0% transmited on EGS
-Flow Antenna 3 PNT 55.0% transmited on EGS
-Flow Antenna 4 PNT 55.0% transmited on EGS
-Flow Antenna 2PNT 2 55.0% transmited on EGS
-Flow Antenna 3PNT 2 55.0% transmited on EGS
-Flow Antenna 4PNT 2 55.0% transmited on EGS
-Flow Missle Warning Center Launch One 52.5% transmited on GCNM
-Flow Ground Processing Launch One 52.5% transmited on GCNM
-Finished Time Step 140
-Flow Antenna 1 PNT 55.0% transmited on EGS
-Flow Antenna 1PNT 2 55.0% transmited on EGS
-Flow Quick Alert Launch Two 94.16666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 50.0% transmited on GCNM
-Flow Antenna 2 PNT 60.0% transmited on EGS
-Flow Antenna 3 PNT 60.0% transmited on EGS
-Flow Antenna 4 PNT 60.0% transmited on EGS
-Flow Antenna 2PNT 2 60.0% transmited on EGS
-Flow Antenna 3PNT 2 60.0% transmited on EGS
-Flow Antenna 4PNT 2 60.0% transmited on EGS
-Flow Missle Warning Center Launch One 55.0% transmited on GCNM
-Flow Ground Processing Launch One 55.0% transmited on GCNM
-Finished Time Step 141
-Flow Antenna 1 PNT 60.0% transmited on EGS
-Flow Antenna 1PNT 2 60.0% transmited on EGS
-Flow Quick Alert Launch Two 96.66666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 52.5% transmited on GCNM
-Flow Antenna 2 PNT 65.0% transmited on EGS
-Flow Antenna 3 PNT 65.0% transmited on EGS
-Flow Antenna 4 PNT 65.0% transmited on EGS
-Flow Antenna 2PNT 2 65.0% transmited on EGS
-Flow Antenna 3PNT 2 65.0% transmited on EGS
-Flow Antenna 4PNT 2 65.0% transmited on EGS
-Flow Missle Warning Center Launch One 57.5% transmited on GCNM
-Flow Ground Processing Launch One 57.5% transmited on GCNM
-Finished Time Step 142
-Flow Antenna 1 PNT 65.0% transmited on EGS
-Flow Antenna 1PNT 2 65.0% transmited on EGS
-Flow Quick Alert Launch Two 99.16666666666666% transmited on GCNM
-Flow Quick Alert Launch Three 55.0% transmited on GCNM
-Flow Antenna 2 PNT 70.0% transmited on EGS
-Flow Antenna 3 PNT 70.0% transmited on EGS
-Flow Antenna 4 PNT 70.0% transmited on EGS
-Flow Antenna 2PNT 2 70.0% transmited on EGS
-Flow Antenna 3PNT 2 70.0% transmited on EGS
-Flow Antenna 4PNT 2 70.0% transmited on EGS
-Flow Missle Warning Center Launch One 60.0% transmited on GCNM
-Flow Ground Processing Launch One 60.0% transmited on GCNM
-Finished Time Step 143
+Finished Time Step 127
 Flow Antenna 1 PNT 70.0% transmited on EGS
-Flow Antenna 1PNT 2 70.0% transmited on EGS
+Flow Quick Alert Launch One 60.0% transmited on IST
+Flow Quick Alert Launch Two 71.66666666666666% transmited on GCNM
+Flow Antenna 2 PNT 80.0% transmited on EGS
+Flow Antenna 3 PNT 80.0% transmited on EGS
+Flow Antenna 4 PNT 80.0% transmited on EGS
+Flow Quick Alert Launch Three 100% transmited on GCNM
+Flow Missle Warning Center Launch One 30.833333333333332% transmited on GCNM
+Flow Ground Processing Launch One 30.833333333333332% transmited on GCNM
+Finished Time Step 128
+Flow Antenna 1 PNT 80.0% transmited on EGS
+Flow Quick Alert Launch One 70.0% transmited on IST
+Flow Quick Alert Launch Two 74.99999999999999% transmited on GCNM
+Flow Antenna 2 PNT 90.0% transmited on EGS
+Flow Antenna 3 PNT 90.0% transmited on EGS
+Flow Antenna 4 PNT 90.0% transmited on EGS
+Flow Quick Alert Launch Three 100% transmited on GCNM
+Flow Missle Warning Center Launch One 33.33333333333333% transmited on GCNM
+Flow Ground Processing Launch One 33.33333333333333% transmited on GCNM
+Finished Time Step 129
+Flow Antenna 1 PNT 90.0% transmited on EGS
+Flow Quick Alert Launch One 80.0% transmited on IST
+Flow Quick Alert Launch Two 77.49999999999999% transmited on GCNM
+Flow Antenna 2 PNT 100.0% transmited on EGS
+Flow Antenna 3 PNT 100% transmited on EGS
+Flow Antenna 4 PNT 100% transmited on EGS
+Flow Missle Warning Center Launch One 35.83333333333333% transmited on GCNM
+Flow Ground Processing Launch One 35.83333333333333% transmited on GCNM
+Finished Time Step 130
+Flow Antenna 1 PNT 100% transmited on EGS
+Flow Quick Alert Launch One 90.0% transmited on IST
+Flow Quick Alert Launch Two 79.99999999999999% transmited on GCNM
+Flow Antenna 2 PNT 100.0% transmited on EGS
+Flow Antenna 3 PNT 100% transmited on EGS
+Flow Antenna 4 PNT 100% transmited on EGS
+Flow Missle Warning Center Launch One 38.33333333333333% transmited on GCNM
+Flow Ground Processing Launch One 38.33333333333333% transmited on GCNM
+Finished Time Step 131
+Flow Antenna 1 PNT 100% transmited on EGS
+Flow Quick Alert Launch One 100.0% transmited on IST
+Flow Quick Alert Launch Two 82.49999999999999% transmited on GCNM
+Flow Antenna 2 PNT 20.0% transmited on EGS
+Flow Missle Warning Center Launch One 40.83333333333333% transmited on GCNM
+Flow Ground Processing Launch One 40.83333333333333% transmited on GCNM
+Finished Time Step 132
+Flow Antenna 1 PNT 20.0% transmited on EGS
+Flow Quick Alert Launch One 100.0% transmited on IST
+Flow Quick Alert Launch Two 84.99999999999999% transmited on GCNM
+Flow Antenna 2 PNT 40.0% transmited on EGS
+Flow Missle Warning Center Launch One 43.33333333333333% transmited on GCNM
+Flow Ground Processing Launch One 43.33333333333333% transmited on GCNM
+Finished Time Step 133
+Flow Antenna 1 PNT 40.0% transmited on EGS
+Flow Quick Alert Launch Two 87.49999999999999% transmited on GCNM
+Flow Antenna 2 PNT 60.0% transmited on EGS
+Flow Quick Alert Launch Three 2.5% transmited on GCNM
+Flow Missle Warning Center Launch One 45.83333333333333% transmited on GCNM
+Flow Ground Processing Launch One 45.83333333333333% transmited on GCNM
+Finished Time Step 134
+Flow Antenna 1 PNT 60.0% transmited on EGS
+Flow Quick Alert Launch Two 89.99999999999999% transmited on GCNM
+Flow Antenna 2 PNT 80.0% transmited on EGS
+Flow Quick Alert Launch Three 5.0% transmited on GCNM
+Flow Missle Warning Center Launch One 48.33333333333333% transmited on GCNM
+Flow Ground Processing Launch One 48.33333333333333% transmited on GCNM
+Finished Time Step 135
+Flow Antenna 1 PNT 80.0% transmited on EGS
+Flow Quick Alert Launch Two 92.49999999999999% transmited on GCNM
+Flow Antenna 2 PNT 100.0% transmited on EGS
+Flow Quick Alert Launch Three 7.5% transmited on GCNM
+Flow Missle Warning Center Launch One 50.83333333333333% transmited on GCNM
+Flow Ground Processing Launch One 50.83333333333333% transmited on GCNM
+Finished Time Step 136
+Flow Antenna 1 PNT 100% transmited on EGS
+Flow Quick Alert Launch Two 94.99999999999999% transmited on GCNM
+Flow Antenna 2 PNT 100.0% transmited on EGS
+Flow Quick Alert Launch Three 10.0% transmited on GCNM
+Flow Missle Warning Center Launch One 53.33333333333333% transmited on GCNM
+Flow Ground Processing Launch One 53.33333333333333% transmited on GCNM
+Finished Time Step 137
+Flow Antenna 1 PNT 100% transmited on EGS
+Flow Quick Alert Launch Two 97.49999999999999% transmited on GCNM
+Flow Antenna 2 PNT 20.0% transmited on EGS
+Flow Quick Alert Launch Three 12.5% transmited on GCNM
+Flow Missle Warning Center Launch One 55.83333333333333% transmited on GCNM
+Flow Ground Processing Launch One 55.83333333333333% transmited on GCNM
+Finished Time Step 138
+Flow Antenna 1 PNT 20.0% transmited on EGS
+Flow Quick Alert Launch Two 99.99999999999999% transmited on GCNM
+Flow Antenna 2 PNT 40.0% transmited on EGS
+Flow Quick Alert Launch Three 15.0% transmited on GCNM
+Flow Missle Warning Center Launch One 58.33333333333333% transmited on GCNM
+Flow Ground Processing Launch One 58.33333333333333% transmited on GCNM
+Finished Time Step 139
+Flow Antenna 1 PNT 40.0% transmited on EGS
 Flow Quick Alert Launch Two 100% transmited on GCNM
-Flow Quick Alert Launch Three 58.333333333333336% transmited on GCNM
-Flow Antenna 2 PNT 75.0% transmited on EGS
-Flow Antenna 3 PNT 75.0% transmited on EGS
-Flow Antenna 4 PNT 75.0% transmited on EGS
-Flow Antenna 2PNT 2 75.0% transmited on EGS
-Flow Antenna 3PNT 2 75.0% transmited on EGS
-Flow Antenna 4PNT 2 75.0% transmited on EGS
-Flow Missle Warning Center Launch One 63.333333333333336% transmited on GCNM
-Flow Ground Processing Launch One 63.333333333333336% transmited on GCNM
+Flow Antenna 2 PNT 60.0% transmited on EGS
+Flow Quick Alert Launch Three 18.333333333333332% transmited on GCNM
+Flow Missle Warning Center Launch One 61.666666666666664% transmited on GCNM
+Flow Ground Processing Launch One 61.666666666666664% transmited on GCNM
 Starting flow Missle Warning Center Launch Two
 Starting flow Ground Processing Launch Two
-Finished Time Step 144
-Flow Antenna 1 PNT 75.0% transmited on EGS
-Flow Antenna 1PNT 2 75.0% transmited on EGS
+Finished Time Step 140
+Flow Antenna 1 PNT 60.0% transmited on EGS
 Flow Quick Alert Launch Two 100% transmited on GCNM
-Flow Quick Alert Launch Three 60.333333333333336% transmited on GCNM
 Flow Antenna 2 PNT 80.0% transmited on EGS
-Flow Antenna 3 PNT 80.0% transmited on EGS
-Flow Antenna 4 PNT 80.0% transmited on EGS
-Flow Antenna 2PNT 2 80.0% transmited on EGS
-Flow Antenna 3PNT 2 80.0% transmited on EGS
-Flow Antenna 4PNT 2 80.0% transmited on EGS
-Flow Missle Warning Center Launch One 65.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 65.33333333333334% transmited on GCNM
-Finished Time Step 145
+Flow Quick Alert Launch Three 20.333333333333332% transmited on GCNM
+Flow Missle Warning Center Launch One 63.666666666666664% transmited on GCNM
+Flow Ground Processing Launch One 63.666666666666664% transmited on GCNM
+Finished Time Step 141
 Flow Antenna 1 PNT 80.0% transmited on EGS
-Flow Antenna 1PNT 2 80.0% transmited on EGS
-Flow Quick Alert Launch Three 62.333333333333336% transmited on GCNM
-Flow Antenna 2 PNT 85.0% transmited on EGS
-Flow Antenna 3 PNT 85.0% transmited on EGS
-Flow Antenna 4 PNT 85.0% transmited on EGS
-Flow Antenna 2PNT 2 85.0% transmited on EGS
-Flow Antenna 3PNT 2 85.0% transmited on EGS
-Flow Antenna 4PNT 2 85.0% transmited on EGS
-Flow Missle Warning Center Launch One 67.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 67.33333333333334% transmited on GCNM
-Finished Time Step 146
-Flow Antenna 1 PNT 85.0% transmited on EGS
-Flow Antenna 1PNT 2 85.0% transmited on EGS
-Flow Quick Alert Launch Three 64.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 90.0% transmited on EGS
-Flow Antenna 3 PNT 90.0% transmited on EGS
-Flow Antenna 4 PNT 90.0% transmited on EGS
-Flow Antenna 2PNT 2 90.0% transmited on EGS
-Flow Antenna 3PNT 2 90.0% transmited on EGS
-Flow Antenna 4PNT 2 90.0% transmited on EGS
-Flow Missle Warning Center Launch One 69.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 69.33333333333334% transmited on GCNM
-Finished Time Step 147
-Flow Antenna 1 PNT 90.0% transmited on EGS
-Flow Antenna 1PNT 2 90.0% transmited on EGS
-Flow Quick Alert Launch Three 66.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 95.0% transmited on EGS
-Flow Antenna 3 PNT 95.0% transmited on EGS
-Flow Antenna 4 PNT 95.0% transmited on EGS
-Flow Antenna 2PNT 2 95.0% transmited on EGS
-Flow Antenna 3PNT 2 95.0% transmited on EGS
-Flow Antenna 4PNT 2 95.0% transmited on EGS
-Flow Missle Warning Center Launch One 71.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 71.33333333333334% transmited on GCNM
-Finished Time Step 148
-Flow Antenna 1 PNT 95.0% transmited on EGS
-Flow Antenna 1PNT 2 95.0% transmited on EGS
-Flow Quick Alert Launch Three 68.33333333333334% transmited on GCNM
 Flow Antenna 2 PNT 100.0% transmited on EGS
-Flow Antenna 3 PNT 100% transmited on EGS
-Flow Antenna 4 PNT 100% transmited on EGS
-Flow Antenna 2PNT 2 100% transmited on EGS
-Flow Antenna 3PNT 2 100% transmited on EGS
-Flow Antenna 4PNT 2 100% transmited on EGS
-Flow Missle Warning Center Launch One 73.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 73.33333333333334% transmited on GCNM
+Flow Quick Alert Launch Three 22.333333333333332% transmited on GCNM
+Flow Missle Warning Center Launch One 65.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 65.66666666666666% transmited on GCNM
+Finished Time Step 142
+Flow Antenna 1 PNT 100% transmited on EGS
+Flow Antenna 2 PNT 100.0% transmited on EGS
+Flow Quick Alert Launch Three 24.333333333333332% transmited on GCNM
+Flow Missle Warning Center Launch One 67.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 67.66666666666666% transmited on GCNM
+Finished Time Step 143
+Flow Antenna 1 PNT 100% transmited on EGS
+Flow Antenna 2 PNT 40.0% transmited on EGS
+Flow Quick Alert Launch Three 26.333333333333332% transmited on GCNM
+Flow Missle Warning Center Launch One 69.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 69.66666666666666% transmited on GCNM
+Finished Time Step 144
+Flow Antenna 2 PNT 80.0% transmited on EGS
+Flow Quick Alert Launch Three 28.333333333333332% transmited on GCNM
+Flow Missle Warning Center Launch One 71.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 71.66666666666666% transmited on GCNM
 Flow Missle Warning Center Launch Two 2.0% transmited on GCNM
 Flow Ground Processing Launch Two 2.0% transmited on GCNM
-Finished Time Step 149
-Flow Antenna 1 PNT 100% transmited on EGS
-Flow Antenna 1PNT 2 100% transmited on EGS
-Flow Quick Alert Launch Three 70.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 100.0% transmited on EGS
-Flow Antenna 3 PNT 100% transmited on EGS
-Flow Antenna 4 PNT 100% transmited on EGS
-Flow Antenna 2PNT 2 100% transmited on EGS
-Flow Antenna 3PNT 2 100% transmited on EGS
-Flow Antenna 4PNT 2 100% transmited on EGS
-Flow Missle Warning Center Launch One 75.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 75.33333333333334% transmited on GCNM
+Finished Time Step 145
+Flow Antenna 2 PNT 100% transmited on EGS
+Flow Quick Alert Launch Three 30.333333333333332% transmited on GCNM
+Flow Missle Warning Center Launch One 73.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 73.66666666666666% transmited on GCNM
 Flow Missle Warning Center Launch Two 4.0% transmited on GCNM
 Flow Ground Processing Launch Two 4.0% transmited on GCNM
-Finished Time Step 150
-Flow Antenna 1 PNT 100% transmited on EGS
-Flow Antenna 1PNT 2 100% transmited on EGS
-Flow Quick Alert Launch Three 72.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 5.0% transmited on EGS
-Flow Antenna 3 PNT 5.0% transmited on EGS
-Flow Antenna 4 PNT 5.0% transmited on EGS
-Flow Antenna 2PNT 2 5.0% transmited on EGS
-Flow Antenna 3PNT 2 5.0% transmited on EGS
-Flow Antenna 4PNT 2 5.0% transmited on EGS
-Flow Missle Warning Center Launch One 77.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 77.33333333333334% transmited on GCNM
+Finished Time Step 146
+Flow Antenna 2 PNT 100% transmited on EGS
+Flow Quick Alert Launch Three 32.33333333333333% transmited on GCNM
+Flow Missle Warning Center Launch One 75.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 75.66666666666666% transmited on GCNM
 Flow Missle Warning Center Launch Two 6.0% transmited on GCNM
 Flow Ground Processing Launch Two 6.0% transmited on GCNM
-Finished Time Step 151
-Flow Antenna 1 PNT 5.0% transmited on EGS
-Flow Antenna 1PNT 2 5.0% transmited on EGS
-Flow Quick Alert Launch Three 74.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 10.0% transmited on EGS
-Flow Antenna 3 PNT 10.0% transmited on EGS
-Flow Antenna 4 PNT 10.0% transmited on EGS
-Flow Antenna 2PNT 2 10.0% transmited on EGS
-Flow Antenna 3PNT 2 10.0% transmited on EGS
-Flow Antenna 4PNT 2 10.0% transmited on EGS
-Flow Missle Warning Center Launch One 79.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 79.33333333333334% transmited on GCNM
+Finished Time Step 147
+Flow Quick Alert Launch Three 34.33333333333333% transmited on GCNM
+Flow Missle Warning Center Launch One 77.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 77.66666666666666% transmited on GCNM
 Flow Missle Warning Center Launch Two 8.0% transmited on GCNM
 Flow Ground Processing Launch Two 8.0% transmited on GCNM
-Finished Time Step 152
-Flow Antenna 1 PNT 10.0% transmited on EGS
-Flow Antenna 1PNT 2 10.0% transmited on EGS
-Flow Quick Alert Launch Three 76.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 15.0% transmited on EGS
-Flow Antenna 3 PNT 15.0% transmited on EGS
-Flow Antenna 4 PNT 15.0% transmited on EGS
-Flow Antenna 2PNT 2 15.0% transmited on EGS
-Flow Antenna 3PNT 2 15.0% transmited on EGS
-Flow Antenna 4PNT 2 15.0% transmited on EGS
-Flow Missle Warning Center Launch One 81.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 81.33333333333334% transmited on GCNM
+Finished Time Step 148
+Flow Quick Alert Launch Three 36.33333333333333% transmited on GCNM
+Flow Missle Warning Center Launch One 79.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 79.66666666666666% transmited on GCNM
 Flow Missle Warning Center Launch Two 10.0% transmited on GCNM
 Flow Ground Processing Launch Two 10.0% transmited on GCNM
-Finished Time Step 153
-Flow Antenna 1 PNT 15.0% transmited on EGS
-Flow Antenna 1PNT 2 15.0% transmited on EGS
-Flow Quick Alert Launch Three 78.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 20.0% transmited on EGS
-Flow Antenna 3 PNT 20.0% transmited on EGS
-Flow Antenna 4 PNT 20.0% transmited on EGS
-Flow Antenna 2PNT 2 20.0% transmited on EGS
-Flow Antenna 3PNT 2 20.0% transmited on EGS
-Flow Antenna 4PNT 2 20.0% transmited on EGS
-Flow Missle Warning Center Launch One 83.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 83.33333333333334% transmited on GCNM
+Finished Time Step 149
+Flow Quick Alert Launch Three 38.33333333333333% transmited on GCNM
+Flow Missle Warning Center Launch One 81.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 81.66666666666666% transmited on GCNM
 Flow Missle Warning Center Launch Two 12.0% transmited on GCNM
 Flow Ground Processing Launch Two 12.0% transmited on GCNM
-Finished Time Step 154
-Flow Antenna 1 PNT 20.0% transmited on EGS
-Flow Antenna 1PNT 2 20.0% transmited on EGS
+Finished Time Step 150
 Flow Quick Alert Launch Two 10.0% transmited on IST
-Flow Quick Alert Launch Three 80.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 25.0% transmited on EGS
-Flow Antenna 3 PNT 25.0% transmited on EGS
-Flow Antenna 4 PNT 25.0% transmited on EGS
-Flow Antenna 2PNT 2 25.0% transmited on EGS
-Flow Antenna 3PNT 2 25.0% transmited on EGS
-Flow Antenna 4PNT 2 25.0% transmited on EGS
-Flow Missle Warning Center Launch One 85.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 85.33333333333334% transmited on GCNM
+Flow Quick Alert Launch Three 40.33333333333333% transmited on GCNM
+Flow Missle Warning Center Launch One 83.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 83.66666666666666% transmited on GCNM
 Flow Missle Warning Center Launch Two 14.0% transmited on GCNM
 Flow Ground Processing Launch Two 14.0% transmited on GCNM
-Finished Time Step 155
-Flow Antenna 1 PNT 25.0% transmited on EGS
-Flow Antenna 1PNT 2 25.0% transmited on EGS
+Finished Time Step 151
 Flow Quick Alert Launch Two 20.0% transmited on IST
-Flow Quick Alert Launch Three 82.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 30.0% transmited on EGS
-Flow Antenna 3 PNT 30.0% transmited on EGS
-Flow Antenna 4 PNT 30.0% transmited on EGS
-Flow Antenna 2PNT 2 30.0% transmited on EGS
-Flow Antenna 3PNT 2 30.0% transmited on EGS
-Flow Antenna 4PNT 2 30.0% transmited on EGS
-Flow Missle Warning Center Launch One 87.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 87.33333333333334% transmited on GCNM
+Flow Quick Alert Launch Three 42.33333333333333% transmited on GCNM
+Flow Missle Warning Center Launch One 85.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 85.66666666666666% transmited on GCNM
 Flow Missle Warning Center Launch Two 16.0% transmited on GCNM
 Flow Ground Processing Launch Two 16.0% transmited on GCNM
-Finished Time Step 156
-Flow Antenna 1 PNT 30.0% transmited on EGS
-Flow Antenna 1PNT 2 30.0% transmited on EGS
+Finished Time Step 152
 Flow Quick Alert Launch Two 30.0% transmited on IST
-Flow Quick Alert Launch Three 84.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 35.0% transmited on EGS
-Flow Antenna 3 PNT 35.0% transmited on EGS
-Flow Antenna 4 PNT 35.0% transmited on EGS
-Flow Antenna 2PNT 2 35.0% transmited on EGS
-Flow Antenna 3PNT 2 35.0% transmited on EGS
-Flow Antenna 4PNT 2 35.0% transmited on EGS
-Flow Missle Warning Center Launch One 89.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 89.33333333333334% transmited on GCNM
+Flow Quick Alert Launch Three 44.33333333333333% transmited on GCNM
+Flow Missle Warning Center Launch One 87.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 87.66666666666666% transmited on GCNM
 Flow Missle Warning Center Launch Two 18.0% transmited on GCNM
 Flow Ground Processing Launch Two 18.0% transmited on GCNM
-Finished Time Step 157
-Flow Antenna 1 PNT 35.0% transmited on EGS
-Flow Antenna 1PNT 2 35.0% transmited on EGS
+Finished Time Step 153
 Flow Quick Alert Launch Two 40.0% transmited on IST
-Flow Quick Alert Launch Three 86.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 40.0% transmited on EGS
-Flow Antenna 3 PNT 40.0% transmited on EGS
-Flow Antenna 4 PNT 40.0% transmited on EGS
-Flow Antenna 2PNT 2 40.0% transmited on EGS
-Flow Antenna 3PNT 2 40.0% transmited on EGS
-Flow Antenna 4PNT 2 40.0% transmited on EGS
-Flow Missle Warning Center Launch One 91.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 91.33333333333334% transmited on GCNM
+Flow Quick Alert Launch Three 46.33333333333333% transmited on GCNM
+Flow Missle Warning Center Launch One 89.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 89.66666666666666% transmited on GCNM
 Flow Missle Warning Center Launch Two 20.0% transmited on GCNM
 Flow Ground Processing Launch Two 20.0% transmited on GCNM
-Finished Time Step 158
-Flow Antenna 1 PNT 40.0% transmited on EGS
-Flow Antenna 1PNT 2 40.0% transmited on EGS
+Finished Time Step 154
 Flow Quick Alert Launch Two 50.0% transmited on IST
-Flow Quick Alert Launch Three 88.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 45.0% transmited on EGS
-Flow Antenna 3 PNT 45.0% transmited on EGS
-Flow Antenna 4 PNT 45.0% transmited on EGS
-Flow Antenna 2PNT 2 45.0% transmited on EGS
-Flow Antenna 3PNT 2 45.0% transmited on EGS
-Flow Antenna 4PNT 2 45.0% transmited on EGS
-Flow Missle Warning Center Launch One 93.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 93.33333333333334% transmited on GCNM
+Flow Quick Alert Launch Three 48.33333333333333% transmited on GCNM
+Flow Missle Warning Center Launch One 91.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 91.66666666666666% transmited on GCNM
 Flow Missle Warning Center Launch Two 22.0% transmited on GCNM
 Flow Ground Processing Launch Two 22.0% transmited on GCNM
-Finished Time Step 159
-Flow Antenna 1 PNT 45.0% transmited on EGS
-Flow Antenna 1PNT 2 45.0% transmited on EGS
+Finished Time Step 155
 Flow Quick Alert Launch Two 60.0% transmited on IST
-Flow Quick Alert Launch Three 90.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 50.0% transmited on EGS
-Flow Antenna 3 PNT 50.0% transmited on EGS
-Flow Antenna 4 PNT 50.0% transmited on EGS
-Flow Antenna 2PNT 2 50.0% transmited on EGS
-Flow Antenna 3PNT 2 50.0% transmited on EGS
-Flow Antenna 4PNT 2 50.0% transmited on EGS
-Flow Missle Warning Center Launch One 95.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 95.33333333333334% transmited on GCNM
+Flow Quick Alert Launch Three 50.33333333333333% transmited on GCNM
+Flow Missle Warning Center Launch One 93.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 93.66666666666666% transmited on GCNM
 Flow Missle Warning Center Launch Two 24.0% transmited on GCNM
 Flow Ground Processing Launch Two 24.0% transmited on GCNM
-Finished Time Step 160
-Flow Antenna 1 PNT 50.0% transmited on EGS
-Flow Antenna 1PNT 2 50.0% transmited on EGS
+Finished Time Step 156
 Flow Quick Alert Launch Two 70.0% transmited on IST
-Flow Quick Alert Launch Three 92.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 55.0% transmited on EGS
-Flow Antenna 3 PNT 55.0% transmited on EGS
-Flow Antenna 4 PNT 55.0% transmited on EGS
-Flow Antenna 2PNT 2 55.0% transmited on EGS
-Flow Antenna 3PNT 2 55.0% transmited on EGS
-Flow Antenna 4PNT 2 55.0% transmited on EGS
-Flow Missle Warning Center Launch One 97.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 97.33333333333334% transmited on GCNM
+Flow Quick Alert Launch Three 52.33333333333333% transmited on GCNM
+Flow Missle Warning Center Launch One 95.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 95.66666666666666% transmited on GCNM
 Flow Missle Warning Center Launch Two 26.0% transmited on GCNM
 Flow Ground Processing Launch Two 26.0% transmited on GCNM
-Finished Time Step 161
-Flow Antenna 1 PNT 55.0% transmited on EGS
-Flow Antenna 1PNT 2 55.0% transmited on EGS
+Finished Time Step 157
 Flow Quick Alert Launch Two 80.0% transmited on IST
-Flow Quick Alert Launch Three 94.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 60.0% transmited on EGS
-Flow Antenna 3 PNT 60.0% transmited on EGS
-Flow Antenna 4 PNT 60.0% transmited on EGS
-Flow Antenna 2PNT 2 60.0% transmited on EGS
-Flow Antenna 3PNT 2 60.0% transmited on EGS
-Flow Antenna 4PNT 2 60.0% transmited on EGS
-Flow Missle Warning Center Launch One 99.33333333333334% transmited on GCNM
-Flow Ground Processing Launch One 99.33333333333334% transmited on GCNM
+Flow Quick Alert Launch Three 54.33333333333333% transmited on GCNM
+Flow Missle Warning Center Launch One 97.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 97.66666666666666% transmited on GCNM
 Flow Missle Warning Center Launch Two 28.0% transmited on GCNM
 Flow Ground Processing Launch Two 28.0% transmited on GCNM
-Finished Time Step 162
-Flow Antenna 1 PNT 60.0% transmited on EGS
-Flow Antenna 1PNT 2 60.0% transmited on EGS
+Finished Time Step 158
 Flow Quick Alert Launch Two 90.0% transmited on IST
-Flow Quick Alert Launch Three 96.33333333333334% transmited on GCNM
-Flow Antenna 2 PNT 65.0% transmited on EGS
-Flow Antenna 3 PNT 65.0% transmited on EGS
-Flow Antenna 4 PNT 65.0% transmited on EGS
-Flow Antenna 2PNT 2 65.0% transmited on EGS
-Flow Antenna 3PNT 2 65.0% transmited on EGS
-Flow Antenna 4PNT 2 65.0% transmited on EGS
-Flow Missle Warning Center Launch One 100% transmited on GCNM
-Flow Ground Processing Launch One 100% transmited on GCNM
-Flow Missle Warning Center Launch Two 31.333333333333332% transmited on GCNM
-Flow Ground Processing Launch Two 31.333333333333332% transmited on GCNM
-Finished Time Step 163
-Flow Antenna 1 PNT 65.0% transmited on EGS
-Flow Antenna 1PNT 2 65.0% transmited on EGS
+Flow Quick Alert Launch Three 56.33333333333333% transmited on GCNM
+Flow Missle Warning Center Launch One 99.66666666666666% transmited on GCNM
+Flow Ground Processing Launch One 99.66666666666666% transmited on GCNM
+Flow Missle Warning Center Launch Two 30.0% transmited on GCNM
+Flow Ground Processing Launch Two 30.0% transmited on GCNM
+Finished Time Step 159
 Flow Quick Alert Launch Two 100.0% transmited on IST
-Flow Quick Alert Launch Three 99.66666666666667% transmited on GCNM
-Flow Antenna 2 PNT 70.0% transmited on EGS
-Flow Antenna 3 PNT 70.0% transmited on EGS
-Flow Antenna 4 PNT 70.0% transmited on EGS
-Flow Antenna 2PNT 2 70.0% transmited on EGS
-Flow Antenna 3PNT 2 70.0% transmited on EGS
-Flow Antenna 4PNT 2 70.0% transmited on EGS
+Flow Quick Alert Launch Three 58.33333333333333% transmited on GCNM
 Flow Missle Warning Center Launch One 100% transmited on GCNM
 Flow Ground Processing Launch One 100% transmited on GCNM
-Flow Missle Warning Center Launch Two 34.666666666666664% transmited on GCNM
-Flow Ground Processing Launch Two 34.666666666666664% transmited on GCNM
+Flow Missle Warning Center Launch Two 33.333333333333336% transmited on GCNM
+Flow Ground Processing Launch Two 33.333333333333336% transmited on GCNM
+Finished Time Step 160
+Flow Quick Alert Launch Two 100.0% transmited on IST
+Flow Quick Alert Launch Three 61.666666666666664% transmited on GCNM
+Flow Missle Warning Center Launch One 100% transmited on GCNM
+Flow Ground Processing Launch One 100% transmited on GCNM
+Flow Missle Warning Center Launch Two 36.66666666666667% transmited on GCNM
+Flow Ground Processing Launch Two 36.66666666666667% transmited on GCNM
+Finished Time Step 161
+Flow Quick Alert Launch Three 65.0% transmited on GCNM
+Flow Missle Warning Center Launch Two 40.00000000000001% transmited on GCNM
+Flow Ground Processing Launch Two 40.00000000000001% transmited on GCNM
+Finished Time Step 162
+Flow Quick Alert Launch Three 68.33333333333333% transmited on GCNM
+Flow Missle Warning Center Launch Two 43.33333333333334% transmited on GCNM
+Flow Ground Processing Launch Two 43.33333333333334% transmited on GCNM
+Finished Time Step 163
+Flow Quick Alert Launch Three 71.66666666666666% transmited on GCNM
+Flow Missle Warning Center Launch Two 46.66666666666668% transmited on GCNM
+Flow Ground Processing Launch Two 46.66666666666668% transmited on GCNM
 Finished Time Step 164
-Flow Antenna 1 PNT 70.0% transmited on EGS
-Flow Antenna 1PNT 2 70.0% transmited on EGS
-Flow Quick Alert Launch Two 100% transmited on IST
+Flow Quick Alert Launch Three 74.99999999999999% transmited on GCNM
+Flow Missle Warning Center Launch Two 50.000000000000014% transmited on GCNM
+Flow Ground Processing Launch Two 50.000000000000014% transmited on GCNM
+Finished Time Step 165
+Flow Quick Alert Launch Three 78.33333333333331% transmited on GCNM
+Flow Missle Warning Center Launch Two 53.33333333333335% transmited on GCNM
+Flow Ground Processing Launch Two 53.33333333333335% transmited on GCNM
+Finished Time Step 166
+Flow Quick Alert Launch Three 81.66666666666664% transmited on GCNM
+Flow Missle Warning Center Launch Two 56.666666666666686% transmited on GCNM
+Flow Ground Processing Launch Two 56.666666666666686% transmited on GCNM
+Finished Time Step 167
+Flow Quick Alert Launch Three 84.99999999999997% transmited on GCNM
+Flow Missle Warning Center Launch Two 60.00000000000002% transmited on GCNM
+Flow Ground Processing Launch Two 60.00000000000002% transmited on GCNM
+Finished Time Step 168
+Flow Quick Alert Launch Three 88.3333333333333% transmited on GCNM
+Flow Missle Warning Center Launch Two 63.33333333333336% transmited on GCNM
+Flow Ground Processing Launch Two 63.33333333333336% transmited on GCNM
+Finished Time Step 169
+Flow Quick Alert Launch Three 91.66666666666663% transmited on GCNM
+Flow Missle Warning Center Launch Two 66.66666666666669% transmited on GCNM
+Flow Ground Processing Launch Two 66.66666666666669% transmited on GCNM
+Finished Time Step 170
+Flow Quick Alert Launch Three 94.99999999999996% transmited on GCNM
+Flow Missle Warning Center Launch One 10.0% transmited on IST
+Flow Missle Warning Center Launch Two 70.00000000000001% transmited on GCNM
+Flow Ground Processing Launch Two 70.00000000000001% transmited on GCNM
+Finished Time Step 171
+Flow Quick Alert Launch Three 98.33333333333329% transmited on GCNM
+Flow Missle Warning Center Launch One 20.0% transmited on IST
+Flow Missle Warning Center Launch Two 73.33333333333334% transmited on GCNM
+Flow Ground Processing Launch Two 73.33333333333334% transmited on GCNM
+Finished Time Step 172
 Flow Quick Alert Launch Three 100% transmited on GCNM
-Flow Antenna 2 PNT 75.0% transmited on EGS
-Flow Antenna 3 PNT 75.0% transmited on EGS
-Flow Antenna 4 PNT 75.0% transmited on EGS
-Flow Antenna 2PNT 2 75.0% transmited on EGS
-Flow Antenna 3PNT 2 75.0% transmited on EGS
-Flow Antenna 4PNT 2 75.0% transmited on EGS
-Flow Missle Warning Center Launch Two 39.666666666666664% transmited on GCNM
-Flow Ground Processing Launch Two 39.666666666666664% transmited on GCNM
+Flow Missle Warning Center Launch One 30.0% transmited on IST
+Flow Missle Warning Center Launch Two 78.33333333333334% transmited on GCNM
+Flow Ground Processing Launch Two 78.33333333333334% transmited on GCNM
 Starting flow Missle Warning Center Launch Three
 Starting flow Ground Processing Launch Three
-Finished Time Step 165
-Flow Antenna 1 PNT 75.0% transmited on EGS
-Flow Antenna 1PNT 2 75.0% transmited on EGS
+Finished Time Step 173
 Flow Quick Alert Launch Three 100% transmited on GCNM
-Flow Antenna 2 PNT 80.0% transmited on EGS
-Flow Antenna 3 PNT 80.0% transmited on EGS
-Flow Antenna 4 PNT 80.0% transmited on EGS
-Flow Antenna 2PNT 2 80.0% transmited on EGS
-Flow Antenna 3PNT 2 80.0% transmited on EGS
-Flow Antenna 4PNT 2 80.0% transmited on EGS
-Flow Missle Warning Center Launch Two 42.166666666666664% transmited on GCNM
-Flow Ground Processing Launch Two 42.166666666666664% transmited on GCNM
-Finished Time Step 166
-Flow Antenna 1 PNT 80.0% transmited on EGS
-Flow Antenna 1PNT 2 80.0% transmited on EGS
-Flow Antenna 2 PNT 85.0% transmited on EGS
-Flow Antenna 3 PNT 85.0% transmited on EGS
-Flow Antenna 4 PNT 85.0% transmited on EGS
-Flow Antenna 2PNT 2 85.0% transmited on EGS
-Flow Antenna 3PNT 2 85.0% transmited on EGS
-Flow Antenna 4PNT 2 85.0% transmited on EGS
-Flow Missle Warning Center Launch Two 44.666666666666664% transmited on GCNM
-Flow Ground Processing Launch Two 44.666666666666664% transmited on GCNM
-Finished Time Step 167
-Flow Antenna 1 PNT 85.0% transmited on EGS
-Flow Antenna 1PNT 2 85.0% transmited on EGS
-Flow Antenna 2 PNT 90.0% transmited on EGS
-Flow Antenna 3 PNT 90.0% transmited on EGS
-Flow Antenna 4 PNT 90.0% transmited on EGS
-Flow Antenna 2PNT 2 90.0% transmited on EGS
-Flow Antenna 3PNT 2 90.0% transmited on EGS
-Flow Antenna 4PNT 2 90.0% transmited on EGS
-Flow Missle Warning Center Launch Two 47.166666666666664% transmited on GCNM
-Flow Ground Processing Launch Two 47.166666666666664% transmited on GCNM
-Finished Time Step 168
-Flow Antenna 1 PNT 90.0% transmited on EGS
-Flow Antenna 1PNT 2 90.0% transmited on EGS
-Flow Antenna 2 PNT 95.0% transmited on EGS
-Flow Antenna 3 PNT 95.0% transmited on EGS
-Flow Antenna 4 PNT 95.0% transmited on EGS
-Flow Antenna 2PNT 2 95.0% transmited on EGS
-Flow Antenna 3PNT 2 95.0% transmited on EGS
-Flow Antenna 4PNT 2 95.0% transmited on EGS
-Flow Missle Warning Center Launch Two 49.666666666666664% transmited on GCNM
-Flow Ground Processing Launch Two 49.666666666666664% transmited on GCNM
-Finished Time Step 169
-Flow Antenna 1 PNT 95.0% transmited on EGS
-Flow Antenna 1PNT 2 95.0% transmited on EGS
-Flow Antenna 2 PNT 100.0% transmited on EGS
-Flow Antenna 3 PNT 100% transmited on EGS
-Flow Antenna 4 PNT 100% transmited on EGS
-Flow Antenna 2PNT 2 100% transmited on EGS
-Flow Antenna 3PNT 2 100% transmited on EGS
-Flow Antenna 4PNT 2 100% transmited on EGS
-Flow Missle Warning Center Launch Two 52.166666666666664% transmited on GCNM
-Flow Ground Processing Launch Two 52.166666666666664% transmited on GCNM
+Flow Missle Warning Center Launch One 35.0% transmited on IST
+Flow Missle Warning Center Launch Two 80.83333333333334% transmited on GCNM
+Flow Ground Processing Launch Two 80.83333333333334% transmited on GCNM
+Finished Time Step 174
+Flow Missle Warning Center Launch One 40.0% transmited on IST
+Flow Missle Warning Center Launch Two 83.33333333333334% transmited on GCNM
+Flow Ground Processing Launch Two 83.33333333333334% transmited on GCNM
+Finished Time Step 175
+Flow Missle Warning Center Launch One 45.0% transmited on IST
+Flow Missle Warning Center Launch Two 85.83333333333334% transmited on GCNM
+Flow Ground Processing Launch Two 85.83333333333334% transmited on GCNM
+Finished Time Step 176
+Flow Missle Warning Center Launch One 50.0% transmited on IST
+Flow Missle Warning Center Launch Two 88.33333333333334% transmited on GCNM
+Flow Ground Processing Launch Two 88.33333333333334% transmited on GCNM
+Finished Time Step 177
+Flow Missle Warning Center Launch One 55.0% transmited on IST
+Flow Missle Warning Center Launch Two 90.83333333333334% transmited on GCNM
+Flow Ground Processing Launch Two 90.83333333333334% transmited on GCNM
 Flow Missle Warning Center Launch Three 2.5% transmited on GCNM
 Flow Ground Processing Launch Three 2.5% transmited on GCNM
-Finished Time Step 170
-Flow Antenna 1 PNT 100% transmited on EGS
-Flow Antenna 1PNT 2 100% transmited on EGS
-Flow Antenna 2 PNT 100.0% transmited on EGS
-Flow Antenna 3 PNT 100% transmited on EGS
-Flow Antenna 4 PNT 100% transmited on EGS
-Flow Antenna 2PNT 2 100% transmited on EGS
-Flow Antenna 3PNT 2 100% transmited on EGS
-Flow Antenna 4PNT 2 100% transmited on EGS
-Flow Missle Warning Center Launch Two 54.666666666666664% transmited on GCNM
-Flow Ground Processing Launch Two 54.666666666666664% transmited on GCNM
+Finished Time Step 178
+Flow Missle Warning Center Launch One 60.0% transmited on IST
+Flow Missle Warning Center Launch Two 93.33333333333334% transmited on GCNM
+Flow Ground Processing Launch Two 93.33333333333334% transmited on GCNM
 Flow Missle Warning Center Launch Three 5.0% transmited on GCNM
 Flow Ground Processing Launch Three 5.0% transmited on GCNM
-Finished Time Step 171
-Flow Antenna 1 PNT 100% transmited on EGS
-Flow Antenna 1PNT 2 100% transmited on EGS
-Flow Antenna 2 PNT 6.666666666666667% transmited on EGS
-Flow Antenna 2PNT 2 6.666666666666667% transmited on EGS
-Flow Antenna 3PNT 2 6.666666666666667% transmited on EGS
-Flow Antenna 4PNT 2 6.666666666666667% transmited on EGS
-Flow Missle Warning Center Launch Two 57.166666666666664% transmited on GCNM
-Flow Ground Processing Launch Two 57.166666666666664% transmited on GCNM
+Finished Time Step 179
+Flow Missle Warning Center Launch One 65.0% transmited on IST
+Flow Missle Warning Center Launch Two 95.83333333333334% transmited on GCNM
+Flow Ground Processing Launch Two 95.83333333333334% transmited on GCNM
 Flow Missle Warning Center Launch Three 7.5% transmited on GCNM
 Flow Ground Processing Launch Three 7.5% transmited on GCNM
-Finished Time Step 172
-Flow Antenna 1 PNT 6.666666666666667% transmited on EGS
-Flow Antenna 1PNT 2 6.666666666666667% transmited on EGS
-Flow Antenna 2 PNT 13.333333333333334% transmited on EGS
-Flow Antenna 2PNT 2 13.333333333333334% transmited on EGS
-Flow Antenna 3PNT 2 13.333333333333334% transmited on EGS
-Flow Antenna 4PNT 2 13.333333333333334% transmited on EGS
-Flow Missle Warning Center Launch Two 59.666666666666664% transmited on GCNM
-Flow Ground Processing Launch Two 59.666666666666664% transmited on GCNM
+Finished Time Step 180
+Flow Missle Warning Center Launch One 70.0% transmited on IST
+Flow Missle Warning Center Launch Two 98.33333333333334% transmited on GCNM
+Flow Ground Processing Launch Two 98.33333333333334% transmited on GCNM
 Flow Missle Warning Center Launch Three 10.0% transmited on GCNM
 Flow Ground Processing Launch Three 10.0% transmited on GCNM
-Finished Time Step 173
-Flow Antenna 1 PNT 13.333333333333334% transmited on EGS
-Flow Antenna 1PNT 2 13.333333333333334% transmited on EGS
-Flow Antenna 2 PNT 20.0% transmited on EGS
-Flow Antenna 2PNT 2 20.0% transmited on EGS
-Flow Antenna 3PNT 2 20.0% transmited on EGS
-Flow Antenna 4PNT 2 20.0% transmited on EGS
-Flow Missle Warning Center Launch One 5.0% transmited on IST
-Flow Missle Warning Center Launch Two 62.166666666666664% transmited on GCNM
-Flow Ground Processing Launch Two 62.166666666666664% transmited on GCNM
-Flow Missle Warning Center Launch Three 12.5% transmited on GCNM
-Flow Ground Processing Launch Three 12.5% transmited on GCNM
-Finished Time Step 174
-Flow Antenna 1 PNT 20.0% transmited on EGS
-Flow Antenna 1PNT 2 20.0% transmited on EGS
-Flow Antenna 2 PNT 26.666666666666668% transmited on EGS
-Flow Antenna 2PNT 2 26.666666666666668% transmited on EGS
-Flow Antenna 3PNT 2 26.666666666666668% transmited on EGS
-Flow Antenna 4PNT 2 26.666666666666668% transmited on EGS
-Flow Missle Warning Center Launch One 10.0% transmited on IST
-Flow Missle Warning Center Launch Two 64.66666666666666% transmited on GCNM
-Flow Ground Processing Launch Two 64.66666666666666% transmited on GCNM
+Finished Time Step 181
+Flow Missle Warning Center Launch One 75.0% transmited on IST
+Flow Missle Warning Center Launch Two 100% transmited on GCNM
+Flow Ground Processing Launch Two 100% transmited on GCNM
 Flow Missle Warning Center Launch Three 15.0% transmited on GCNM
 Flow Ground Processing Launch Three 15.0% transmited on GCNM
-Finished Time Step 175
-Flow Antenna 1 PNT 26.666666666666668% transmited on EGS
-Flow Antenna 1PNT 2 26.666666666666668% transmited on EGS
-Flow Quick Alert Launch Three 5.0% transmited on IST
-Flow Antenna 2 PNT 33.333333333333336% transmited on EGS
-Flow Antenna 2PNT 2 33.333333333333336% transmited on EGS
-Flow Antenna 3PNT 2 33.333333333333336% transmited on EGS
-Flow Antenna 4PNT 2 33.333333333333336% transmited on EGS
-Flow Missle Warning Center Launch One 15.0% transmited on IST
-Flow Missle Warning Center Launch Two 67.16666666666666% transmited on GCNM
-Flow Ground Processing Launch Two 67.16666666666666% transmited on GCNM
-Flow Missle Warning Center Launch Three 17.5% transmited on GCNM
-Flow Ground Processing Launch Three 17.5% transmited on GCNM
-Finished Time Step 176
-Flow Antenna 1 PNT 33.333333333333336% transmited on EGS
-Flow Antenna 1PNT 2 33.333333333333336% transmited on EGS
-Flow Quick Alert Launch Three 10.0% transmited on IST
-Flow Antenna 2 PNT 40.0% transmited on EGS
-Flow Antenna 2PNT 2 40.0% transmited on EGS
-Flow Antenna 3PNT 2 40.0% transmited on EGS
-Flow Antenna 4PNT 2 40.0% transmited on EGS
-Flow Missle Warning Center Launch One 20.0% transmited on IST
-Flow Missle Warning Center Launch Two 69.66666666666666% transmited on GCNM
-Flow Ground Processing Launch Two 69.66666666666666% transmited on GCNM
+Finished Time Step 182
+Flow Missle Warning Center Launch One 80.0% transmited on IST
+Flow Missle Warning Center Launch Two 100% transmited on GCNM
+Flow Ground Processing Launch Two 100% transmited on GCNM
 Flow Missle Warning Center Launch Three 20.0% transmited on GCNM
 Flow Ground Processing Launch Three 20.0% transmited on GCNM
-Finished Time Step 177
-Flow Antenna 1 PNT 40.0% transmited on EGS
-Flow Antenna 1PNT 2 40.0% transmited on EGS
-Flow Quick Alert Launch Three 15.0% transmited on IST
-Flow Antenna 2 PNT 46.666666666666664% transmited on EGS
-Flow Antenna 2PNT 2 46.666666666666664% transmited on EGS
-Flow Antenna 3PNT 2 46.666666666666664% transmited on EGS
-Flow Antenna 4PNT 2 46.666666666666664% transmited on EGS
-Flow Missle Warning Center Launch One 25.0% transmited on IST
-Flow Missle Warning Center Launch Two 72.16666666666666% transmited on GCNM
-Flow Ground Processing Launch Two 72.16666666666666% transmited on GCNM
-Flow Missle Warning Center Launch Three 22.5% transmited on GCNM
-Flow Ground Processing Launch Three 22.5% transmited on GCNM
-Finished Time Step 178
-Flow Antenna 1 PNT 46.666666666666664% transmited on EGS
-Flow Antenna 1PNT 2 46.666666666666664% transmited on EGS
-Flow Quick Alert Launch Three 20.0% transmited on IST
-Flow Antenna 2 PNT 53.33333333333333% transmited on EGS
-Flow Antenna 2PNT 2 53.33333333333333% transmited on EGS
-Flow Antenna 3PNT 2 53.33333333333333% transmited on EGS
-Flow Antenna 4PNT 2 53.33333333333333% transmited on EGS
-Flow Missle Warning Center Launch One 30.0% transmited on IST
-Flow Missle Warning Center Launch Two 74.66666666666666% transmited on GCNM
-Flow Ground Processing Launch Two 74.66666666666666% transmited on GCNM
+Finished Time Step 183
+Flow Quick Alert Launch Three 3.3333333333333335% transmited on IST
+Flow Missle Warning Center Launch One 83.33333333333333% transmited on IST
 Flow Missle Warning Center Launch Three 25.0% transmited on GCNM
 Flow Ground Processing Launch Three 25.0% transmited on GCNM
-Finished Time Step 179
-Flow Antenna 1 PNT 53.33333333333333% transmited on EGS
-Flow Antenna 1PNT 2 53.33333333333333% transmited on EGS
-Flow Quick Alert Launch Three 25.0% transmited on IST
-Flow Antenna 2 PNT 59.99999999999999% transmited on EGS
-Flow Antenna 2PNT 2 59.99999999999999% transmited on EGS
-Flow Antenna 3PNT 2 59.99999999999999% transmited on EGS
-Flow Antenna 4PNT 2 59.99999999999999% transmited on EGS
-Flow Missle Warning Center Launch One 35.0% transmited on IST
-Flow Missle Warning Center Launch Two 77.16666666666666% transmited on GCNM
-Flow Ground Processing Launch Two 77.16666666666666% transmited on GCNM
-Flow Missle Warning Center Launch Three 27.5% transmited on GCNM
-Flow Ground Processing Launch Three 27.5% transmited on GCNM
-Finished Time Step 180
-Flow Antenna 1 PNT 59.99999999999999% transmited on EGS
-Flow Antenna 1PNT 2 59.99999999999999% transmited on EGS
-Flow Quick Alert Launch Three 30.0% transmited on IST
-Flow Antenna 2 PNT 66.66666666666666% transmited on EGS
-Flow Antenna 2PNT 2 66.66666666666666% transmited on EGS
-Flow Antenna 3PNT 2 66.66666666666666% transmited on EGS
-Flow Antenna 4PNT 2 66.66666666666666% transmited on EGS
-Flow Missle Warning Center Launch One 40.0% transmited on IST
-Flow Missle Warning Center Launch Two 79.66666666666666% transmited on GCNM
-Flow Ground Processing Launch Two 79.66666666666666% transmited on GCNM
+Finished Time Step 184
+Flow Quick Alert Launch Three 6.666666666666667% transmited on IST
+Flow Missle Warning Center Launch One 86.66666666666666% transmited on IST
 Flow Missle Warning Center Launch Three 30.0% transmited on GCNM
 Flow Ground Processing Launch Three 30.0% transmited on GCNM
-Finished Time Step 181
-Flow Antenna 1 PNT 66.66666666666666% transmited on EGS
-Flow Antenna 1PNT 2 66.66666666666666% transmited on EGS
-Flow Quick Alert Launch Three 35.0% transmited on IST
-Flow Antenna 2 PNT 73.33333333333333% transmited on EGS
-Flow Antenna 2PNT 2 73.33333333333333% transmited on EGS
-Flow Antenna 3PNT 2 73.33333333333333% transmited on EGS
-Flow Antenna 4PNT 2 73.33333333333333% transmited on EGS
-Flow Missle Warning Center Launch One 45.0% transmited on IST
-Flow Missle Warning Center Launch Two 82.16666666666666% transmited on GCNM
-Flow Ground Processing Launch Two 82.16666666666666% transmited on GCNM
-Flow Missle Warning Center Launch Three 32.5% transmited on GCNM
-Flow Ground Processing Launch Three 32.5% transmited on GCNM
-Finished Time Step 182
-Flow Antenna 1 PNT 73.33333333333333% transmited on EGS
-Flow Antenna 1PNT 2 73.33333333333333% transmited on EGS
-Flow Quick Alert Launch Three 40.0% transmited on IST
-Flow Antenna 2 PNT 80.0% transmited on EGS
-Flow Antenna 2PNT 2 80.0% transmited on EGS
-Flow Antenna 3PNT 2 80.0% transmited on EGS
-Flow Antenna 4PNT 2 80.0% transmited on EGS
-Flow Missle Warning Center Launch One 50.0% transmited on IST
-Flow Missle Warning Center Launch Two 84.66666666666666% transmited on GCNM
-Flow Ground Processing Launch Two 84.66666666666666% transmited on GCNM
+Finished Time Step 185
+Flow Quick Alert Launch Three 10.0% transmited on IST
+Flow Missle Warning Center Launch One 89.99999999999999% transmited on IST
 Flow Missle Warning Center Launch Three 35.0% transmited on GCNM
 Flow Ground Processing Launch Three 35.0% transmited on GCNM
-Finished Time Step 183
-Flow Antenna 1 PNT 80.0% transmited on EGS
-Flow Antenna 1PNT 2 80.0% transmited on EGS
-Flow Quick Alert Launch Three 45.0% transmited on IST
-Flow Antenna 2 PNT 86.66666666666667% transmited on EGS
-Flow Antenna 2PNT 2 86.66666666666667% transmited on EGS
-Flow Antenna 3PNT 2 86.66666666666667% transmited on EGS
-Flow Antenna 4PNT 2 86.66666666666667% transmited on EGS
-Flow Missle Warning Center Launch One 55.0% transmited on IST
-Flow Missle Warning Center Launch Two 87.16666666666666% transmited on GCNM
-Flow Ground Processing Launch Two 87.16666666666666% transmited on GCNM
-Flow Missle Warning Center Launch Three 37.5% transmited on GCNM
-Flow Ground Processing Launch Three 37.5% transmited on GCNM
-Finished Time Step 184
-Flow Antenna 1 PNT 86.66666666666667% transmited on EGS
-Flow Antenna 1PNT 2 86.66666666666667% transmited on EGS
-Flow Quick Alert Launch Three 50.0% transmited on IST
-Flow Antenna 2 PNT 93.33333333333334% transmited on EGS
-Flow Antenna 2PNT 2 93.33333333333334% transmited on EGS
-Flow Antenna 3PNT 2 93.33333333333334% transmited on EGS
-Flow Antenna 4PNT 2 93.33333333333334% transmited on EGS
-Flow Missle Warning Center Launch One 60.0% transmited on IST
-Flow Missle Warning Center Launch Two 89.66666666666666% transmited on GCNM
-Flow Ground Processing Launch Two 89.66666666666666% transmited on GCNM
+Finished Time Step 186
+Flow Quick Alert Launch Three 13.333333333333334% transmited on IST
+Flow Missle Warning Center Launch One 93.33333333333331% transmited on IST
 Flow Missle Warning Center Launch Three 40.0% transmited on GCNM
 Flow Ground Processing Launch Three 40.0% transmited on GCNM
-Finished Time Step 185
-Flow Antenna 1 PNT 93.33333333333334% transmited on EGS
-Flow Antenna 1PNT 2 93.33333333333334% transmited on EGS
-Flow Quick Alert Launch Three 55.0% transmited on IST
-Flow Antenna 2 PNT 100% transmited on EGS
-Flow Antenna 2PNT 2 100% transmited on EGS
-Flow Antenna 3PNT 2 100% transmited on EGS
-Flow Antenna 4PNT 2 100% transmited on EGS
-Flow Missle Warning Center Launch One 65.0% transmited on IST
-Flow Missle Warning Center Launch Two 92.16666666666666% transmited on GCNM
-Flow Ground Processing Launch Two 92.16666666666666% transmited on GCNM
-Flow Missle Warning Center Launch Three 42.5% transmited on GCNM
-Flow Ground Processing Launch Three 42.5% transmited on GCNM
-Finished Time Step 186
-Flow Antenna 1 PNT 100% transmited on EGS
-Flow Antenna 1PNT 2 100% transmited on EGS
-Flow Quick Alert Launch Three 60.0% transmited on IST
-Flow Antenna 2 PNT 100% transmited on EGS
-Flow Antenna 2PNT 2 100% transmited on EGS
-Flow Antenna 3PNT 2 100% transmited on EGS
-Flow Antenna 4PNT 2 100% transmited on EGS
-Flow Missle Warning Center Launch One 70.0% transmited on IST
-Flow Missle Warning Center Launch Two 94.66666666666666% transmited on GCNM
-Flow Ground Processing Launch Two 94.66666666666666% transmited on GCNM
+Finished Time Step 187
+Flow Quick Alert Launch Three 16.666666666666668% transmited on IST
+Flow Missle Warning Center Launch One 96.66666666666664% transmited on IST
 Flow Missle Warning Center Launch Three 45.0% transmited on GCNM
 Flow Ground Processing Launch Three 45.0% transmited on GCNM
-Finished Time Step 187
-Flow Antenna 1 PNT 100% transmited on EGS
-Flow Antenna 1PNT 2 100% transmited on EGS
-Flow Quick Alert Launch Three 65.0% transmited on IST
-Flow Antenna 2 PNT 6.666666666666667% transmited on EGS
-Flow Antenna 2PNT 2 6.666666666666667% transmited on EGS
-Flow Antenna 3PNT 2 6.666666666666667% transmited on EGS
-Flow Antenna 4PNT 2 6.666666666666667% transmited on EGS
-Flow Missle Warning Center Launch One 75.0% transmited on IST
-Flow Missle Warning Center Launch Two 97.16666666666666% transmited on GCNM
-Flow Ground Processing Launch Two 97.16666666666666% transmited on GCNM
-Flow Missle Warning Center Launch Three 47.5% transmited on GCNM
-Flow Ground Processing Launch Three 47.5% transmited on GCNM
 Finished Time Step 188
-Flow Antenna 1 PNT 6.666666666666667% transmited on EGS
-Flow Antenna 1PNT 2 6.666666666666667% transmited on EGS
-Flow Quick Alert Launch Three 70.0% transmited on IST
-Flow Antenna 2 PNT 13.333333333333334% transmited on EGS
-Flow Antenna 2PNT 2 13.333333333333334% transmited on EGS
-Flow Antenna 3PNT 2 13.333333333333334% transmited on EGS
-Flow Antenna 4PNT 2 13.333333333333334% transmited on EGS
-Flow Missle Warning Center Launch One 80.0% transmited on IST
-Flow Missle Warning Center Launch Two 99.66666666666666% transmited on GCNM
-Flow Ground Processing Launch Two 99.66666666666666% transmited on GCNM
+Flow Quick Alert Launch Three 20.0% transmited on IST
+Flow Missle Warning Center Launch One 99.99999999999997% transmited on IST
 Flow Missle Warning Center Launch Three 50.0% transmited on GCNM
 Flow Ground Processing Launch Three 50.0% transmited on GCNM
 Finished Time Step 189
-Flow Antenna 1 PNT 13.333333333333334% transmited on EGS
-Flow Antenna 1PNT 2 13.333333333333334% transmited on EGS
-Flow Quick Alert Launch Three 75.0% transmited on IST
-Flow Antenna 2 PNT 20.0% transmited on EGS
-Flow Antenna 2PNT 2 20.0% transmited on EGS
-Flow Antenna 3PNT 2 20.0% transmited on EGS
-Flow Antenna 4PNT 2 20.0% transmited on EGS
-Flow Missle Warning Center Launch One 85.0% transmited on IST
-Flow Missle Warning Center Launch Two 100% transmited on GCNM
-Flow Ground Processing Launch Two 100% transmited on GCNM
+Flow Quick Alert Launch Three 23.333333333333332% transmited on IST
+Flow Missle Warning Center Launch One 100% transmited on IST
 Flow Missle Warning Center Launch Three 55.0% transmited on GCNM
 Flow Ground Processing Launch Three 55.0% transmited on GCNM
+Starting flow continues to monitor event updates Launch One
 Finished Time Step 190
-Flow Antenna 1 PNT 20.0% transmited on EGS
-Flow Antenna 1PNT 2 20.0% transmited on EGS
-Flow Quick Alert Launch Three 80.0% transmited on IST
-Flow Antenna 2 PNT 26.666666666666668% transmited on EGS
-Flow Antenna 2PNT 2 26.666666666666668% transmited on EGS
-Flow Antenna 3PNT 2 26.666666666666668% transmited on EGS
-Flow Antenna 4PNT 2 26.666666666666668% transmited on EGS
-Flow Missle Warning Center Launch One 90.0% transmited on IST
-Flow Missle Warning Center Launch Two 100% transmited on GCNM
-Flow Ground Processing Launch Two 100% transmited on GCNM
+Flow Quick Alert Launch Three 28.333333333333332% transmited on IST
+Flow Missle Warning Center Launch One 100% transmited on IST
 Flow Missle Warning Center Launch Three 60.0% transmited on GCNM
 Flow Ground Processing Launch Three 60.0% transmited on GCNM
 Finished Time Step 191
-Flow Antenna 1 PNT 26.666666666666668% transmited on EGS
-Flow Antenna 1PNT 2 26.666666666666668% transmited on EGS
-Flow Quick Alert Launch Three 83.33333333333333% transmited on IST
-Flow Antenna 2 PNT 33.333333333333336% transmited on EGS
-Flow Antenna 2PNT 2 33.333333333333336% transmited on EGS
-Flow Antenna 3PNT 2 33.333333333333336% transmited on EGS
-Flow Antenna 4PNT 2 33.333333333333336% transmited on EGS
-Flow Missle Warning Center Launch One 93.33333333333333% transmited on IST
+Flow Quick Alert Launch Three 31.666666666666664% transmited on IST
 Flow Missle Warning Center Launch Three 65.0% transmited on GCNM
 Flow Ground Processing Launch Three 65.0% transmited on GCNM
 Finished Time Step 192
-Flow Antenna 1 PNT 33.333333333333336% transmited on EGS
-Flow Antenna 1PNT 2 33.333333333333336% transmited on EGS
-Flow Quick Alert Launch Three 86.66666666666666% transmited on IST
-Flow Antenna 2 PNT 40.0% transmited on EGS
-Flow Antenna 2PNT 2 40.0% transmited on EGS
-Flow Antenna 3PNT 2 40.0% transmited on EGS
-Flow Antenna 4PNT 2 40.0% transmited on EGS
-Flow Missle Warning Center Launch One 96.66666666666666% transmited on IST
+Flow Quick Alert Launch Three 35.0% transmited on IST
+Flow Missle Warning Center Launch Two 3.3333333333333335% transmited on IST
 Flow Missle Warning Center Launch Three 70.0% transmited on GCNM
 Flow Ground Processing Launch Three 70.0% transmited on GCNM
 Finished Time Step 193
-Flow Antenna 1 PNT 40.0% transmited on EGS
-Flow Antenna 1PNT 2 40.0% transmited on EGS
-Flow Quick Alert Launch Three 89.99999999999999% transmited on IST
-Flow Antenna 2 PNT 46.666666666666664% transmited on EGS
-Flow Antenna 2PNT 2 46.666666666666664% transmited on EGS
-Flow Antenna 3PNT 2 46.666666666666664% transmited on EGS
-Flow Antenna 4PNT 2 46.666666666666664% transmited on EGS
-Flow Missle Warning Center Launch One 99.99999999999999% transmited on IST
+Flow Quick Alert Launch Three 38.333333333333336% transmited on IST
+Flow Missle Warning Center Launch Two 6.666666666666667% transmited on IST
 Flow Missle Warning Center Launch Three 75.0% transmited on GCNM
 Flow Ground Processing Launch Three 75.0% transmited on GCNM
 Finished Time Step 194
-Flow Antenna 1 PNT 46.666666666666664% transmited on EGS
-Flow Antenna 1PNT 2 46.666666666666664% transmited on EGS
-Flow Quick Alert Launch Three 93.33333333333331% transmited on IST
-Flow Antenna 2 PNT 53.33333333333333% transmited on EGS
-Flow Antenna 2PNT 2 53.33333333333333% transmited on EGS
-Flow Antenna 3PNT 2 53.33333333333333% transmited on EGS
-Flow Antenna 4PNT 2 53.33333333333333% transmited on EGS
-Flow Missle Warning Center Launch One 100% transmited on IST
+Flow Quick Alert Launch Three 41.66666666666667% transmited on IST
+Flow Missle Warning Center Launch Two 10.0% transmited on IST
 Flow Missle Warning Center Launch Three 80.0% transmited on GCNM
 Flow Ground Processing Launch Three 80.0% transmited on GCNM
-Starting flow continues to monitor event updates Launch One
 Finished Time Step 195
-Flow Antenna 1 PNT 53.33333333333333% transmited on EGS
-Flow Antenna 1PNT 2 53.33333333333333% transmited on EGS
-Flow Quick Alert Launch Three 98.33333333333331% transmited on IST
-Flow Antenna 2 PNT 59.99999999999999% transmited on EGS
-Flow Antenna 2PNT 2 59.99999999999999% transmited on EGS
-Flow Antenna 3PNT 2 59.99999999999999% transmited on EGS
-Flow Antenna 4PNT 2 59.99999999999999% transmited on EGS
-Flow Missle Warning Center Launch One 100% transmited on IST
+Flow Quick Alert Launch Three 45.00000000000001% transmited on IST
+Flow Missle Warning Center Launch Two 13.333333333333334% transmited on IST
 Flow Missle Warning Center Launch Three 85.0% transmited on GCNM
 Flow Ground Processing Launch Three 85.0% transmited on GCNM
 Finished Time Step 196
-Flow Antenna 1 PNT 59.99999999999999% transmited on EGS
-Flow Antenna 1PNT 2 59.99999999999999% transmited on EGS
-Flow Quick Alert Launch Three 100% transmited on IST
-Flow Antenna 2 PNT 66.66666666666666% transmited on EGS
-Flow Antenna 2PNT 2 66.66666666666666% transmited on EGS
-Flow Antenna 3PNT 2 66.66666666666666% transmited on EGS
-Flow Antenna 4PNT 2 66.66666666666666% transmited on EGS
+Flow Quick Alert Launch Three 48.33333333333334% transmited on IST
+Flow Missle Warning Center Launch Two 16.666666666666668% transmited on IST
 Flow Missle Warning Center Launch Three 90.0% transmited on GCNM
 Flow Ground Processing Launch Three 90.0% transmited on GCNM
 Finished Time Step 197
-Flow Antenna 1 PNT 66.66666666666666% transmited on EGS
-Flow Antenna 1PNT 2 66.66666666666666% transmited on EGS
-Flow Quick Alert Launch Three 100% transmited on IST
-Flow Antenna 2 PNT 73.33333333333333% transmited on EGS
-Flow Antenna 2PNT 2 73.33333333333333% transmited on EGS
-Flow Antenna 3PNT 2 73.33333333333333% transmited on EGS
-Flow Antenna 4PNT 2 73.33333333333333% transmited on EGS
+Flow Quick Alert Launch Three 51.66666666666668% transmited on IST
+Flow Missle Warning Center Launch Two 20.0% transmited on IST
 Flow Missle Warning Center Launch Three 95.0% transmited on GCNM
 Flow Ground Processing Launch Three 95.0% transmited on GCNM
 Finished Time Step 198
-Flow Antenna 1 PNT 73.33333333333333% transmited on EGS
-Flow Antenna 1PNT 2 73.33333333333333% transmited on EGS
-Flow Antenna 2 PNT 80.0% transmited on EGS
-Flow Antenna 2PNT 2 80.0% transmited on EGS
-Flow Antenna 3PNT 2 80.0% transmited on EGS
-Flow Antenna 4PNT 2 80.0% transmited on EGS
+Flow Quick Alert Launch Three 55.000000000000014% transmited on IST
+Flow Missle Warning Center Launch Two 23.333333333333332% transmited on IST
 Flow Missle Warning Center Launch Three 100.0% transmited on GCNM
 Flow Ground Processing Launch Three 100% transmited on GCNM
 Finished Time Step 199
-Flow Antenna 1 PNT 80.0% transmited on EGS
-Flow Antenna 1PNT 2 80.0% transmited on EGS
-Flow Antenna 2 PNT 86.66666666666667% transmited on EGS
-Flow Antenna 2PNT 2 86.66666666666667% transmited on EGS
-Flow Antenna 3PNT 2 86.66666666666667% transmited on EGS
-Flow Antenna 4PNT 2 86.66666666666667% transmited on EGS
+Flow Quick Alert Launch Three 58.33333333333335% transmited on IST
+Flow Missle Warning Center Launch Two 26.666666666666664% transmited on IST
 Flow Missle Warning Center Launch Three 100.0% transmited on GCNM
 Flow Ground Processing Launch Three 100% transmited on GCNM
-Finished Time Step 200
-Flow Antenna 1 PNT 86.66666666666667% transmited on EGS
-Flow Antenna 1PNT 2 86.66666666666667% transmited on EGS
-Flow Antenna 2 PNT 93.33333333333334% transmited on EGS
-Flow Antenna 2PNT 2 93.33333333333334% transmited on EGS
-Flow Antenna 3PNT 2 93.33333333333334% transmited on EGS
-Flow Antenna 4PNT 2 93.33333333333334% transmited on EGS
-Flow Missle Warning Center Launch Two 3.3333333333333335% transmited on IST
-Finished Time Step 201
-Flow Antenna 1 PNT 93.33333333333334% transmited on EGS
-Flow Antenna 1PNT 2 93.33333333333334% transmited on EGS
-Flow Antenna 2 PNT 100% transmited on EGS
-Flow Antenna 2PNT 2 100% transmited on EGS
-Flow Antenna 3PNT 2 100% transmited on EGS
-Flow Antenna 4PNT 2 100% transmited on EGS
-Flow Missle Warning Center Launch Two 6.666666666666667% transmited on IST
-Finished Time Step 202
-Flow Antenna 1 PNT 100% transmited on EGS
-Flow Antenna 1PNT 2 100% transmited on EGS
-Flow Antenna 2 PNT 100% transmited on EGS
-Flow Antenna 2PNT 2 100% transmited on EGS
-Flow Antenna 3PNT 2 100% transmited on EGS
-Flow Antenna 4PNT 2 100% transmited on EGS
-Flow Missle Warning Center Launch Two 10.0% transmited on IST
-Finished Time Step 203
-Flow Antenna 1 PNT 100% transmited on EGS
-Flow Antenna 1PNT 2 100% transmited on EGS
-Flow Antenna 2 PNT 13.333333333333334% transmited on EGS
-Flow Antenna 2PNT 2 13.333333333333334% transmited on EGS
-Flow Missle Warning Center Launch Two 13.333333333333334% transmited on IST
-Finished Time Step 204
-Flow Antenna 1PNT 2 13.333333333333334% transmited on EGS
-Flow Antenna 2 PNT 26.666666666666668% transmited on EGS
-Flow Antenna 2PNT 2 26.666666666666668% transmited on EGS
-Flow Missle Warning Center Launch Two 16.666666666666668% transmited on IST
 Flow continues to monitor event updates Launch One 10.0% transmited on MARS
-Finished Time Step 205
-Flow Antenna 1PNT 2 26.666666666666668% transmited on EGS
-Flow Antenna 2 PNT 40.0% transmited on EGS
-Flow Antenna 2PNT 2 40.0% transmited on EGS
-Flow Missle Warning Center Launch One 3.3333333333333335% transmited on IST
-Flow Missle Warning Center Launch Two 20.0% transmited on IST
+Finished Time Step 200
+Flow Quick Alert Launch Three 60.83333333333335% transmited on IST
+Flow Missle Warning Center Launch One 2.5% transmited on IST
+Flow Missle Warning Center Launch Two 29.166666666666664% transmited on IST
 Flow continues to monitor event updates Launch One 20.0% transmited on MARS
-Finished Time Step 206
-Flow Antenna 1PNT 2 40.0% transmited on EGS
-Flow Antenna 2 PNT 53.333333333333336% transmited on EGS
-Flow Antenna 2PNT 2 53.333333333333336% transmited on EGS
-Flow Missle Warning Center Launch One 6.666666666666667% transmited on IST
-Flow Missle Warning Center Launch Two 23.333333333333332% transmited on IST
+Finished Time Step 201
+Flow Quick Alert Launch Three 63.33333333333335% transmited on IST
+Flow Missle Warning Center Launch One 5.0% transmited on IST
+Flow Missle Warning Center Launch Two 31.666666666666664% transmited on IST
 Flow continues to monitor event updates Launch One 30.0% transmited on MARS
-Finished Time Step 207
-Flow Antenna 1PNT 2 53.333333333333336% transmited on EGS
-Flow Antenna 2 PNT 66.66666666666667% transmited on EGS
-Flow Antenna 2PNT 2 66.66666666666667% transmited on EGS
-Flow Missle Warning Center Launch One 10.0% transmited on IST
-Flow Missle Warning Center Launch Two 26.666666666666664% transmited on IST
+Finished Time Step 202
+Flow Quick Alert Launch Three 65.83333333333334% transmited on IST
+Flow Missle Warning Center Launch One 7.5% transmited on IST
+Flow Missle Warning Center Launch Two 34.166666666666664% transmited on IST
 Flow continues to monitor event updates Launch One 40.0% transmited on MARS
-Finished Time Step 208
-Flow Antenna 1PNT 2 66.66666666666667% transmited on EGS
-Flow Antenna 2 PNT 80.0% transmited on EGS
-Flow Antenna 2PNT 2 80.0% transmited on EGS
-Flow Missle Warning Center Launch One 13.333333333333334% transmited on IST
-Flow Missle Warning Center Launch Two 29.999999999999996% transmited on IST
-Flow continues to monitor event updates Launch One 50.0% transmited on MARS
-Finished Time Step 209
-Flow Antenna 1PNT 2 80.0% transmited on EGS
-Flow Antenna 2 PNT 93.33333333333333% transmited on EGS
-Flow Antenna 2PNT 2 93.33333333333333% transmited on EGS
-Flow Missle Warning Center Launch One 16.666666666666668% transmited on IST
-Flow Missle Warning Center Launch Two 33.33333333333333% transmited on IST
-Flow Missle Warning Center Launch Three 3.3333333333333335% transmited on IST
-Flow continues to monitor event updates Launch One 60.0% transmited on MARS
-Finished Time Step 210
-Flow Antenna 1PNT 2 93.33333333333333% transmited on EGS
-Flow Antenna 2 PNT 100% transmited on EGS
-Flow Antenna 2PNT 2 100% transmited on EGS
-Flow Missle Warning Center Launch One 20.0% transmited on IST
+Finished Time Step 203
+Flow Quick Alert Launch Three 68.33333333333334% transmited on IST
+Flow Missle Warning Center Launch One 10.0% transmited on IST
 Flow Missle Warning Center Launch Two 36.666666666666664% transmited on IST
-Flow Missle Warning Center Launch Three 6.666666666666667% transmited on IST
+Flow continues to monitor event updates Launch One 50.0% transmited on MARS
+Finished Time Step 204
+Flow Quick Alert Launch Three 70.83333333333334% transmited on IST
+Flow Missle Warning Center Launch One 12.5% transmited on IST
+Flow Missle Warning Center Launch Two 39.166666666666664% transmited on IST
+Flow continues to monitor event updates Launch One 60.0% transmited on MARS
+Finished Time Step 205
+Flow Quick Alert Launch Three 73.33333333333334% transmited on IST
+Flow Missle Warning Center Launch One 15.0% transmited on IST
+Flow Missle Warning Center Launch Two 41.666666666666664% transmited on IST
 Flow continues to monitor event updates Launch One 70.0% transmited on MARS
-Finished Time Step 211
-Flow Antenna 1PNT 2 100% transmited on EGS
-Flow Antenna 2 PNT 100% transmited on EGS
-Flow Antenna 2PNT 2 100% transmited on EGS
-Flow Missle Warning Center Launch One 23.333333333333332% transmited on IST
-Flow Missle Warning Center Launch Two 40.0% transmited on IST
-Flow Missle Warning Center Launch Three 10.0% transmited on IST
+Finished Time Step 206
+Flow Quick Alert Launch Three 75.83333333333334% transmited on IST
+Flow Missle Warning Center Launch One 17.5% transmited on IST
+Flow Missle Warning Center Launch Two 44.166666666666664% transmited on IST
 Flow continues to monitor event updates Launch One 80.0% transmited on MARS
-Finished Time Step 212
-Flow Antenna 1PNT 2 100% transmited on EGS
-Flow Antenna 2PNT 2 20.0% transmited on EGS
-Flow Missle Warning Center Launch One 26.666666666666664% transmited on IST
-Flow Missle Warning Center Launch Two 43.333333333333336% transmited on IST
-Flow Missle Warning Center Launch Three 13.333333333333334% transmited on IST
+Finished Time Step 207
+Flow Quick Alert Launch Three 78.33333333333334% transmited on IST
+Flow Missle Warning Center Launch One 20.0% transmited on IST
+Flow Missle Warning Center Launch Two 46.666666666666664% transmited on IST
 Flow continues to monitor event updates Launch One 90.0% transmited on MARS
+Finished Time Step 208
+Flow Quick Alert Launch Three 80.83333333333334% transmited on IST
+Flow Missle Warning Center Launch One 22.5% transmited on IST
+Flow Missle Warning Center Launch Two 49.166666666666664% transmited on IST
+Flow continues to monitor event updates Launch One 100.0% transmited on MARS
+Finished Time Step 209
+Flow Quick Alert Launch Three 83.33333333333334% transmited on IST
+Flow Missle Warning Center Launch One 25.0% transmited on IST
+Flow Missle Warning Center Launch Two 51.666666666666664% transmited on IST
+Flow Missle Warning Center Launch Three 2.5% transmited on IST
+Flow continues to monitor event updates Launch One 100.0% transmited on MARS
+Finished Time Step 210
+Flow Quick Alert Launch Three 85.83333333333334% transmited on IST
+Flow Missle Warning Center Launch One 27.5% transmited on IST
+Flow Missle Warning Center Launch Two 54.166666666666664% transmited on IST
+Flow Missle Warning Center Launch Three 5.0% transmited on IST
+Finished Time Step 211
+Flow Quick Alert Launch Three 88.33333333333334% transmited on IST
+Flow Missle Warning Center Launch One 30.0% transmited on IST
+Flow Missle Warning Center Launch Two 56.666666666666664% transmited on IST
+Flow Missle Warning Center Launch Three 7.5% transmited on IST
+Finished Time Step 212
+Flow Quick Alert Launch Three 90.83333333333334% transmited on IST
+Flow Missle Warning Center Launch One 32.5% transmited on IST
+Flow Missle Warning Center Launch Two 59.166666666666664% transmited on IST
+Flow Missle Warning Center Launch Three 10.0% transmited on IST
 Finished Time Step 213
-Flow Antenna 1PNT 2 20.0% transmited on EGS
-Flow Antenna 2PNT 2 40.0% transmited on EGS
-Flow Missle Warning Center Launch One 29.999999999999996% transmited on IST
-Flow Missle Warning Center Launch Two 46.66666666666667% transmited on IST
-Flow Missle Warning Center Launch Three 16.666666666666668% transmited on IST
-Flow continues to monitor event updates Launch One 100.0% transmited on MARS
+Flow Quick Alert Launch Three 93.33333333333334% transmited on IST
+Flow Missle Warning Center Launch One 35.0% transmited on IST
+Flow Missle Warning Center Launch Two 61.666666666666664% transmited on IST
+Flow Missle Warning Center Launch Three 12.5% transmited on IST
 Finished Time Step 214
-Flow Antenna 1PNT 2 40.0% transmited on EGS
-Flow Antenna 2PNT 2 60.0% transmited on EGS
-Flow Missle Warning Center Launch One 33.33333333333333% transmited on IST
-Flow Missle Warning Center Launch Two 50.00000000000001% transmited on IST
-Flow Missle Warning Center Launch Three 20.0% transmited on IST
-Flow continues to monitor event updates Launch One 100.0% transmited on MARS
+Flow Quick Alert Launch Three 95.83333333333334% transmited on IST
+Flow Missle Warning Center Launch One 37.5% transmited on IST
+Flow Missle Warning Center Launch Two 64.16666666666666% transmited on IST
+Flow Missle Warning Center Launch Three 15.0% transmited on IST
 Finished Time Step 215
-Flow Antenna 1PNT 2 60.0% transmited on EGS
-Flow Antenna 2PNT 2 80.0% transmited on EGS
-Flow Missle Warning Center Launch One 36.666666666666664% transmited on IST
-Flow Missle Warning Center Launch Two 53.33333333333334% transmited on IST
-Flow Missle Warning Center Launch Three 23.333333333333332% transmited on IST
-Finished Time Step 216
-Flow Antenna 1PNT 2 80.0% transmited on EGS
-Flow Antenna 2PNT 2 100.0% transmited on EGS
+Flow Quick Alert Launch Three 98.33333333333334% transmited on IST
 Flow Missle Warning Center Launch One 40.0% transmited on IST
-Flow Missle Warning Center Launch Two 56.66666666666668% transmited on IST
-Flow Missle Warning Center Launch Three 26.666666666666664% transmited on IST
-Finished Time Step 217
-Flow Antenna 1PNT 2 100% transmited on EGS
-Flow Antenna 2PNT 2 100.0% transmited on EGS
+Flow Missle Warning Center Launch Two 66.66666666666666% transmited on IST
+Flow Missle Warning Center Launch Three 17.5% transmited on IST
+Finished Time Step 216
+Flow Quick Alert Launch Three 100% transmited on IST
 Flow Missle Warning Center Launch One 43.333333333333336% transmited on IST
-Flow Missle Warning Center Launch Two 60.000000000000014% transmited on IST
-Flow Missle Warning Center Launch Three 29.999999999999996% transmited on IST
-Finished Time Step 218
-Flow Antenna 1PNT 2 100% transmited on EGS
-Flow Antenna 2PNT 2 40.0% transmited on EGS
+Flow Missle Warning Center Launch Two 69.99999999999999% transmited on IST
+Flow Missle Warning Center Launch Three 20.833333333333332% transmited on IST
+Finished Time Step 217
+Flow Quick Alert Launch Three 100% transmited on IST
 Flow Missle Warning Center Launch One 46.66666666666667% transmited on IST
-Flow Missle Warning Center Launch Two 63.33333333333335% transmited on IST
-Flow Missle Warning Center Launch Three 33.33333333333333% transmited on IST
-Finished Time Step 219
-Flow Antenna 2PNT 2 80.0% transmited on EGS
+Flow Missle Warning Center Launch Two 73.33333333333331% transmited on IST
+Flow Missle Warning Center Launch Three 24.166666666666664% transmited on IST
+Finished Time Step 218
 Flow Missle Warning Center Launch One 50.00000000000001% transmited on IST
-Flow Missle Warning Center Launch Two 66.66666666666669% transmited on IST
-Flow Missle Warning Center Launch Three 36.666666666666664% transmited on IST
-Finished Time Step 220
-Flow Antenna 2PNT 2 100% transmited on EGS
+Flow Missle Warning Center Launch Two 76.66666666666664% transmited on IST
+Flow Missle Warning Center Launch Three 27.499999999999996% transmited on IST
+Finished Time Step 219
 Flow Missle Warning Center Launch One 53.33333333333334% transmited on IST
-Flow Missle Warning Center Launch Two 70.00000000000001% transmited on IST
-Flow Missle Warning Center Launch Three 40.0% transmited on IST
-Finished Time Step 221
-Flow Antenna 2PNT 2 100% transmited on EGS
+Flow Missle Warning Center Launch Two 79.99999999999997% transmited on IST
+Flow Missle Warning Center Launch Three 30.83333333333333% transmited on IST
+Finished Time Step 220
 Flow Missle Warning Center Launch One 56.66666666666668% transmited on IST
-Flow Missle Warning Center Launch Two 73.33333333333334% transmited on IST
-Flow Missle Warning Center Launch Three 43.333333333333336% transmited on IST
-Finished Time Step 222
+Flow Missle Warning Center Launch Two 83.3333333333333% transmited on IST
+Flow Missle Warning Center Launch Three 34.166666666666664% transmited on IST
+Finished Time Step 221
 Flow Missle Warning Center Launch One 60.000000000000014% transmited on IST
-Flow Missle Warning Center Launch Two 76.66666666666667% transmited on IST
-Flow Missle Warning Center Launch Three 46.66666666666667% transmited on IST
-Finished Time Step 223
+Flow Missle Warning Center Launch Two 86.66666666666663% transmited on IST
+Flow Missle Warning Center Launch Three 37.5% transmited on IST
+Finished Time Step 222
 Flow Missle Warning Center Launch One 63.33333333333335% transmited on IST
-Flow Missle Warning Center Launch Two 80.0% transmited on IST
-Flow Missle Warning Center Launch Three 50.00000000000001% transmited on IST
-Finished Time Step 224
+Flow Missle Warning Center Launch Two 89.99999999999996% transmited on IST
+Flow Missle Warning Center Launch Three 40.833333333333336% transmited on IST
+Finished Time Step 223
 Flow Missle Warning Center Launch One 66.66666666666669% transmited on IST
-Flow Missle Warning Center Launch Two 83.33333333333333% transmited on IST
-Flow Missle Warning Center Launch Three 53.33333333333334% transmited on IST
-Finished Time Step 225
+Flow Missle Warning Center Launch Two 93.33333333333329% transmited on IST
+Flow Missle Warning Center Launch Three 44.16666666666667% transmited on IST
+Finished Time Step 224
 Flow Missle Warning Center Launch One 70.00000000000001% transmited on IST
-Flow Missle Warning Center Launch Two 86.66666666666666% transmited on IST
-Flow Missle Warning Center Launch Three 56.66666666666668% transmited on IST
-Finished Time Step 226
+Flow Missle Warning Center Launch Two 96.66666666666661% transmited on IST
+Flow Missle Warning Center Launch Three 47.50000000000001% transmited on IST
+Finished Time Step 225
 Flow Missle Warning Center Launch One 73.33333333333334% transmited on IST
-Flow Missle Warning Center Launch Two 89.99999999999999% transmited on IST
-Flow Missle Warning Center Launch Three 60.000000000000014% transmited on IST
-Finished Time Step 227
+Flow Missle Warning Center Launch Two 99.99999999999994% transmited on IST
+Flow Missle Warning Center Launch Three 50.83333333333334% transmited on IST
+Finished Time Step 226
 Flow Missle Warning Center Launch One 76.66666666666667% transmited on IST
-Flow Missle Warning Center Launch Two 93.33333333333331% transmited on IST
-Flow Missle Warning Center Launch Three 63.33333333333335% transmited on IST
-Finished Time Step 228
-Flow Missle Warning Center Launch One 80.0% transmited on IST
-Flow Missle Warning Center Launch Two 96.66666666666664% transmited on IST
-Flow Missle Warning Center Launch Three 66.66666666666669% transmited on IST
-Finished Time Step 229
-Flow Missle Warning Center Launch One 83.33333333333333% transmited on IST
-Flow Missle Warning Center Launch Two 99.99999999999997% transmited on IST
-Flow Missle Warning Center Launch Three 70.00000000000001% transmited on IST
-Finished Time Step 230
-Flow Missle Warning Center Launch One 86.66666666666666% transmited on IST
 Flow Missle Warning Center Launch Two 100% transmited on IST
-Flow Missle Warning Center Launch Three 75.00000000000001% transmited on IST
+Flow Missle Warning Center Launch Three 55.83333333333334% transmited on IST
 Starting flow continues to monitor event updates Launch Two
-Finished Time Step 231
-Flow Missle Warning Center Launch One 91.66666666666666% transmited on IST
+Finished Time Step 227
+Flow Missle Warning Center Launch One 81.66666666666667% transmited on IST
 Flow Missle Warning Center Launch Two 100% transmited on IST
-Flow Missle Warning Center Launch Three 78.33333333333334% transmited on IST
-Finished Time Step 232
+Flow Missle Warning Center Launch Three 59.16666666666668% transmited on IST
+Finished Time Step 228
+Flow Missle Warning Center Launch One 85.0% transmited on IST
+Flow Missle Warning Center Launch Three 62.500000000000014% transmited on IST
+Finished Time Step 229
+Flow Missle Warning Center Launch One 88.33333333333333% transmited on IST
+Flow Missle Warning Center Launch Three 65.83333333333334% transmited on IST
+Finished Time Step 230
+Flow Missle Warning Center Launch One 91.66666666666666% transmited on IST
+Flow Missle Warning Center Launch Three 69.16666666666667% transmited on IST
+Finished Time Step 231
 Flow Missle Warning Center Launch One 94.99999999999999% transmited on IST
-Flow Missle Warning Center Launch Three 81.66666666666667% transmited on IST
-Finished Time Step 233
+Flow Missle Warning Center Launch Three 72.5% transmited on IST
+Finished Time Step 232
 Flow Missle Warning Center Launch One 98.33333333333331% transmited on IST
-Flow Missle Warning Center Launch Three 85.0% transmited on IST
+Flow Missle Warning Center Launch Three 75.83333333333333% transmited on IST
+Finished Time Step 233
+Flow Missle Warning Center Launch One 100% transmited on IST
+Flow Missle Warning Center Launch Three 80.83333333333333% transmited on IST
 Finished Time Step 234
 Flow Missle Warning Center Launch One 100% transmited on IST
-Flow Missle Warning Center Launch Three 90.0% transmited on IST
+Flow Missle Warning Center Launch Three 85.83333333333333% transmited on IST
 Finished Time Step 235
-Flow Missle Warning Center Launch One 100% transmited on IST
-Flow Missle Warning Center Launch Three 95.0% transmited on IST
+Flow Missle Warning Center Launch Three 90.83333333333333% transmited on IST
 Finished Time Step 236
-Flow Missle Warning Center Launch Three 100.0% transmited on IST
-Starting flow continues to monitor event updates Launch Three
-Finished Time Step 237
-Flow Missle Warning Center Launch Three 100% transmited on IST
-Finished Time Step 238
-Finished Time Step 239
-Finished Time Step 240
-Flow continues to monitor event updates Launch Two 5.0% transmited on MARS
-Finished Time Step 241
-Flow Missle Warning Center Launch Two 5.0% transmited on IST
+Flow Missle Warning Center Launch Three 95.83333333333333% transmited on IST
 Flow continues to monitor event updates Launch Two 10.0% transmited on MARS
-Finished Time Step 242
-Flow Missle Warning Center Launch Two 10.0% transmited on IST
-Flow continues to monitor event updates Launch Two 15.0% transmited on MARS
-Finished Time Step 243
-Flow Missle Warning Center Launch Two 15.0% transmited on IST
+Finished Time Step 237
+Flow Missle Warning Center Launch Two 5.0% transmited on IST
+Flow Missle Warning Center Launch Three 100% transmited on IST
 Flow continues to monitor event updates Launch Two 20.0% transmited on MARS
-Finished Time Step 244
-Flow Missle Warning Center Launch Two 20.0% transmited on IST
+Starting flow continues to monitor event updates Launch Three
+Finished Time Step 238
+Flow Missle Warning Center Launch Two 15.0% transmited on IST
+Flow Missle Warning Center Launch Three 100% transmited on IST
 Flow continues to monitor event updates Launch Two 25.0% transmited on MARS
-Finished Time Step 245
-Flow Missle Warning Center Launch Two 25.0% transmited on IST
+Finished Time Step 239
+Flow Missle Warning Center Launch Two 20.0% transmited on IST
 Flow continues to monitor event updates Launch Two 30.0% transmited on MARS
-Finished Time Step 246
-Flow Missle Warning Center Launch Two 30.0% transmited on IST
+Finished Time Step 240
+Flow Missle Warning Center Launch Two 25.0% transmited on IST
 Flow continues to monitor event updates Launch Two 35.0% transmited on MARS
-Flow continues to monitor event updates Launch Three 5.0% transmited on MARS
-Finished Time Step 247
-Flow Missle Warning Center Launch Two 35.0% transmited on IST
-Flow Missle Warning Center Launch Three 5.0% transmited on IST
+Finished Time Step 241
+Flow Missle Warning Center Launch Two 30.0% transmited on IST
 Flow continues to monitor event updates Launch Two 40.0% transmited on MARS
-Flow continues to monitor event updates Launch Three 10.0% transmited on MARS
-Finished Time Step 248
-Flow Missle Warning Center Launch Two 40.0% transmited on IST
-Flow Missle Warning Center Launch Three 10.0% transmited on IST
+Finished Time Step 242
+Flow Missle Warning Center Launch Two 35.0% transmited on IST
 Flow continues to monitor event updates Launch Two 45.0% transmited on MARS
-Flow continues to monitor event updates Launch Three 15.0% transmited on MARS
-Finished Time Step 249
-Flow Missle Warning Center Launch Two 45.0% transmited on IST
-Flow Missle Warning Center Launch Three 15.0% transmited on IST
+Finished Time Step 243
+Flow Missle Warning Center Launch Two 40.0% transmited on IST
 Flow continues to monitor event updates Launch Two 50.0% transmited on MARS
-Flow continues to monitor event updates Launch Three 20.0% transmited on MARS
-Finished Time Step 250
-Flow Missle Warning Center Launch Two 50.0% transmited on IST
-Flow Missle Warning Center Launch Three 20.0% transmited on IST
+Finished Time Step 244
+Flow Missle Warning Center Launch Two 45.0% transmited on IST
 Flow continues to monitor event updates Launch Two 55.0% transmited on MARS
-Flow continues to monitor event updates Launch Three 25.0% transmited on MARS
-Finished Time Step 251
-Flow Missle Warning Center Launch Two 55.0% transmited on IST
-Flow Missle Warning Center Launch Three 25.0% transmited on IST
+Finished Time Step 245
+Flow Missle Warning Center Launch Two 50.0% transmited on IST
 Flow continues to monitor event updates Launch Two 60.0% transmited on MARS
-Flow continues to monitor event updates Launch Three 30.0% transmited on MARS
-Finished Time Step 252
-Flow Missle Warning Center Launch Two 60.0% transmited on IST
-Flow Missle Warning Center Launch Three 30.0% transmited on IST
+Finished Time Step 246
+Flow Missle Warning Center Launch Two 55.0% transmited on IST
 Flow continues to monitor event updates Launch Two 65.0% transmited on MARS
-Flow continues to monitor event updates Launch Three 35.0% transmited on MARS
-Finished Time Step 253
-Flow Missle Warning Center Launch Two 65.0% transmited on IST
-Flow Missle Warning Center Launch Three 35.0% transmited on IST
+Finished Time Step 247
+Flow Missle Warning Center Launch Two 60.0% transmited on IST
 Flow continues to monitor event updates Launch Two 70.0% transmited on MARS
+Flow continues to monitor event updates Launch Three 5.0% transmited on MARS
+Finished Time Step 248
+Flow Missle Warning Center Launch Two 65.0% transmited on IST
+Flow Missle Warning Center Launch Three 5.0% transmited on IST
+Flow continues to monitor event updates Launch Two 75.0% transmited on MARS
+Flow continues to monitor event updates Launch Three 10.0% transmited on MARS
+Finished Time Step 249
+Flow Missle Warning Center Launch Two 70.0% transmited on IST
+Flow Missle Warning Center Launch Three 10.0% transmited on IST
+Flow continues to monitor event updates Launch Two 80.0% transmited on MARS
+Flow continues to monitor event updates Launch Three 15.0% transmited on MARS
+Finished Time Step 250
+Flow Missle Warning Center Launch Two 75.0% transmited on IST
+Flow Missle Warning Center Launch Three 15.0% transmited on IST
+Flow continues to monitor event updates Launch Two 85.0% transmited on MARS
+Flow continues to monitor event updates Launch Three 20.0% transmited on MARS
+Finished Time Step 251
+Flow Missle Warning Center Launch Two 80.0% transmited on IST
+Flow Missle Warning Center Launch Three 20.0% transmited on IST
+Flow continues to monitor event updates Launch Two 90.0% transmited on MARS
+Flow continues to monitor event updates Launch Three 25.0% transmited on MARS
+Finished Time Step 252
+Flow Missle Warning Center Launch Two 85.0% transmited on IST
+Flow Missle Warning Center Launch Three 25.0% transmited on IST
+Flow continues to monitor event updates Launch Two 95.0% transmited on MARS
+Flow continues to monitor event updates Launch Three 30.0% transmited on MARS
+Finished Time Step 253
+Flow Missle Warning Center Launch Two 90.0% transmited on IST
+Flow Missle Warning Center Launch Three 30.0% transmited on IST
+Flow continues to monitor event updates Launch Two 100.0% transmited on MARS
 Flow continues to monitor event updates Launch Three 40.0% transmited on MARS
 Finished Time Step 254
-Flow Missle Warning Center Launch Two 70.0% transmited on IST
-Flow Missle Warning Center Launch Three 40.0% transmited on IST
-Flow continues to monitor event updates Launch Two 75.0% transmited on MARS
-Flow continues to monitor event updates Launch Three 45.0% transmited on MARS
-Finished Time Step 255
-Flow Missle Warning Center Launch Two 75.0% transmited on IST
-Flow Missle Warning Center Launch Three 45.0% transmited on IST
-Flow continues to monitor event updates Launch Two 80.0% transmited on MARS
-Flow continues to monitor event updates Launch Three 50.0% transmited on MARS
-Finished Time Step 256
-Flow Missle Warning Center Launch Two 80.0% transmited on IST
-Flow Missle Warning Center Launch Three 50.0% transmited on IST
-Flow continues to monitor event updates Launch Two 85.0% transmited on MARS
-Flow continues to monitor event updates Launch Three 55.0% transmited on MARS
-Finished Time Step 257
-Flow Missle Warning Center Launch Two 85.0% transmited on IST
-Flow Missle Warning Center Launch Three 55.0% transmited on IST
-Flow continues to monitor event updates Launch Two 90.0% transmited on MARS
-Flow continues to monitor event updates Launch Three 60.0% transmited on MARS
-Finished Time Step 258
-Flow Missle Warning Center Launch Two 90.0% transmited on IST
-Flow Missle Warning Center Launch Three 60.0% transmited on IST
-Flow continues to monitor event updates Launch Two 95.0% transmited on MARS
-Flow continues to monitor event updates Launch Three 65.0% transmited on MARS
-Finished Time Step 259
 Flow Missle Warning Center Launch Two 95.0% transmited on IST
-Flow Missle Warning Center Launch Three 65.0% transmited on IST
-Flow continues to monitor event updates Launch Two 100.0% transmited on MARS
-Flow continues to monitor event updates Launch Three 75.0% transmited on MARS
-Finished Time Step 260
-Flow Missle Warning Center Launch Two 100.0% transmited on IST
-Flow Missle Warning Center Launch Three 75.0% transmited on IST
+Flow Missle Warning Center Launch Three 35.0% transmited on IST
 Flow continues to monitor event updates Launch Two 100% transmited on MARS
-Flow continues to monitor event updates Launch Three 85.0% transmited on MARS
-Finished Time Step 261
+Flow continues to monitor event updates Launch Three 50.0% transmited on MARS
+Finished Time Step 255
+Flow Missle Warning Center Launch Two 100.0% transmited on IST
+Flow Missle Warning Center Launch Three 45.0% transmited on IST
+Flow continues to monitor event updates Launch Three 60.0% transmited on MARS
+Finished Time Step 256
 Flow Missle Warning Center Launch Two 100% transmited on IST
+Flow Missle Warning Center Launch Three 55.0% transmited on IST
+Flow continues to monitor event updates Launch Three 70.0% transmited on MARS
+Finished Time Step 257
+Flow Missle Warning Center Launch Three 65.0% transmited on IST
+Flow continues to monitor event updates Launch Three 80.0% transmited on MARS
+Finished Time Step 258
+Flow Missle Warning Center Launch Three 75.0% transmited on IST
+Flow continues to monitor event updates Launch Three 90.0% transmited on MARS
+Finished Time Step 259
 Flow Missle Warning Center Launch Three 85.0% transmited on IST
-Flow continues to monitor event updates Launch Three 95.0% transmited on MARS
-Finished Time Step 262
+Flow continues to monitor event updates Launch Three 100.0% transmited on MARS
+Finished Time Step 260
 Flow Missle Warning Center Launch Three 95.0% transmited on IST
-Flow continues to monitor event updates Launch Three 100% transmited on MARS
+Flow continues to monitor event updates Launch Three 100.0% transmited on MARS
+Finished Time Step 261
+Flow Missle Warning Center Launch Three 100% transmited on IST
+Finished Time Step 262
+Flow Missle Warning Center Launch Three 100% transmited on IST
 Finished Time Step 263
-Flow Missle Warning Center Launch Three 100% transmited on IST
-Flow continues to monitor event updates Launch Three 100% transmited on MARS
-Finished Time Step 264
-Flow Missle Warning Center Launch Three 100% transmited on IST
-Finished Time Step 265

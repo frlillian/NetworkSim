@@ -10,8 +10,11 @@ Each link in this file contains two critical variables: bandwidth and delay. The
 
 ## Install
 Currently, this app can not be built functionaly for releace. To run the app follow the below instructions:
+0. Have npm, nodejs, python, pip and yarn installed
 1. clone this repo
-2. 
+2. For windows users : '$Set-ExecutionPolicy RemoteSigned'
+3. '$ npm run install'
+4. yarn dev
 
 ### TODOs
 - finish documentation (1/2 day) - could do more, but there is some
