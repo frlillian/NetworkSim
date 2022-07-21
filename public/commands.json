@@ -16,5 +16,12 @@
             "vignette": "FightingPNT",
             "clock": 0
         }
-    }
+    },
+    "vignettes": [
+        "Attack_on_SIPRNET",
+        "FightingPNT",
+        "MissleThreat",
+        "Repairs_SIPRNET",
+        "Space_Weather_Monitoring"
+    ]
 }

@@ -1,0 +1,17 @@
+{
+    "name": "Attack_on_SIPRNET",
+    "finishedFlows": 0,
+    "flows": [
+        {
+            "name": "newFlow",
+            "startCondition": "clock",
+            "clock": 0,
+            "path": [
+                "SIRPRNET",
+                "SIRPRNET",
+                "EGS",
+                "EGS"
+            ]
+        }
+    ]
+}

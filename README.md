@@ -2,7 +2,7 @@
 This script alows users to simply simulate a hypethetical netork. THIS IS A SIMPLE TOOL AND SHOULD NOT BE CONSIDERED AN ACCURATE SIMULATION OF REAL CONDITIONS. To acomplish this, it uses three kinds of files. 
 First, the Network file. This file is responsable for creating a list of links that the network in question contains. These links may have an arbutary number of hosts connected to them (so they can support simulating networks on to themselves, rather than physical links). The nodes category is for organization an is not used in this instance of the script.
 Second, the vignettes files. These files describe a single "vignette" and must be named "\<vignette name\>.json". A vignette is a set of logicaly connected data flows. A data flow is simulated data moving from one point to another along, connected links. For example and vignette might be "Missle Threat", consiting of a data flow from the RTS Comms link to EGS to FORGE RGS and some other flow that starts when EGS is done transmiting. The ordered list of links a flow takes, is called it's path.
-Third, the Commands file. This file lists commands that order the start of vignettes at spesific times in the simulation. For example, a Commands file might order three Missle Threat vignettes to start at times 0, 20, and 40, and a Fighting PNT vignette at time 30.
+Third, the Commands file. This file lists commands that order the start of vignettes at spesific times in the simulation. For example, a Commands file might order three Missle Threat vignettes to start at times 0, 20, and 40, and a Fighting PNT vignette at time 30. The command file also contains a list of vignettes that are in use, this list failing to update is a common source of bugs. Insure that all vignettes have there file name sans .json in this list.
 These three files come together to allow the user to determin how exactly data is transmited during the simulation.
 
 ### The Network File
@@ -32,3 +32,5 @@ Currently, this app can not be built functionaly for releace. To run the app fol
 - Implement mechine learning / fuzzing (3 weeks)
 
 - Save state to file and load on reload, so it doen't boot user on save
+
+- Add a delete button for vignettes (2 hours)

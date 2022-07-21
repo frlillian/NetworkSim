@@ -14,6 +14,10 @@ contextBridge.exposeInMainWorld(
     saveFile: (file, data) => {
       try { fs.writeFileSync(file, data); }
       catch(e) { alert(e); }
+    },    
+    deleteFile: (file) => {
+      try { fs.unlinkSync(file); }
+      catch(e) { alert(e); }
     },
     pyRun: (file, args) => {
       let pyshell = new PythonShell(file, {args: args});

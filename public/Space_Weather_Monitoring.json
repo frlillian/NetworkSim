@@ -1,13 +1,14 @@
 {
-    "name": "NEWThreat",
+    "name": "Space_Weather_Monitoring",
     "finishedFlows": 0,
     "flows": [
         {
+            "name": "newFlow",
             "startCondition": "clock",
-            "name": "test",
             "clock": 0,
             "path": [
-                "EGS"
+                "EGS",
+                "FORGE RGS"
             ]
         }
     ]

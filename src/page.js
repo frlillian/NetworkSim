@@ -45,10 +45,10 @@ function Page() {
   async function refresh() {
     const c = await (read("./commands.json"))
     setCommands(c)
-    Object.keys(c.commands).forEach(
-      async function(command) {
-        if (!Object.keys(vignettes).includes(c.commands[command].vignette) && window.api.exists("./public/" + c.commands[command].vignette + ".json")) {
-          vignettes[c.commands[command].vignette] = await read("./" + c.commands[command].vignette + ".json")
+    c.vignettes.forEach(
+      async function(vignette) {
+        if (!Object.keys(vignettes).includes(vignette) && window.api.exists("./public/" + vignette + ".json")) {
+          vignettes[vignette] = await read("./" + vignette + ".json")
         }
     })
     setNetwork(await read("./network.json"))
@@ -72,7 +72,7 @@ function Page() {
     }
   })
 
-  runButton.addEventListener("click", function(e){
+  function run() {
     let args = []
     Object.keys(vignettes).forEach(
       function(vignette) {
@@ -80,18 +80,23 @@ function Page() {
       }
     )
     window.api.pyRun('./public/run.py', args)
-  })
 
-  saveButton.addEventListener("click", function(e){
-    write(commands, "./public/commands.json")
+  }
+  function save() {
+    console.log(vignettes)
     Object.keys(vignettes).forEach(
       function(vignette) {
+        console.log(vignette)
         // if (window.api.exists("./public/" + vignette + ".json")) {
-          write(vignettes[vignette], "./public/" + vignette + ".json")
+        write(vignettes[vignette], "./public/" + vignette + ".json")
         // }
+        if (!commands.vignettes.includes(vignette)) {
+          commands.vignettes.push(vignette)
+        }
     })
+    write(commands, "./public/commands.json")
     write(network, "./public/network.json")
-  })
+  }
 
   function vignetteChange(e) {
     if (e.target.id == 'newVignette') {
@@ -103,8 +108,23 @@ function Page() {
   }
 
   function vignetteTabMouseDown(e) {
+    console.log(vignettes)
     setBlink(0)
   }
+
+  function vignetteDelete(e) {
+    delete vignettes[vignette["name"]]
+    window.api.deleteFile("./public/" + vignette["name"] + ".json")
+    const index = commands.vignettes.indexOf(vignette["name"]);
+    if (index == -1) {
+      console.log("vignette was not in the commands.json vignette list?")
+    } else {
+      commands.vignettes.splice(index, 1)
+      write(commands, "./public/commands.json")
+    }
+    setVignette({name: "", finishedFlows: 0, flows: [{name: "newFlow", startCondition: "clock", clock: 0, path: []}]})
+  }
+
   return (
     <div id='page'>
       {Object.keys(network).length > 0 && (
@@ -125,9 +145,9 @@ function Page() {
             <div id = 'container'>
               <div id = 'left'>
                 {Object.keys(vignettes).map((key) => {
-                  return <rux-button id={key} onMouseDown={vignetteTabMouseDown} onClick={vignetteChange}>{key}</rux-button>
+                  return <rux-button id={key} onMouseDown={vignetteTabMouseDown} onMouseUp={vignetteChange}>{key}</rux-button>
                 })}
-                <rux-button id='newVignette' onMouseDown={vignetteTabMouseDown} onClick={vignetteChange}>New Vignette</rux-button>
+                <rux-button id='newVignette' onMouseDown={vignetteTabMouseDown} onMouseUp={vignetteChange}>New Vignette</rux-button>
               </div>
               {blink == 1 &&
                 <div id = 'right'>
@@ -135,15 +155,16 @@ function Page() {
                   value = {vignette}
                   onChange = {json => {
                     delete vignettes[vignette["name"]]
+                    delete vignettes[json.name]
                     setVignettes(prevState => ({
                       ...prevState,
                       [json.name]: json
                     }))
                     setVignette(json)
-                    
                     }
                   }
                 />
+                <rux-button id='vignetteDelete' onClick={vignetteDelete}>Delete Vignette</rux-button>
                 </div>
               }
             </div>
@@ -159,6 +180,14 @@ function Page() {
           }
         </div>
       )}
+      <div id="buttons">
+        <rux-button id="run" onClick={run}>
+          Run Simulation
+        </rux-button>
+        <rux-button id="save" onClick={save}>
+          Save
+        </rux-button>
+      </div>
     </div>
   )
 }

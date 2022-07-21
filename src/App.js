@@ -38,14 +38,6 @@ function App() {
           </rux-tab>
         </rux-tabs>
         <Page></Page>
-        <div id="buttons">
-        <rux-button id="run">
-          Run Simulation
-        </rux-button>
-        <rux-button id="save">
-          Save
-        </rux-button>
-        </div>
     </body>
     </div>
   );
