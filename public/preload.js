@@ -8,13 +8,16 @@ const {PythonShell} = require('python-shell');
 contextBridge.exposeInMainWorld(
   "api", {
     exists: (file) => {
-      console.log(window.location.pathname)
       return fs.existsSync(file)
     },
     saveFile: (file, data) => {
       try { fs.writeFileSync(file, data); }
       catch(e) { alert(e); }
     },    
+    readFile: (file) => {
+      try { return fs.readFileSync(file, {encoding:'utf8', flag:'r'}); }
+      catch(e) { alert(e); }
+    },
     deleteFile: (file) => {
       try { fs.unlinkSync(file); }
       catch(e) { alert(e); }

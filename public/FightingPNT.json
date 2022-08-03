@@ -54,11 +54,26 @@
             "link": 2,
             "flow": "Antenna 1",
             "path": [
-                "EGS",
-                "EGS",
-                "EGS",
-                "EGS",
-                "EGS"
+                [
+                    "EGS",
+                    10
+                ],
+                [
+                    "EGS",
+                    10
+                ],
+                [
+                    "EGS",
+                    10
+                ],
+                [
+                    "EGS",
+                    10
+                ],
+                [
+                    "EGS",
+                    10
+                ]
             ]
         }
     ]

@@ -36,6 +36,12 @@ function App() {
           <rux-tab id="Network-Tab" class="hydrated" role="tab">
             Network
           </rux-tab>
+          <rux-tab id="Log-Tab" class="hydrated" role="tab">
+            Log
+          </rux-tab>
+          <rux-tab id="Plots-Tab" class="hydrated" role="tab">
+            Plots
+          </rux-tab>
         </rux-tabs>
         <Page></Page>
     </body>

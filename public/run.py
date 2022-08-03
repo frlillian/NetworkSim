@@ -37,11 +37,6 @@ for link in network["links"]:
 f = open(COMMAND_FILE)
 commands = json.load(f)["commands"]
 
-# Error checking commands
-for command in commands:
-  if "clock" not in commands[command] or "vignette" not in commands[command]:
-    ERROR = "ERROR!!! " + command + " command does not have the clock or vignette key. Every command must have these"
-
 # Importing Vignettes and error checking
 vignettes = {}
 for file in VIGNETTE_FILES:
@@ -52,6 +47,22 @@ for file in VIGNETTE_FILES:
     ERROR = "ERROR!!! " + str(file) + " file does not have the name, finishedFlows, or flows keys. Every vignette must have these"
   if vignette["name"] + ".json" != str(file).split('/')[-1]:
     ERROR = "ERROR!!! " + str(file) + " file does not have the correct name in its name feild. It must match the name of the file"
+  for flow in vignette["flows"]:
+    if len(flow["path"]) <= 0:
+      ERROR = "ERROR!!! " + str(file) + " file contains a flow ("+flow["name"]+") that has an empty path"
+    for link in flow["path"]:
+      if isinstance(link, list):
+        link = link[0]
+      if link not in network["links"]:
+        ERROR = "ERROR!!! " + str(file) + " file references a link ("+link+") in flow ("+flow["name"]+")that does not exist in the network file."
+
+# Error checking commands
+for command in commands:
+  if "clock" not in commands[command] or "vignette" not in commands[command]:
+    ERROR = "ERROR!!! " + command + " command does not have the clock or vignette key. Every command must have these"
+  if commands[command]["vignette"] not in vignettes:
+    ERROR = "ERROR!!! " + command + " command references a vignette that does not exist"
+
 
 # Helping Funtions
 
@@ -95,10 +106,14 @@ def flowCheck():
               "link": 0,
               "clockAtLink": 0,
               "path": flow["path"],
-              "percentTransmited": 0,
+              "amountTransmited": 0,
               "doneTransmiting": False
             }
-          (network["links"][flow["path"][0]])["numFlows"] = (network["links"][flow["path"][0]])["numFlows"] + 1
+          # increasing the number of flows counted on the network object for the first link in this flow path
+          if isinstance(flow["path"][0], str):
+            (network["links"][flow["path"][0]])["numFlows"] = (network["links"][flow["path"][0]])["numFlows"] + 1
+          if isinstance(flow["path"][0], list):
+            (network["links"][flow["path"][0][0]])["numFlows"] = (network["links"][flow["path"][0][0]])["numFlows"] + 1
       if (flow["startCondition"] == "flow link"):
         if (flow["flow"] + v in activeFlows.keys()):
           # checking to see if the flow spawns this flow is done with the link we assined
@@ -111,10 +126,13 @@ def flowCheck():
                 "link": 0,
                 "clockAtLink": 0,
                 "path": flow["path"],
-                "percentTransmited": 0,
+                "amountTransmited": 0,
                 "doneTransmiting": False
               }
-            network["links"][flow["path"][0]]["numFlows"] = network["links"][flow["path"][0]]["numFlows"] + 1
+            if isinstance(flow["path"][0], str):
+              (network["links"][flow["path"][0]])["numFlows"] = (network["links"][flow["path"][0]])["numFlows"] + 1
+            if isinstance(flow["path"][0], list):
+              (network["links"][flow["path"][0][0]])["numFlows"] = (network["links"][flow["path"][0][0]])["numFlows"] + 1
 
 def updatePlot():
   global x
@@ -134,17 +152,24 @@ def clockStep():
   global finishedVignettes
 
   for flow in list(activeFlows):
-    link = network["links"][activeFlows[flow]["path"][activeFlows[flow]["link"]]]
+    linkData = activeFlows[flow]["path"][activeFlows[flow]["link"]]
+    if isinstance(linkData, str):
+      linkName = linkData
+      datasize = 100
+    if isinstance(linkData, list):
+      datasize = linkData[1]
+      linkName = linkData[0]
+    link = network["links"][linkName]
     activeFlows[flow]["clockAtLink"] = activeFlows[flow]["clockAtLink"] + 1
 
     # checking to see if we have waited the full delay clock yet
     if activeFlows[flow]["clockAtLink"] >= link["delay"]:
       flowsOnLink = link["numFlows"]
 
-      # here is where we modify the percentTransmited based on the total bandwidth and number of flows of the link
+      # here is where we modify the amountTransmited based on the total bandwidth and number of flows of the link
       if flowsOnLink != 0:
-        activeFlows[flow]["percentTransmited"] = activeFlows[flow]["percentTransmited"] + (link["bandwidth"] / flowsOnLink)
-      print("Flow " + str(flow) + " " + str(min(activeFlows[flow]["percentTransmited"], 100)) + "% transmited on " + str(activeFlows[flow]["path"][activeFlows[flow]["link"]]))
+        activeFlows[flow]["amountTransmited"] = activeFlows[flow]["amountTransmited"] + (link["bandwidth"] / flowsOnLink)
+      print("Flow " + str(flow) + " " + str(min(activeFlows[flow]["amountTransmited"], datasize)) + " transmited on " + linkName)
       # if we have finished transmiting last step, then we resolve
       if activeFlows[flow]["doneTransmiting"]:
         path = activeFlows[flow]["path"]
@@ -158,8 +183,15 @@ def clockStep():
               del activeFlows[flow]
             else:
               activeFlows[flow]["link"] = activeFlows[flow]["link"] + 1
-              network["links"][activeFlows[flow]["path"][activeFlows[flow]["link"]]]["numFlows"] = network["links"][activeFlows[flow]["path"][activeFlows[flow]["link"]]]["numFlows"] + 1
-              activeFlows[flow]["percentTransmited"] = 0
+              linkData = activeFlows[flow]["path"][activeFlows[flow]["link"]]
+              if isinstance(linkData, str):
+                linkName = linkData
+                datasize = 100
+              if isinstance(linkData, list):
+                datasize = linkData[1]
+                linkName = linkData[0]
+              network["links"][linkName]["numFlows"] = network["links"][linkName]["numFlows"] + 1
+              activeFlows[flow]["amountTransmited"] = 0
               activeFlows[flow]["clockAtLink"] = 0
               activeFlows[flow]["doneTransmiting"] = False
             break
@@ -167,8 +199,8 @@ def clockStep():
       # we do this after the above if statment because we must give connecting flows
       # a clock step to notice we are done. Call it processing clock at the node.
       if flow in activeFlows:
-        if activeFlows[flow]["percentTransmited"] >= 100:
-          network["links"][activeFlows[flow]["path"][activeFlows[flow]["link"]]]["numFlows"] = network["links"][activeFlows[flow]["path"][activeFlows[flow]["link"]]]["numFlows"] - 1
+        if activeFlows[flow]["amountTransmited"] >= datasize:
+          network["links"][linkName]["numFlows"] = network["links"][linkName]["numFlows"] - 1
           activeFlows[flow]["doneTransmiting"] = True
   commandCheck()
   flowCheck()
@@ -182,6 +214,7 @@ with open('log.txt', 'w') as f:
     if ERROR != "":
       done = True
       print(ERROR)
+      break
     clockStep()
     updatePlot()
     clock = clock + 1
@@ -189,12 +222,14 @@ with open('log.txt', 'w') as f:
       time.sleep(1)
     if len(activeFlows) == 0 and len(commands) == finishedVignettes and triggeredCommands == len(commands):
       done = True
+    if clock > 500:
+      done = True
 
   for link in network["links"]:
     plt.plot(x, y[link])
     plt.xlabel('time')
     plt.ylabel('number of transmitions')
-    plt.savefig('./Plots/' + link + '.png')
+    plt.savefig('./public/Plots/' + link + '.png')
     plt.clf()
 
   sys.stdout.flush()

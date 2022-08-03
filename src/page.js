@@ -24,8 +24,9 @@ function Page() {
   const [vignettes, setVignettes] = useState({})
   const [vignette, setVignette] = useState({})
   const [blink, setBlink] = useState()
+  const [log, setLog] = useState([])
 
-  function read(file, setfunction) {
+  function readJSON(file, setfunction) {
     return fetch(file)
     .then(response => {
         if (!response.ok) {
@@ -38,20 +39,29 @@ function Page() {
     })
   }
 
+  function readLog(file) {
+    if (window.api.exists(file)) {
+      return window.api.readFile(file)
+    } else {
+      return ["No Log File"]
+    }
+  }
+
   let write = (data, file) => {
     window.api.saveFile(file, JSON.stringify(data, null, 4))
   };
 
   async function refresh() {
-    const c = await (read("./commands.json"))
+    const c = await (readJSON("./commands.json"))
     setCommands(c)
     c.vignettes.forEach(
       async function(vignette) {
         if (!Object.keys(vignettes).includes(vignette) && window.api.exists("./public/" + vignette + ".json")) {
-          vignettes[vignette] = await read("./" + vignette + ".json")
+          vignettes[vignette] = await readJSON("./" + vignette + ".json")
         }
     })
-    setNetwork(await read("./network.json"))
+    setNetwork(await readJSON("./network.json"))
+    setLog((await readLog("./log.txt")).split('\n'))
   }
 
   useEffect(() => {
@@ -72,7 +82,7 @@ function Page() {
     }
   })
 
-  function run() {
+  async function run() {
     let args = []
     Object.keys(vignettes).forEach(
       function(vignette) {
@@ -80,8 +90,9 @@ function Page() {
       }
     )
     window.api.pyRun('./public/run.py', args)
-
+    setLog((await readLog("./log.txt")).split('\n'))
   }
+  
   function save() {
     console.log(vignettes)
     Object.keys(vignettes).forEach(
@@ -113,16 +124,19 @@ function Page() {
   }
 
   function vignetteDelete(e) {
-    delete vignettes[vignette["name"]]
-    window.api.deleteFile("./public/" + vignette["name"] + ".json")
-    const index = commands.vignettes.indexOf(vignette["name"]);
-    if (index == -1) {
-      console.log("vignette was not in the commands.json vignette list?")
+    if (e.target.id == 'newVignette') {
     } else {
-      commands.vignettes.splice(index, 1)
-      write(commands, "./public/commands.json")
+      delete vignettes[vignette["name"]]
+      window.api.deleteFile("./public/" + vignette["name"] + ".json")
+      const index = commands.vignettes.indexOf(vignette["name"]);
+      if (index == -1) {
+        console.log("vignette was not in the commands.json vignette list?")
+      } else {
+        commands.vignettes.splice(index, 1)
+        write(commands, "./public/commands.json")
+      }
+      setVignette({name: "", finishedFlows: 0, flows: [{name: "newFlow", startCondition: "clock", clock: 0, path: []}]})  
     }
-    setVignette({name: "", finishedFlows: 0, flows: [{name: "newFlow", startCondition: "clock", clock: 0, path: []}]})
   }
 
   return (
@@ -177,6 +191,26 @@ function Page() {
               }
             }
             />
+          }
+          {selected == 3 &&
+            <div>
+              <div id="log">
+                {log.map((line) => {
+                  return <p>{line}</p>
+                })}
+              </div>
+            </div>
+          }
+          {selected == 4 &&
+            <div>
+              {Object.keys(network.links).map((link) => {
+                return (
+                  <div>
+                    <p>{link}</p>
+                    <img src={"./Plots/" + link + ".png"}/>
+                  </div>
+              )})}
+            </div>
           }
         </div>
       )}

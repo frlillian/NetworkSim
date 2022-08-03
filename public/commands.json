@@ -1,19 +1,19 @@
 {
     "commands": {
-        " Launch One": {
+        " Launch Three": {
             "vignette": "MissleThreat",
             "clock": 50
         },
-        " Launch Two": {
-            "vignette": "MissleThreat",
-            "clock": 60
-        },
-        " Launch Three": {
-            "vignette": "MissleThreat",
-            "clock": 70
-        },
         " PNT": {
             "vignette": "FightingPNT",
+            "clock": 0
+        },
+        "Repairs": {
+            "vignette": "Repairs_SIPRNET",
+            "clock": 0
+        },
+        "Attack": {
+            "vignette": "Attack_on_SIPRNET",
             "clock": 0
         }
     },

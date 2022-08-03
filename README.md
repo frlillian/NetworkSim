@@ -8,6 +8,12 @@ These three files come together to allow the user to determin how exactly data i
 ### The Network File
 Each link in this file contains two critical variables: bandwidth and delay. The delay of a link is how long it takes for data to be loaded on to the wire (or it can be thought of as the classical networking delay). Bandwidth is the total bandwidth of the link. After waiting the delay time, a packet is trasmited using a proportion of the bandwith that is alocated to it (1/2 if there is one other packet on the link, 1/3 if two others, and so on). While not a perfect representation of network behavor, it is a heuristic. Each time unit, it will add it's proportion of the bandwidth to its transmited total. Once this number reaches 100 (currently all packets are 100 in size, but variable packet sizes might come in a future updata, if you need to have variable sizes on messages, consider transmiting mutiple times on the same link to simulate a larger message) it will be considered sent and the flow will move on to sending the next link in its path.
 
+### Results
+The results of each run can be seen in the plots folder and the log.txt file that both live in the root directory
+
+### Errors
+If you run the simulation and no graphs are produced, there are two locations that might contain helpful information. First, log.txt in the root folder. Errors that appear here will be problems with malformed json files. The second is the debuger window that opens when the app is launched. Errors that are logged here, are generaly deeper and might need to be adressed by a maintainer.
+
 ## Install
 Currently, this app can not be built functionaly for releace. To run the app follow the below instructions:
 0. Have npm, nodejs, python, pip and yarn installed
@@ -17,20 +23,10 @@ Currently, this app can not be built functionaly for releace. To run the app fol
 4. yarn dev
 
 ### TODOs
-- finish documentation (1/2 day) - could do more, but there is some
+- add prioirty funtionality (1/2 day) - not how commercial networks deal with trafic, do more research on millitary network functions
 
-- input checking (1/2 day) - could do more, but there is some
-
-- Error checking and out puts (1/2 day)
-
-- add prioirty funtionality (1/2 day)
-
-- add variable message length (1/2 day)
-
-- Add output filtering by flow/command (1/3 day)
+- Add output filtering by flow/command (1/3 day) - is this even something people want?
 
 - Implement mechine learning / fuzzing (3 weeks)
 
 - Save state to file and load on reload, so it doen't boot user on save
-
-- Add a delete button for vignettes (2 hours)

@@ -7,8 +7,8 @@
             "startCondition": "clock",
             "clock": 0,
             "path": [
-                "SIRPRNET",
-                "SIRPRNET",
+                "SIPRNET",
+                "SIPRNET",
                 "EGS",
                 "EGS"
             ]
